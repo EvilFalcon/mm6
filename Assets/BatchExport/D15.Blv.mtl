@@ -1,0 +1,305 @@
+# Model MTL from "d15.dat" map from MM6.
+	
+newmtl t3wbstbr
+	map_Ka D15.Blv.textures/T3wbstbr.bmp
+	map_Kd D15.Blv.textures/T3wbstbr.bmp
+
+newmtl _portal_
+	map_Tr D15.Blv.textures/_Portal_.png
+	map_d D15.Blv.textures/_Portal_.png
+	map_Ka D15.Blv.textures/_Portal_.png
+	map_Kd D15.Blv.textures/_Portal_.png
+	
+newmtl d2ceil1
+	map_Ka D15.Blv.textures/D2Ceil1.bmp
+	map_Kd D15.Blv.textures/D2Ceil1.bmp
+	
+newmtl t3wbstbd
+	map_Ka D15.Blv.textures/T3WBSTBD.bmp
+	map_Kd D15.Blv.textures/T3WBSTBD.bmp
+	
+newmtl d2flor3
+	map_Ka D15.Blv.textures/D2flor3.bmp
+	map_Kd D15.Blv.textures/D2flor3.bmp
+	
+newmtl t3wbstbl
+	map_Ka D15.Blv.textures/T3wbstbl.bmp
+	map_Kd D15.Blv.textures/T3wbstbl.bmp
+	
+newmtl bemsh16c
+	map_Ka D15.Blv.textures/BemSH16c.bmp
+	map_Kd D15.Blv.textures/BemSH16c.bmp
+	
+newmtl cb1frnt
+	map_Ka D15.Blv.textures/Cb1frnt.bmp
+	map_Kd D15.Blv.textures/Cb1frnt.bmp
+	
+newmtl bemstart
+	map_Ka D15.Blv.textures/BemStarT.bmp
+	map_Kd D15.Blv.textures/BemStarT.bmp
+	
+newmtl orflr32b
+	map_Ka D15.Blv.textures/OrFlr32B.bmp
+	map_Kd D15.Blv.textures/OrFlr32B.bmp
+	
+newmtl bemob1b
+	map_Ka D15.Blv.textures/BemOB1b.bmp
+	map_Kd D15.Blv.textures/BemOB1b.bmp
+	
+newmtl orflr132
+	map_Ka D15.Blv.textures/OrFlr132.bmp
+	map_Kd D15.Blv.textures/OrFlr132.bmp
+	
+newmtl orair32:i
+	d 0.3
+	Tr 0.7
+	map_Ka D15.Blv.textures/OrAir32.bmp
+	map_Kd D15.Blv.textures/OrAir32.bmp
+	
+newmtl chf16bdk
+	map_Ka D15.Blv.textures/CHF16BDK.bmp
+	map_Kd D15.Blv.textures/CHF16BDK.bmp
+	
+newmtl cr1ptrn
+	map_Ka D15.Blv.textures/cr1ptrn.bmp
+	map_Kd D15.Blv.textures/cr1ptrn.bmp
+	
+newmtl cb1top1
+	map_Ka D15.Blv.textures/Cb1TOP1.bmp
+	map_Kd D15.Blv.textures/Cb1TOP1.bmp
+	
+newmtl cr1frnt
+	map_Ka D15.Blv.textures/cr1frnt.bmp
+	map_Kd D15.Blv.textures/cr1frnt.bmp
+	
+newmtl cb1side1
+	map_Ka D15.Blv.textures/Cb1SIDE1.bmp
+	map_Kd D15.Blv.textures/Cb1SIDE1.bmp
+	
+newmtl cr1seat
+	map_Ka D15.Blv.textures/cr1seat.bmp
+	map_Kd D15.Blv.textures/cr1seat.bmp
+	
+newmtl orfyrrf
+	map_Ka D15.Blv.textures/OrFyrRF.bmp
+	map_Kd D15.Blv.textures/OrFyrRF.bmp
+	
+newmtl t3wbltl
+	map_Ka D15.Blv.textures/T3WBLTL.bmp
+	map_Kd D15.Blv.textures/T3WBLTL.bmp
+	
+newmtl t3wbltr
+	map_Ka D15.Blv.textures/T3wbltr.bmp
+	map_Kd D15.Blv.textures/T3wbltr.bmp
+	
+newmtl t3wbltd
+	map_Ka D15.Blv.textures/T3WBLTD.bmp
+	map_Kd D15.Blv.textures/T3WBLTD.bmp
+	
+newmtl d8dord
+	map_Ka D15.Blv.textures/D8dorD.bmp
+	map_Kd D15.Blv.textures/D8dorD.bmp
+	
+newmtl t3t6
+	map_Ka D15.Blv.textures/T3T6.bmp
+	map_Kd D15.Blv.textures/T3T6.bmp
+	
+newmtl bemtila
+	map_Ka D15.Blv.textures/BemTilA.bmp
+	map_Kd D15.Blv.textures/BemTilA.bmp
+	
+newmtl bemhwal
+	map_Ka D15.Blv.textures/BemHwal.bmp
+	map_Kd D15.Blv.textures/BemHwal.bmp
+	
+newmtl d8dorf
+	map_Ka D15.Blv.textures/D8dorF.bmp
+	map_Kd D15.Blv.textures/D8dorF.bmp
+	
+newmtl bemh
+	map_Ka D15.Blv.textures/BemH.bmp
+	map_Kd D15.Blv.textures/BemH.bmp
+	
+newmtl d1sbpa
+	map_Ka D15.Blv.textures/d1sbpA.bmp
+	map_Kd D15.Blv.textures/d1sbpA.bmp
+	
+newmtl bemdk3
+	map_Ka D15.Blv.textures/BEMDK3.bmp
+	map_Kd D15.Blv.textures/BEMDK3.bmp
+	
+newmtl bemdk4
+	map_Ka D15.Blv.textures/BEMDK4.bmp
+	map_Kd D15.Blv.textures/BEMDK4.bmp
+	
+newmtl t3wspp
+	map_Ka D15.Blv.textures/T3wspp.bmp
+	map_Kd D15.Blv.textures/T3wspp.bmp
+	
+newmtl bemdk2
+	map_Ka D15.Blv.textures/BEMDK2.bmp
+	map_Kd D15.Blv.textures/BEMDK2.bmp
+	
+newmtl orair32
+	map_Ka D15.Blv.textures/OrAir32.bmp
+	map_Kd D15.Blv.textures/OrAir32.bmp
+	
+newmtl bemsv16b
+	map_Ka D15.Blv.textures/BemSV16b.bmp
+	map_Kd D15.Blv.textures/BemSV16b.bmp
+	
+newmtl bemh32a
+	map_Ka D15.Blv.textures/BemH32a.bmp
+	map_Kd D15.Blv.textures/BemH32a.bmp
+	
+newmtl bemob2
+	map_Ka D15.Blv.textures/BemOB2.bmp
+	map_Kd D15.Blv.textures/BemOB2.bmp
+	
+newmtl bemh32b
+	map_Ka D15.Blv.textures/BemH32b.bmp
+	map_Kd D15.Blv.textures/BemH32b.bmp
+	
+newmtl ch1side
+	map_Ka D15.Blv.textures/ch1side.bmp
+	map_Kd D15.Blv.textures/ch1side.bmp
+	
+newmtl ch1top
+	map_Ka D15.Blv.textures/ch1top.bmp
+	map_Kd D15.Blv.textures/ch1top.bmp
+	
+newmtl ch1frnt
+	map_Ka D15.Blv.textures/ch1frnt.bmp
+	map_Kd D15.Blv.textures/ch1frnt.bmp
+	
+newmtl bemob1
+	map_Ka D15.Blv.textures/BemOb1.bmp
+	map_Kd D15.Blv.textures/BemOb1.bmp
+	
+newmtl t3wpf
+	map_Ka D15.Blv.textures/T3WPF.bmp
+	map_Kd D15.Blv.textures/T3WPF.bmp
+	
+newmtl t3wpg
+	map_Ka D15.Blv.textures/T3WPG.bmp
+	map_Kd D15.Blv.textures/T3WPG.bmp
+	
+newmtl d2wlbctr
+	map_Ka D15.Blv.textures/D2WlBCtr.bmp
+	map_Kd D15.Blv.textures/D2WlBCtr.bmp
+	
+newmtl d2flor1
+	map_Ka D15.Blv.textures/D2flor1.bmp
+	map_Kd D15.Blv.textures/D2flor1.bmp
+	
+newmtl t3wsptr
+	map_Ka D15.Blv.textures/T3wsptr.bmp
+	map_Kd D15.Blv.textures/T3wsptr.bmp
+	
+newmtl t3wsptl
+	map_Ka D15.Blv.textures/T3wsptl.bmp
+	map_Kd D15.Blv.textures/T3wsptl.bmp
+	
+newmtl ch1bkre
+	map_Ka D15.Blv.textures/ch1bkRE.bmp
+	map_Kd D15.Blv.textures/ch1bkRE.bmp
+	
+newmtl ch1bkle
+	map_Ka D15.Blv.textures/ch1BkLE.bmp
+	map_Kd D15.Blv.textures/ch1BkLE.bmp
+	
+newmtl ch1bakb
+	map_Ka D15.Blv.textures/ch1bakB.bmp
+	map_Kd D15.Blv.textures/ch1bakB.bmp
+	
+newmtl ch1frle
+	map_Ka D15.Blv.textures/ch1frLE.bmp
+	map_Kd D15.Blv.textures/ch1frLE.bmp
+	
+newmtl ch1topre
+	map_Ka D15.Blv.textures/Ch1topRE.bmp
+	map_Kd D15.Blv.textures/Ch1topRE.bmp
+	
+newmtl ch1frntb
+	map_Ka D15.Blv.textures/ch1frntB.bmp
+	map_Kd D15.Blv.textures/ch1frntB.bmp
+	
+newmtl ch1topb
+	map_Ka D15.Blv.textures/Ch1topB.bmp
+	map_Kd D15.Blv.textures/Ch1topB.bmp
+	
+newmtl ch1tople
+	map_Ka D15.Blv.textures/ch1topLE.bmp
+	map_Kd D15.Blv.textures/ch1topLE.bmp
+	
+newmtl t3d2a
+	map_Ka D15.Blv.textures/T3D2A.bmp
+	map_Kd D15.Blv.textures/T3D2A.bmp
+	
+newmtl t3d2b
+	map_Ka D15.Blv.textures/T3D2B.bmp
+	map_Kd D15.Blv.textures/T3D2B.bmp
+	
+newmtl t3wbltbd
+	map_Ka D15.Blv.textures/T3WBLTBD.bmp
+	map_Kd D15.Blv.textures/T3WBLTBD.bmp
+	
+newmtl t3wbltbl
+	map_Ka D15.Blv.textures/T3wbltbl.bmp
+	map_Kd D15.Blv.textures/T3wbltbl.bmp
+	
+newmtl bemv32b
+	map_Ka D15.Blv.textures/BemV32b.bmp
+	map_Kd D15.Blv.textures/BemV32b.bmp
+	
+newmtl t3wbltbr
+	map_Ka D15.Blv.textures/T3wbltbr.bmp
+	map_Kd D15.Blv.textures/T3wbltbr.bmp
+	
+newmtl bemsv32a
+	map_Ka D15.Blv.textures/BemSV32a.bmp
+	map_Kd D15.Blv.textures/BemSV32a.bmp
+	
+newmtl bemsh32a
+	map_Ka D15.Blv.textures/BemSH32a.bmp
+	map_Kd D15.Blv.textures/BemSH32a.bmp
+	
+newmtl bd1ftbrsd
+	map_Ka D15.Blv.textures/bd1ftbrsd.bmp
+	map_Kd D15.Blv.textures/bd1ftbrsd.bmp
+	
+newmtl bd1rail
+	map_Ka D15.Blv.textures/bd1rail.bmp
+	map_Kd D15.Blv.textures/bd1rail.bmp
+	
+newmtl cbedsqr
+	map_Ka D15.Blv.textures/Cbedsqr.bmp
+	map_Kd D15.Blv.textures/Cbedsqr.bmp
+	
+newmtl bd1hdbrs
+	map_Ka D15.Blv.textures/bd1hdbrS.bmp
+	map_Kd D15.Blv.textures/bd1hdbrS.bmp
+	
+newmtl cbm16b
+	map_Ka D15.Blv.textures/CBM16B.bmp
+	map_Kd D15.Blv.textures/CBM16B.bmp
+	
+newmtl d2flor2
+	map_Ka D15.Blv.textures/D2flor2.bmp
+	map_Kd D15.Blv.textures/D2flor2.bmp
+	
+newmtl cbfeam9
+	map_Ka D15.Blv.textures/Cbfeam9.bmp
+	map_Kd D15.Blv.textures/Cbfeam9.bmp
+	
+newmtl oceil
+	map_Ka D15.Blv.textures/OCeil.bmp
+	map_Kd D15.Blv.textures/OCeil.bmp
+	
+newmtl cedsqrdk
+	map_Ka D15.Blv.textures/CEDSQRDK.bmp
+	map_Kd D15.Blv.textures/CEDSQRDK.bmp
+	
+newmtl bemsv32b
+	map_Ka D15.Blv.textures/BemSV32b.bmp
+	map_Kd D15.Blv.textures/BemSV32b.bmp

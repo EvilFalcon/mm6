@@ -1,0 +1,33 @@
+# Model MTL from "zddb04.dat" map from MM6.
+	
+newmtl cbtiny
+	map_Ka zddb04.blv.textures/CBTINY.bmp
+	map_Kd zddb04.blv.textures/CBTINY.bmp
+	
+newmtl d3ll5
+	map_Ka zddb04.blv.textures/d3LL5.bmp
+	map_Kd zddb04.blv.textures/d3LL5.bmp
+	
+newmtl bemdk5
+	map_Ka zddb04.blv.textures/Bemdk5.bmp
+	map_Kd zddb04.blv.textures/Bemdk5.bmp
+	
+newmtl pbsmwl
+	map_Ka zddb04.blv.textures/PbSmWl.bmp
+	map_Kd zddb04.blv.textures/PbSmWl.bmp
+	
+newmtl bemh32b
+	map_Ka zddb04.blv.textures/BemH32b.bmp
+	map_Kd zddb04.blv.textures/BemH32b.bmp
+	
+newmtl bemv32b
+	map_Ka zddb04.blv.textures/BemV32b.bmp
+	map_Kd zddb04.blv.textures/BemV32b.bmp
+	
+newmtl d2ceil1
+	map_Ka zddb04.blv.textures/D2ceil1.bmp
+	map_Kd zddb04.blv.textures/D2ceil1.bmp
+	
+newmtl d2smldor
+	map_Ka zddb04.blv.textures/D2SmlDor.bmp
+	map_Kd zddb04.blv.textures/D2SmlDor.bmp

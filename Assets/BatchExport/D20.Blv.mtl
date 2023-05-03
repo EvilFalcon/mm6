@@ -1,0 +1,175 @@
+# Model MTL from "d20.dat" map from MM6.
+	
+newmtl vlcwl1lg
+	map_Ka D20.Blv.textures/vlcwl1LG.bmp
+	map_Kd D20.Blv.textures/vlcwl1LG.bmp
+	
+newmtl ch1side
+	map_Ka D20.Blv.textures/ch1side.bmp
+	map_Kd D20.Blv.textures/ch1side.bmp
+	
+newmtl ch2topb
+	map_Ka D20.Blv.textures/ch2TOPb.bmp
+	map_Kd D20.Blv.textures/ch2TOPb.bmp
+	
+newmtl vlcflora
+	map_Ka D20.Blv.textures/vlcflorA.bmp
+	map_Kd D20.Blv.textures/vlcflorA.bmp
+	
+newmtl ch2frntb
+	map_Ka D20.Blv.textures/ch2FRNTb.bmp
+	map_Kd D20.Blv.textures/ch2FRNTb.bmp
+	
+newmtl ch2frle
+	map_Ka D20.Blv.textures/ch2frLE.bmp
+	map_Kd D20.Blv.textures/ch2frLE.bmp
+	
+newmtl ch1frle
+	map_Ka D20.Blv.textures/ch1frLE.bmp
+	map_Kd D20.Blv.textures/ch1frLE.bmp
+	
+newmtl ch2side
+	map_Ka D20.Blv.textures/ch2side.bmp
+	map_Kd D20.Blv.textures/ch2side.bmp
+	
+newmtl ch1topre
+	map_Ka D20.Blv.textures/Ch1topRE.bmp
+	map_Kd D20.Blv.textures/Ch1topRE.bmp
+	
+newmtl ch1tople
+	map_Ka D20.Blv.textures/ch1topLE.bmp
+	map_Kd D20.Blv.textures/ch1topLE.bmp
+	
+newmtl ch2topre
+	map_Ka D20.Blv.textures/ch2topRE.bmp
+	map_Kd D20.Blv.textures/ch2topRE.bmp
+	
+newmtl ch1frntb
+	map_Ka D20.Blv.textures/ch1frntB.bmp
+	map_Kd D20.Blv.textures/ch1frntB.bmp
+	
+newmtl ch2frre
+	map_Ka D20.Blv.textures/ch2frRE.bmp
+	map_Kd D20.Blv.textures/ch2frRE.bmp
+	
+newmtl ch1topb
+	map_Ka D20.Blv.textures/Ch1topB.bmp
+	map_Kd D20.Blv.textures/Ch1topB.bmp
+	
+newmtl ch2tople
+	map_Ka D20.Blv.textures/ch2topLE.bmp
+	map_Kd D20.Blv.textures/ch2topLE.bmp
+	
+newmtl ch1frre
+	map_Ka D20.Blv.textures/ch1frRE.bmp
+	map_Kd D20.Blv.textures/ch1frRE.bmp
+
+newmtl _portal_
+	map_Tr D20.Blv.textures/_Portal_.png
+	map_d D20.Blv.textures/_Portal_.png
+	map_Ka D20.Blv.textures/_Portal_.png
+	map_Kd D20.Blv.textures/_Portal_.png
+	
+newmtl cvdor1
+	map_Ka D20.Blv.textures/Cvdor1.bmp
+	map_Kd D20.Blv.textures/Cvdor1.bmp
+	
+newmtl ch4top
+	map_Ka D20.Blv.textures/ch4top.bmp
+	map_Kd D20.Blv.textures/ch4top.bmp
+	
+newmtl ch4side
+	map_Ka D20.Blv.textures/ch4side.bmp
+	map_Kd D20.Blv.textures/ch4side.bmp
+	
+newmtl ch3side
+	map_Ka D20.Blv.textures/ch3side.bmp
+	map_Kd D20.Blv.textures/ch3side.bmp
+	
+newmtl ch3frre
+	map_Ka D20.Blv.textures/ch3frRE.bmp
+	map_Kd D20.Blv.textures/ch3frRE.bmp
+	
+newmtl ch4topre
+	map_Ka D20.Blv.textures/ch4topRE.bmp
+	map_Kd D20.Blv.textures/ch4topRE.bmp
+	
+newmtl ch3tople
+	map_Ka D20.Blv.textures/ch3topLE.bmp
+	map_Kd D20.Blv.textures/ch3topLE.bmp
+	
+newmtl ch4frntb
+	map_Ka D20.Blv.textures/ch4frntB.bmp
+	map_Kd D20.Blv.textures/ch4frntB.bmp
+	
+newmtl ch4frle
+	map_Ka D20.Blv.textures/ch4frLE.bmp
+	map_Kd D20.Blv.textures/ch4frLE.bmp
+	
+newmtl ch3frntb
+	map_Ka D20.Blv.textures/ch3frntB.bmp
+	map_Kd D20.Blv.textures/ch3frntB.bmp
+	
+newmtl ch3topb
+	map_Ka D20.Blv.textures/ch3topB.bmp
+	map_Kd D20.Blv.textures/ch3topB.bmp
+	
+newmtl ch4tople
+	map_Ka D20.Blv.textures/ch4topLE.bmp
+	map_Kd D20.Blv.textures/ch4topLE.bmp
+	
+newmtl ch3topre
+	map_Ka D20.Blv.textures/ch3topRE.bmp
+	map_Kd D20.Blv.textures/ch3topRE.bmp
+	
+newmtl ch4frre
+	map_Ka D20.Blv.textures/ch4frRE.bmp
+	map_Kd D20.Blv.textures/ch4frRE.bmp
+	
+newmtl ch3frle
+	map_Ka D20.Blv.textures/ch3frLE.bmp
+	map_Kd D20.Blv.textures/ch3frLE.bmp
+	
+newmtl ch2tprev
+	map_Ka D20.Blv.textures/ch2tpREv.bmp
+	map_Kd D20.Blv.textures/ch2tpREv.bmp
+	
+newmtl ch4tplev
+	map_Ka D20.Blv.textures/ch4tpLEv.bmp
+	map_Kd D20.Blv.textures/ch4tpLEv.bmp
+	
+newmtl ch4tprev
+	map_Ka D20.Blv.textures/ch4tpREv.bmp
+	map_Kd D20.Blv.textures/ch4tpREv.bmp
+	
+newmtl ch2tpbv
+	map_Ka D20.Blv.textures/ch2TPbV.bmp
+	map_Kd D20.Blv.textures/ch2TPbV.bmp
+	
+newmtl ch2tplev
+	map_Ka D20.Blv.textures/ch2tpLEv.bmp
+	map_Kd D20.Blv.textures/ch2tpLEv.bmp
+	
+newmtl ch4topv
+	map_Ka D20.Blv.textures/ch4topV.bmp
+	map_Kd D20.Blv.textures/ch4topV.bmp
+	
+newmtl ch2bakb
+	map_Ka D20.Blv.textures/ch2BAKb.bmp
+	map_Kd D20.Blv.textures/ch2BAKb.bmp
+	
+newmtl ch3bakb
+	map_Ka D20.Blv.textures/ch3bakB.bmp
+	map_Kd D20.Blv.textures/ch3bakB.bmp
+	
+newmtl ch1tprev
+	map_Ka D20.Blv.textures/Ch1tpREv.bmp
+	map_Kd D20.Blv.textures/Ch1tpREv.bmp
+	
+newmtl ch1tplev
+	map_Ka D20.Blv.textures/ch1tpLEv.bmp
+	map_Kd D20.Blv.textures/ch1tpLEv.bmp
+	
+newmtl ch1tpbv
+	map_Ka D20.Blv.textures/Ch1tpBv.bmp
+	map_Kd D20.Blv.textures/Ch1tpBv.bmp

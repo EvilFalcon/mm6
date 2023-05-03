@@ -1,0 +1,355 @@
+# Model MTL from "d18.dat" map from MM6.
+	
+newmtl d8wlb
+	map_Ka D18.Blv.textures/D8wlB.bmp
+	map_Kd D18.Blv.textures/D8wlB.bmp
+	
+newmtl vlcwl1lg
+	map_Ka D18.Blv.textures/vlcwl1LG.bmp
+	map_Kd D18.Blv.textures/vlcwl1LG.bmp
+	
+newmtl d8wlble
+	map_Ka D18.Blv.textures/D8wlBLE.bmp
+	map_Kd D18.Blv.textures/D8wlBLE.bmp
+
+newmtl _portal_
+	map_Tr D18.Blv.textures/_Portal_.png
+	map_d D18.Blv.textures/_Portal_.png
+	map_Ka D18.Blv.textures/_Portal_.png
+	map_Kd D18.Blv.textures/_Portal_.png
+	
+newmtl vlcwl1
+	map_Ka D18.Blv.textures/vlcwl1.bmp
+	map_Kd D18.Blv.textures/vlcwl1.bmp
+	
+newmtl vlctrm3
+	map_Ka D18.Blv.textures/vlctrm3.bmp
+	map_Kd D18.Blv.textures/vlctrm3.bmp
+	
+newmtl vlcflore
+	map_Ka D18.Blv.textures/vlcflorE.bmp
+	map_Kd D18.Blv.textures/vlcflorE.bmp
+	
+newmtl vlcwl1le
+	map_Ka D18.Blv.textures/vlcwl1LE.bmp
+	map_Kd D18.Blv.textures/vlcwl1LE.bmp
+	
+newmtl vlcwl1re
+	map_Ka D18.Blv.textures/vlcwl1RE.bmp
+	map_Kd D18.Blv.textures/vlcwl1RE.bmp
+	
+newmtl vlcwl3a
+	map_Ka D18.Blv.textures/vlcwl3a.bmp
+	map_Kd D18.Blv.textures/vlcwl3a.bmp
+	
+newmtl d2wlactr
+	map_Ka D18.Blv.textures/D2WlActr.bmp
+	map_Kd D18.Blv.textures/D2WlActr.bmp
+	
+newmtl orfyr64b
+	map_Ka D18.Blv.textures/OrFyr64B.bmp
+	map_Kd D18.Blv.textures/OrFyr64B.bmp
+	
+newmtl d2ceil1
+	map_Ka D18.Blv.textures/D2Ceil1.bmp
+	map_Kd D18.Blv.textures/D2Ceil1.bmp
+	
+newmtl voltyl
+	map_Ka D18.Blv.textures/VolTyl.bmp
+	map_Kd D18.Blv.textures/VolTyl.bmp
+	
+newmtl orfyrlga
+	map_Ka D18.Blv.textures/OrFyrLgA.bmp
+	map_Kd D18.Blv.textures/OrFyrLgA.bmp
+	
+newmtl vlcceila
+	map_Ka D18.Blv.textures/vlcceilA.bmp
+	map_Kd D18.Blv.textures/vlcceilA.bmp
+	
+newmtl vlcwl2
+	map_Ka D18.Blv.textures/vlcwl2.bmp
+	map_Kd D18.Blv.textures/vlcwl2.bmp
+	
+newmtl vlcflora
+	map_Ka D18.Blv.textures/vlcflorA.bmp
+	map_Kd D18.Blv.textures/vlcflorA.bmp
+	
+newmtl d2wlale
+	map_Ka D18.Blv.textures/D2WlALE.bmp
+	map_Kd D18.Blv.textures/D2WlALE.bmp
+	
+newmtl d2wlare
+	map_Ka D18.Blv.textures/D2WlARE.bmp
+	map_Kd D18.Blv.textures/D2WlARE.bmp
+	
+newmtl d2lgdor
+	map_Ka D18.Blv.textures/D2LgDor.bmp
+	map_Kd D18.Blv.textures/D2LgDor.bmp
+	
+newmtl bemh16c
+	map_Ka D18.Blv.textures/BemH16c.bmp
+	map_Kd D18.Blv.textures/BemH16c.bmp
+	
+newmtl bemh16a
+	map_Ka D18.Blv.textures/BemH16a.bmp
+	map_Kd D18.Blv.textures/BemH16a.bmp
+	
+newmtl vlcflorb
+	map_Ka D18.Blv.textures/vlcflorB.bmp
+	map_Kd D18.Blv.textures/vlcflorB.bmp
+	
+newmtl bemsv16b
+	map_Ka D18.Blv.textures/BemSV16b.bmp
+	map_Kd D18.Blv.textures/BemSV16b.bmp
+	
+newmtl cvdor1
+	map_Ka D18.Blv.textures/CVDOR1.bmp
+	map_Kd D18.Blv.textures/CVDOR1.bmp
+	
+newmtl bemh16b
+	map_Ka D18.Blv.textures/BemH16b.bmp
+	map_Kd D18.Blv.textures/BemH16b.bmp
+	
+newmtl bemv16a
+	map_Ka D18.Blv.textures/BemV16a.bmp
+	map_Kd D18.Blv.textures/BemV16a.bmp
+	
+newmtl vlcwl1a
+	map_Ka D18.Blv.textures/vlcwl1A.bmp
+	map_Kd D18.Blv.textures/vlcwl1A.bmp
+	
+newmtl ch3tpbv
+	map_Ka D18.Blv.textures/ch3tpBv.bmp
+	map_Kd D18.Blv.textures/ch3tpBv.bmp
+	
+newmtl d8florh
+	map_Ka D18.Blv.textures/D8florH.bmp
+	map_Kd D18.Blv.textures/D8florH.bmp
+	
+newmtl ch3tplev
+	map_Ka D18.Blv.textures/ch3tpLEv.bmp
+	map_Kd D18.Blv.textures/ch3tpLEv.bmp
+	
+newmtl ch3tprev
+	map_Ka D18.Blv.textures/ch3tpREv.bmp
+	map_Kd D18.Blv.textures/ch3tpREv.bmp
+	
+newmtl ch3side
+	map_Ka D18.Blv.textures/ch3side.bmp
+	map_Kd D18.Blv.textures/ch3side.bmp
+	
+newmtl ch3frntb
+	map_Ka D18.Blv.textures/ch3frntB.bmp
+	map_Kd D18.Blv.textures/ch3frntB.bmp
+	
+newmtl ch3frre
+	map_Ka D18.Blv.textures/ch3frRE.bmp
+	map_Kd D18.Blv.textures/ch3frRE.bmp
+	
+newmtl ch3frle
+	map_Ka D18.Blv.textures/ch3frLE.bmp
+	map_Kd D18.Blv.textures/ch3frLE.bmp
+	
+newmtl vlcwl3le
+	map_Ka D18.Blv.textures/vlcwl3LE.bmp
+	map_Kd D18.Blv.textures/vlcwl3LE.bmp
+	
+newmtl vlcwl3re
+	map_Ka D18.Blv.textures/vlcwl3RE.bmp
+	map_Kd D18.Blv.textures/vlcwl3RE.bmp
+	
+newmtl ch3topre
+	map_Ka D18.Blv.textures/ch3topRE.bmp
+	map_Kd D18.Blv.textures/ch3topRE.bmp
+	
+newmtl vlcgnrc3
+	map_Ka D18.Blv.textures/vlcgnrc3.bmp
+	map_Kd D18.Blv.textures/vlcgnrc3.bmp
+	
+newmtl d8wlbxl
+	map_Ka D18.Blv.textures/d8wlbxL.bmp
+	map_Kd D18.Blv.textures/d8wlbxL.bmp
+	
+newmtl vlcgnrc2
+	map_Ka D18.Blv.textures/vlcgnrc2.bmp
+	map_Kd D18.Blv.textures/vlcgnrc2.bmp
+	
+newmtl ch3topb
+	map_Ka D18.Blv.textures/ch3topB.bmp
+	map_Kd D18.Blv.textures/ch3topB.bmp
+	
+newmtl vlcwl3u
+	map_Ka D18.Blv.textures/vlcwl3u.bmp
+	map_Kd D18.Blv.textures/vlcwl3u.bmp
+	
+newmtl ch3tople
+	map_Ka D18.Blv.textures/ch3topLE.bmp
+	map_Kd D18.Blv.textures/ch3topLE.bmp
+	
+newmtl bemvwal
+	map_Ka D18.Blv.textures/BemVwal.bmp
+	map_Kd D18.Blv.textures/BemVwal.bmp
+	
+newmtl vlcgnrc1
+	map_Ka D18.Blv.textures/vlcGnrc1.bmp
+	map_Kd D18.Blv.textures/vlcGnrc1.bmp
+	
+newmtl d2wlcle
+	map_Ka D18.Blv.textures/D2WlCLE.bmp
+	map_Kd D18.Blv.textures/D2WlCLE.bmp
+	
+newmtl vlcwl4b
+	map_Ka D18.Blv.textures/vlcwl4B.bmp
+	map_Kd D18.Blv.textures/vlcwl4B.bmp
+	
+newmtl d2ceil3
+	map_Ka D18.Blv.textures/D2Ceil3.bmp
+	map_Kd D18.Blv.textures/D2Ceil3.bmp
+	
+newmtl vlcflorc
+	map_Ka D18.Blv.textures/vlcflorC.bmp
+	map_Kd D18.Blv.textures/vlcflorC.bmp
+	
+newmtl ch2side
+	map_Ka D18.Blv.textures/ch2side.bmp
+	map_Kd D18.Blv.textures/ch2side.bmp
+	
+newmtl ch1frntb
+	map_Ka D18.Blv.textures/ch1frntB.bmp
+	map_Kd D18.Blv.textures/ch1frntB.bmp
+	
+newmtl ch2frre
+	map_Ka D18.Blv.textures/ch2frRE.bmp
+	map_Kd D18.Blv.textures/ch2frRE.bmp
+	
+newmtl ch2tople
+	map_Ka D18.Blv.textures/ch2topLE.bmp
+	map_Kd D18.Blv.textures/ch2topLE.bmp
+	
+newmtl ch1side
+	map_Ka D18.Blv.textures/ch1side.bmp
+	map_Kd D18.Blv.textures/ch1side.bmp
+	
+newmtl ch2topre
+	map_Ka D18.Blv.textures/ch2topRE.bmp
+	map_Kd D18.Blv.textures/ch2topRE.bmp
+	
+newmtl ch1tople
+	map_Ka D18.Blv.textures/ch1topLE.bmp
+	map_Kd D18.Blv.textures/ch1topLE.bmp
+	
+newmtl ch1frre
+	map_Ka D18.Blv.textures/ch1frRE.bmp
+	map_Kd D18.Blv.textures/ch1frRE.bmp
+	
+newmtl ch1frle
+	map_Ka D18.Blv.textures/ch1frLE.bmp
+	map_Kd D18.Blv.textures/ch1frLE.bmp
+	
+newmtl ch2topb
+	map_Ka D18.Blv.textures/ch2TOPb.bmp
+	map_Kd D18.Blv.textures/ch2TOPb.bmp
+	
+newmtl ch1topb
+	map_Ka D18.Blv.textures/Ch1topB.bmp
+	map_Kd D18.Blv.textures/Ch1topB.bmp
+	
+newmtl ch1topre
+	map_Ka D18.Blv.textures/Ch1topRE.bmp
+	map_Kd D18.Blv.textures/Ch1topRE.bmp
+	
+newmtl ch2frntb
+	map_Ka D18.Blv.textures/ch2FRNTb.bmp
+	map_Kd D18.Blv.textures/ch2FRNTb.bmp
+	
+newmtl ch2frle
+	map_Ka D18.Blv.textures/ch2frLE.bmp
+	map_Kd D18.Blv.textures/ch2frLE.bmp
+	
+newmtl ctflor1
+	map_Ka D18.Blv.textures/ctFlor1.bmp
+	map_Kd D18.Blv.textures/ctFlor1.bmp
+	
+newmtl ctwl5
+	map_Ka D18.Blv.textures/ctwl5.bmp
+	map_Kd D18.Blv.textures/ctwl5.bmp
+	
+newmtl ctceil3
+	map_Ka D18.Blv.textures/ctCeil3.bmp
+	map_Kd D18.Blv.textures/ctCeil3.bmp
+	
+newmtl ctwl5re
+	map_Ka D18.Blv.textures/ctwl5RE.bmp
+	map_Kd D18.Blv.textures/ctwl5RE.bmp
+	
+newmtl ctwl5le
+	map_Ka D18.Blv.textures/ctwl5LE.bmp
+	map_Kd D18.Blv.textures/ctwl5LE.bmp
+	
+newmtl ctwl2le
+	map_Ka D18.Blv.textures/ctwl2LE.bmp
+	map_Kd D18.Blv.textures/ctwl2LE.bmp
+	
+newmtl ctwl2re
+	map_Ka D18.Blv.textures/ctwl2RE.bmp
+	map_Kd D18.Blv.textures/ctwl2RE.bmp
+	
+newmtl ctwl2
+	map_Ka D18.Blv.textures/ctwl2.bmp
+	map_Kd D18.Blv.textures/ctwl2.bmp
+	
+newmtl cttrim2
+	map_Ka D18.Blv.textures/CTTRIM2.bmp
+	map_Kd D18.Blv.textures/CTTRIM2.bmp
+	
+newmtl ctflor4
+	map_Ka D18.Blv.textures/ctFlor4.bmp
+	map_Kd D18.Blv.textures/ctFlor4.bmp
+	
+newmtl gset05
+	map_Ka D18.Blv.textures/gset05.bmp
+	map_Kd D18.Blv.textures/gset05.bmp
+	
+newmtl ctceil2
+	map_Ka D18.Blv.textures/ctCeil2.bmp
+	map_Kd D18.Blv.textures/ctCeil2.bmp
+	
+newmtl ctceil1
+	map_Ka D18.Blv.textures/ctCeil1.bmp
+	map_Kd D18.Blv.textures/ctCeil1.bmp
+	
+newmtl ctflor5
+	map_Ka D18.Blv.textures/ctFlor5.bmp
+	map_Kd D18.Blv.textures/ctFlor5.bmp
+	
+newmtl ctwl4le
+	map_Ka D18.Blv.textures/ctwl4LE.bmp
+	map_Kd D18.Blv.textures/ctwl4LE.bmp
+	
+newmtl vlcdorc
+	map_Ka D18.Blv.textures/vlcdorC.bmp
+	map_Kd D18.Blv.textures/vlcdorC.bmp
+	
+newmtl ctwl4re
+	map_Ka D18.Blv.textures/ctwl4RE.bmp
+	map_Kd D18.Blv.textures/ctwl4RE.bmp
+	
+newmtl ctflor2
+	map_Ka D18.Blv.textures/ctFlor2.bmp
+	map_Kd D18.Blv.textures/ctFlor2.bmp
+	
+newmtl ch2tprev
+	map_Ka D18.Blv.textures/ch2tpREv.bmp
+	map_Kd D18.Blv.textures/ch2tpREv.bmp
+	
+newmtl ch2tpbv
+	map_Ka D18.Blv.textures/ch2TPbV.bmp
+	map_Kd D18.Blv.textures/ch2TPbV.bmp
+	
+newmtl bookcas2
+	map_Ka D18.Blv.textures/Bookcas2.bmp
+	map_Kd D18.Blv.textures/Bookcas2.bmp
+	
+newmtl ch2tplev
+	map_Ka D18.Blv.textures/ch2tpLEv.bmp
+	map_Kd D18.Blv.textures/ch2tpLEv.bmp

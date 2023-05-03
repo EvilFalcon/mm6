@@ -1,0 +1,39 @@
+# Model MTL from "zdtl02.dat" map from MM6.
+	
+newmtl d2flor5
+	map_Ka zdtl02.blv.textures/D2flor5.bmp
+	map_Kd zdtl02.blv.textures/D2flor5.bmp
+	
+newmtl csbr128
+	map_Ka zdtl02.blv.textures/CsBr128.bmp
+	map_Kd zdtl02.blv.textures/CsBr128.bmp
+	
+newmtl gset05
+	map_Ka zdtl02.blv.textures/gset05.bmp
+	map_Kd zdtl02.blv.textures/gset05.bmp
+	
+newmtl t3t7
+	map_Ka zdtl02.blv.textures/T3T7.bmp
+	map_Kd zdtl02.blv.textures/T3T7.bmp
+
+newmtl _portal_
+	map_Tr zdtl02.blv.textures/_Portal_.png
+	map_d zdtl02.blv.textures/_Portal_.png
+	map_Ka zdtl02.blv.textures/_Portal_.png
+	map_Kd zdtl02.blv.textures/_Portal_.png
+	
+newmtl d2smldor
+	map_Ka zdtl02.blv.textures/D2SmlDor.bmp
+	map_Kd zdtl02.blv.textures/D2SmlDor.bmp
+	
+newmtl d2ceil1
+	map_Ka zdtl02.blv.textures/D2ceil1.bmp
+	map_Kd zdtl02.blv.textures/D2ceil1.bmp
+	
+newmtl csdoor
+	map_Ka zdtl02.blv.textures/CsDoor.bmp
+	map_Kd zdtl02.blv.textures/CsDoor.bmp
+	
+newmtl bdksv32a
+	map_Ka zdtl02.blv.textures/BdkSV32a.bmp
+	map_Kd zdtl02.blv.textures/BdkSV32a.bmp

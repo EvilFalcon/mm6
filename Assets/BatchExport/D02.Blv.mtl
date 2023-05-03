@@ -1,0 +1,269 @@
+# Model MTL from "d02.dat" map from MM6.
+	
+newmtl sndston
+	map_Ka D02.Blv.textures/SNDSTON.bmp
+	map_Kd D02.Blv.textures/SNDSTON.bmp
+	
+newmtl d2ceil3
+	map_Ka D02.Blv.textures/D2Ceil3.bmp
+	map_Kd D02.Blv.textures/D2Ceil3.bmp
+	
+newmtl crdflr4
+	map_Ka D02.Blv.textures/CrDFlr4.bmp
+	map_Kd D02.Blv.textures/CrDFlr4.bmp
+	
+newmtl bemdord
+	map_Ka D02.Blv.textures/BemDorD.bmp
+	map_Kd D02.Blv.textures/BemDorD.bmp
+	
+newmtl d2wlactr
+	map_Ka D02.Blv.textures/D2WlActr.bmp
+	map_Kd D02.Blv.textures/D2WlActr.bmp
+	
+newmtl beamplnv
+	map_Ka D02.Blv.textures/Beamplnv.bmp
+	map_Kd D02.Blv.textures/Beamplnv.bmp
+	
+newmtl bemsv32c
+	map_Ka D02.Blv.textures/BemSV32c.bmp
+	map_Kd D02.Blv.textures/BemSV32c.bmp
+
+newmtl _portal_
+	map_Tr D02.Blv.textures/_Portal_.png
+	map_d D02.Blv.textures/_Portal_.png
+	map_Ka D02.Blv.textures/_Portal_.png
+	map_Kd D02.Blv.textures/_Portal_.png
+	
+newmtl ch1bakb
+	map_Ka D02.Blv.textures/ch1bakB.bmp
+	map_Kd D02.Blv.textures/ch1bakB.bmp
+	
+newmtl ch1frle
+	map_Ka D02.Blv.textures/ch1frLE.bmp
+	map_Kd D02.Blv.textures/ch1frLE.bmp
+	
+newmtl ch1tpbv
+	map_Ka D02.Blv.textures/Ch1tpBv.bmp
+	map_Kd D02.Blv.textures/Ch1tpBv.bmp
+	
+newmtl ch1side
+	map_Ka D02.Blv.textures/ch1side.bmp
+	map_Kd D02.Blv.textures/ch1side.bmp
+	
+newmtl ch1tprev
+	map_Ka D02.Blv.textures/Ch1tpREv.bmp
+	map_Kd D02.Blv.textures/Ch1tpREv.bmp
+	
+newmtl ch1frntb
+	map_Ka D02.Blv.textures/ch1frntB.bmp
+	map_Kd D02.Blv.textures/ch1frntB.bmp
+	
+newmtl ch1bkle
+	map_Ka D02.Blv.textures/ch1BkLE.bmp
+	map_Kd D02.Blv.textures/ch1BkLE.bmp
+	
+newmtl ch1frre
+	map_Ka D02.Blv.textures/ch1frRE.bmp
+	map_Kd D02.Blv.textures/ch1frRE.bmp
+	
+newmtl ch1tplev
+	map_Ka D02.Blv.textures/ch1tpLEv.bmp
+	map_Kd D02.Blv.textures/ch1tpLEv.bmp
+	
+newmtl ch1bkre
+	map_Ka D02.Blv.textures/ch1bkRE.bmp
+	map_Kd D02.Blv.textures/ch1bkRE.bmp
+	
+newmtl d2flor4
+	map_Ka D02.Blv.textures/D2flor4.bmp
+	map_Kd D02.Blv.textures/D2flor4.bmp
+	
+newmtl bemsv32a
+	map_Ka D02.Blv.textures/BemSV32a.bmp
+	map_Kd D02.Blv.textures/BemSV32a.bmp
+	
+newmtl d2wlale
+	map_Ka D02.Blv.textures/D2WlALE.bmp
+	map_Kd D02.Blv.textures/D2WlALE.bmp
+	
+newmtl d2wlare
+	map_Ka D02.Blv.textures/D2WlARE.bmp
+	map_Kd D02.Blv.textures/D2WlARE.bmp
+	
+newmtl d2wlbmnk
+	map_Ka D02.Blv.textures/D2WlBMnk.bmp
+	map_Kd D02.Blv.textures/D2WlBMnk.bmp
+	
+newmtl d2wctra
+	map_Ka D02.Blv.textures/d2wctrA.bmp
+	map_Kd D02.Blv.textures/d2wctrA.bmp
+	
+newmtl bdksh32b
+	map_Ka D02.Blv.textures/BdkSH32b.bmp
+	map_Kd D02.Blv.textures/BdkSH32b.bmp
+	
+newmtl bdksv32b
+	map_Ka D02.Blv.textures/BdkSV32b.bmp
+	map_Kd D02.Blv.textures/BdkSV32b.bmp
+	
+newmtl d2flor5
+	map_Ka D02.Blv.textures/D2flor5.bmp
+	map_Kd D02.Blv.textures/D2flor5.bmp
+	
+newmtl wywl
+	map_Ka D02.Blv.textures/WYWL.bmp
+	map_Kd D02.Blv.textures/WYWL.bmp
+	
+newmtl wltil2
+	map_Ka D02.Blv.textures/WLTIL2.bmp
+	map_Kd D02.Blv.textures/WLTIL2.bmp
+	
+newmtl gset06
+	map_Ka D02.Blv.textures/gset06.bmp
+	map_Kd D02.Blv.textures/gset06.bmp
+	
+newmtl wywl2
+	map_Ka D02.Blv.textures/WYWL2.bmp
+	map_Kd D02.Blv.textures/WYWL2.bmp
+	
+newmtl gset04
+	map_Ka D02.Blv.textures/Gset04.bmp
+	map_Kd D02.Blv.textures/Gset04.bmp
+	
+newmtl cekr4
+	map_Ka D02.Blv.textures/CEKR4.bmp
+	map_Kd D02.Blv.textures/CEKR4.bmp
+	
+newmtl gset07
+	map_Ka D02.Blv.textures/gset07.bmp
+	map_Kd D02.Blv.textures/gset07.bmp
+	
+newmtl ctmura
+	map_Ka D02.Blv.textures/ctmura.bmp
+	map_Kd D02.Blv.textures/ctmura.bmp
+	
+newmtl ceilbemh
+	map_Ka D02.Blv.textures/CEILBEMH.bmp
+	map_Kd D02.Blv.textures/CEILBEMH.bmp
+	
+newmtl stabig2
+	map_Ka D02.Blv.textures/STABIG2.bmp
+	map_Kd D02.Blv.textures/STABIG2.bmp
+	
+newmtl gset05
+	map_Ka D02.Blv.textures/gset05.bmp
+	map_Kd D02.Blv.textures/gset05.bmp
+	
+newmtl ctceil2
+	map_Ka D02.Blv.textures/ctCeil2.bmp
+	map_Kd D02.Blv.textures/ctCeil2.bmp
+	
+newmtl wywt
+	map_Ka D02.Blv.textures/WYWT.bmp
+	map_Kd D02.Blv.textures/WYWT.bmp
+	
+newmtl carpt01
+	map_Ka D02.Blv.textures/CARPT01.bmp
+	map_Kd D02.Blv.textures/CARPT01.bmp
+	
+newmtl stain512
+	map_Ka D02.Blv.textures/STAIN512.bmp
+	map_Kd D02.Blv.textures/STAIN512.bmp
+	
+newmtl graysq
+	map_Ka D02.Blv.textures/GRAYSQ.bmp
+	map_Kd D02.Blv.textures/GRAYSQ.bmp
+	
+newmtl slabco2
+	map_Ka D02.Blv.textures/SLABCO2.bmp
+	map_Kd D02.Blv.textures/SLABCO2.bmp
+	
+newmtl celtile
+	map_Ka D02.Blv.textures/CELTILE.bmp
+	map_Kd D02.Blv.textures/CELTILE.bmp
+	
+newmtl plnkdrk
+	map_Ka D02.Blv.textures/PLNKDRK.bmp
+	map_Kd D02.Blv.textures/PLNKDRK.bmp
+	
+newmtl d2ceil1
+	map_Ka D02.Blv.textures/D2ceil1.bmp
+	map_Kd D02.Blv.textures/D2ceil1.bmp
+	
+newmtl ctflor3
+	map_Ka D02.Blv.textures/ctFlor3.bmp
+	map_Kd D02.Blv.textures/ctFlor3.bmp
+	
+newmtl d2ceil3:i
+	d 0.3
+	Tr 0.7
+	map_Ka D02.Blv.textures/D2Ceil3.bmp
+	map_Kd D02.Blv.textures/D2Ceil3.bmp
+	
+newmtl ctflor4
+	map_Ka D02.Blv.textures/ctFlor4.bmp
+	map_Kd D02.Blv.textures/ctFlor4.bmp
+	
+newmtl beamplnh
+	map_Ka D02.Blv.textures/Beamplnh.bmp
+	map_Kd D02.Blv.textures/Beamplnh.bmp
+	
+newmtl ctceil1
+	map_Ka D02.Blv.textures/ctCeil1.bmp
+	map_Kd D02.Blv.textures/ctCeil1.bmp
+	
+newmtl ctdor4
+	map_Ka D02.Blv.textures/ctDor4.bmp
+	map_Kd D02.Blv.textures/ctDor4.bmp
+	
+newmtl ctdor2
+	map_Ka D02.Blv.textures/ctDor2.bmp
+	map_Kd D02.Blv.textures/ctDor2.bmp
+	
+newmtl crdrf2
+	map_Ka D02.Blv.textures/CrDRf2.bmp
+	map_Kd D02.Blv.textures/CrDRf2.bmp
+	
+newmtl d5flora
+	map_Ka D02.Blv.textures/d5FlorA.bmp
+	map_Kd D02.Blv.textures/d5FlorA.bmp
+	
+newmtl d1wldle3
+	map_Ka D02.Blv.textures/d1wlDLE3.bmp
+	map_Kd D02.Blv.textures/d1wlDLE3.bmp
+	
+newmtl orwtrtyl
+	map_Ka D02.Blv.textures/orWtrTyl.bmp
+	map_Kd D02.Blv.textures/orWtrTyl.bmp
+	
+newmtl d1wldle2
+	map_Ka D02.Blv.textures/d1wlDLE2.bmp
+	map_Kd D02.Blv.textures/d1wlDLE2.bmp
+	
+newmtl bemhwal1
+	map_Ka D02.Blv.textures/BemHwal1.bmp
+	map_Kd D02.Blv.textures/BemHwal1.bmp
+	
+newmtl d1wldre
+	map_Ka D02.Blv.textures/d1wlDRE.bmp
+	map_Kd D02.Blv.textures/d1wlDRE.bmp
+	
+newmtl sky_nit2
+	map_Ka D02.Blv.textures/SKY_NIT2.bmp
+	map_Kd D02.Blv.textures/SKY_NIT2.bmp
+	
+newmtl d1wlere
+	map_Ka D02.Blv.textures/D1wlere.bmp
+	map_Kd D02.Blv.textures/D1wlere.bmp
+	
+newmtl d1wldle
+	map_Ka D02.Blv.textures/d1wlDLE.bmp
+	map_Kd D02.Blv.textures/d1wlDLE.bmp
+	
+newmtl d1wldsp
+	map_Ka D02.Blv.textures/d1wlDSP.bmp
+	map_Kd D02.Blv.textures/d1wlDSP.bmp
+	
+newmtl d1wlele
+	map_Ka D02.Blv.textures/D1wlele.bmp
+	map_Kd D02.Blv.textures/D1wlele.bmp

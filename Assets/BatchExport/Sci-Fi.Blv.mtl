@@ -1,0 +1,271 @@
+# Model MTL from "sci-fi.dat" map from MM6.
+	
+newmtl swll4dk
+	map_Ka Sci-Fi.Blv.textures/SWll4dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWll4dk.bmp
+
+newmtl _portal_
+	map_Tr Sci-Fi.Blv.textures/_Portal_.png
+	map_d Sci-Fi.Blv.textures/_Portal_.png
+	map_Ka Sci-Fi.Blv.textures/_Portal_.png
+	map_Kd Sci-Fi.Blv.textures/_Portal_.png
+	
+newmtl swankdk
+	map_Ka Sci-Fi.Blv.textures/SWankDk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWankDk.bmp
+	
+newmtl swr1dk
+	map_Ka Sci-Fi.Blv.textures/SWr1dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWr1dk.bmp
+	
+newmtl swfloor2b
+	map_Ka Sci-Fi.Blv.textures/SWFloor2b.bmp
+	map_Kd Sci-Fi.Blv.textures/SWFloor2b.bmp
+	
+newmtl swr4dk
+	map_Ka Sci-Fi.Blv.textures/SWr4DK.bmp
+	map_Kd Sci-Fi.Blv.textures/SWr4DK.bmp
+	
+newmtl swgirder
+	map_Ka Sci-Fi.Blv.textures/swGIRDER.bmp
+	map_Kd Sci-Fi.Blv.textures/swGIRDER.bmp
+	
+newmtl trekscrn
+	map_Ka Sci-Fi.Blv.textures/TREKSCRN.bmp
+	map_Kd Sci-Fi.Blv.textures/TREKSCRN.bmp
+	
+newmtl swdoorb
+	map_Ka Sci-Fi.Blv.textures/SWdoorB.bmp
+	map_Kd Sci-Fi.Blv.textures/SWdoorB.bmp
+	
+newmtl swll5dk
+	map_Ka Sci-Fi.Blv.textures/SWll5dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWll5dk.bmp
+	
+newmtl swrdk2
+	map_Ka Sci-Fi.Blv.textures/SWRDK2.bmp
+	map_Kd Sci-Fi.Blv.textures/SWRDK2.bmp
+	
+newmtl swflora
+	map_Ka Sci-Fi.Blv.textures/SWflorA.bmp
+	map_Kd Sci-Fi.Blv.textures/SWflorA.bmp
+	
+newmtl sky_nit2
+	map_Ka Sci-Fi.Blv.textures/SKY_NIT2.bmp
+	map_Kd Sci-Fi.Blv.textures/SKY_NIT2.bmp
+	
+newmtl ch5frle
+	map_Ka Sci-Fi.Blv.textures/ch5frLE.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5frLE.bmp
+	
+newmtl swall4
+	map_Ka Sci-Fi.Blv.textures/SWall4.bmp
+	map_Kd Sci-Fi.Blv.textures/SWall4.bmp
+	
+newmtl ch5frnt
+	map_Ka Sci-Fi.Blv.textures/ch5frnt.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5frnt.bmp
+	
+newmtl swhorzdb
+	map_Ka Sci-Fi.Blv.textures/SWhorzdb.bmp
+	map_Kd Sci-Fi.Blv.textures/SWhorzdb.bmp
+	
+newmtl ch5tople
+	map_Ka Sci-Fi.Blv.textures/ch5topLE.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5topLE.bmp
+	
+newmtl ch5frre
+	map_Ka Sci-Fi.Blv.textures/ch5frRE.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5frRE.bmp
+	
+newmtl ch5side
+	map_Ka Sci-Fi.Blv.textures/ch5side.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5side.bmp
+	
+newmtl ch5top
+	map_Ka Sci-Fi.Blv.textures/ch5top.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5top.bmp
+	
+newmtl ch5topre
+	map_Ka Sci-Fi.Blv.textures/ch5topRE.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5topRE.bmp
+	
+newmtl swhorzad
+	map_Ka Sci-Fi.Blv.textures/SWhorzAd.bmp
+	map_Kd Sci-Fi.Blv.textures/SWhorzAd.bmp
+	
+newmtl swdoora
+	map_Ka Sci-Fi.Blv.textures/SWDoorA.bmp
+	map_Kd Sci-Fi.Blv.textures/SWDoorA.bmp
+	
+newmtl swfloor5a
+	map_Ka Sci-Fi.Blv.textures/SWFloor5a.bmp
+	map_Kd Sci-Fi.Blv.textures/SWFloor5a.bmp
+	
+newmtl swaled
+	map_Ka Sci-Fi.Blv.textures/SWaLEd.bmp
+	map_Kd Sci-Fi.Blv.textures/SWaLEd.bmp
+	
+newmtl swall1
+	map_Ka Sci-Fi.Blv.textures/SWall1.bmp
+	map_Kd Sci-Fi.Blv.textures/SWall1.bmp
+	
+newmtl swor2
+	map_Ka Sci-Fi.Blv.textures/SWOR2.bmp
+	map_Kd Sci-Fi.Blv.textures/SWOR2.bmp
+	
+newmtl swwala
+	map_Ka Sci-Fi.Blv.textures/SWwalA.bmp
+	map_Kd Sci-Fi.Blv.textures/SWwalA.bmp
+	
+newmtl swceilge
+	map_Ka Sci-Fi.Blv.textures/SWCeilgE.bmp
+	map_Kd Sci-Fi.Blv.textures/SWCeilgE.bmp
+	
+newmtl ch5toprb
+	map_Ka Sci-Fi.Blv.textures/ch5topRb.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5topRb.bmp
+	
+newmtl swll2dk
+	map_Ka Sci-Fi.Blv.textures/SWll2dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWll2dk.bmp
+	
+newmtl ch5toplb
+	map_Ka Sci-Fi.Blv.textures/ch5topLb.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5topLb.bmp
+	
+newmtl ch5topb
+	map_Ka Sci-Fi.Blv.textures/ch5topb.bmp
+	map_Kd Sci-Fi.Blv.textures/ch5topb.bmp
+	
+newmtl swceilf
+	map_Ka Sci-Fi.Blv.textures/SWCeilF.bmp
+	map_Kd Sci-Fi.Blv.textures/SWCeilF.bmp
+	
+newmtl swall3
+	map_Ka Sci-Fi.Blv.textures/SWall3.bmp
+	map_Kd Sci-Fi.Blv.textures/SWall3.bmp
+	
+newmtl swll3dk
+	map_Ka Sci-Fi.Blv.textures/SWll3dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWll3dk.bmp
+	
+newmtl swtrpnl
+	map_Ka Sci-Fi.Blv.textures/SWtrPnl.bmp
+	map_Kd Sci-Fi.Blv.textures/SWtrPnl.bmp
+	
+newmtl swor
+	map_Ka Sci-Fi.Blv.textures/SWOR.bmp
+	map_Kd Sci-Fi.Blv.textures/SWOR.bmp
+	
+newmtl swr3
+	map_Ka Sci-Fi.Blv.textures/SWr3.bmp
+	map_Kd Sci-Fi.Blv.textures/SWr3.bmp
+	
+newmtl swtrdk
+	map_Ka Sci-Fi.Blv.textures/SWtrdk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWtrdk.bmp
+	
+newmtl swll5
+	map_Ka Sci-Fi.Blv.textures/SWll5.bmp
+	map_Kd Sci-Fi.Blv.textures/SWll5.bmp
+	
+newmtl swr3dk
+	map_Ka Sci-Fi.Blv.textures/SWr3dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWr3dk.bmp
+	
+newmtl swfloor6
+	map_Ka Sci-Fi.Blv.textures/SWFloor6.bmp
+	map_Kd Sci-Fi.Blv.textures/SWFloor6.bmp
+	
+newmtl swpipes
+	map_Ka Sci-Fi.Blv.textures/swpipes.bmp
+	map_Kd Sci-Fi.Blv.textures/swpipes.bmp
+	
+newmtl swrt3dk
+	map_Ka Sci-Fi.Blv.textures/SWrt3dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWrt3dk.bmp
+	
+newmtl swvert3dk
+	map_Ka Sci-Fi.Blv.textures/swvert3dk.bmp
+	map_Kd Sci-Fi.Blv.textures/swvert3dk.bmp
+	
+newmtl swhor4dk
+	map_Ka Sci-Fi.Blv.textures/swhor4DK.bmp
+	map_Kd Sci-Fi.Blv.textures/swhor4DK.bmp
+	
+newmtl swall2
+	map_Ka Sci-Fi.Blv.textures/SWall2.bmp
+	map_Kd Sci-Fi.Blv.textures/SWall2.bmp
+	
+newmtl swfloor6a
+	map_Ka Sci-Fi.Blv.textures/SWFloor6a.bmp
+	map_Kd Sci-Fi.Blv.textures/SWFloor6a.bmp
+	
+newmtl swared
+	map_Ka Sci-Fi.Blv.textures/SWaREd.bmp
+	map_Kd Sci-Fi.Blv.textures/SWaREd.bmp
+	
+newmtl swpnl
+	map_Ka Sci-Fi.Blv.textures/SWPnl.bmp
+	map_Kd Sci-Fi.Blv.textures/SWPnl.bmp
+	
+newmtl swildk2
+	map_Ka Sci-Fi.Blv.textures/SWILdk2.bmp
+	map_Kd Sci-Fi.Blv.textures/SWILdk2.bmp
+	
+newmtl swall5
+	map_Ka Sci-Fi.Blv.textures/SWall5.bmp
+	map_Kd Sci-Fi.Blv.textures/SWall5.bmp
+	
+newmtl swrt2
+	map_Ka Sci-Fi.Blv.textures/SWrt2.bmp
+	map_Kd Sci-Fi.Blv.textures/SWrt2.bmp
+	
+newmtl swdoorc
+	map_Ka Sci-Fi.Blv.textures/SWdoorC.bmp
+	map_Kd Sci-Fi.Blv.textures/SWdoorC.bmp
+	
+newmtl swqur3
+	map_Ka Sci-Fi.Blv.textures/swqur3.bmp
+	map_Kd Sci-Fi.Blv.textures/swqur3.bmp
+	
+newmtl swildk
+	map_Ka Sci-Fi.Blv.textures/SWILdk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWILdk.bmp
+	
+newmtl swflorb
+	map_Ka Sci-Fi.Blv.textures/SWflorB.bmp
+	map_Kd Sci-Fi.Blv.textures/SWflorB.bmp
+	
+newmtl swrdk
+	map_Ka Sci-Fi.Blv.textures/SWrdk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWrdk.bmp
+	
+newmtl swcirc2
+	map_Ka Sci-Fi.Blv.textures/swcirc2.bmp
+	map_Kd Sci-Fi.Blv.textures/swcirc2.bmp
+	
+newmtl swll4
+	map_Ka Sci-Fi.Blv.textures/SWll4.bmp
+	map_Kd Sci-Fi.Blv.textures/SWll4.bmp
+	
+newmtl swr4
+	map_Ka Sci-Fi.Blv.textures/SWr4.bmp
+	map_Kd Sci-Fi.Blv.textures/SWr4.bmp
+	
+newmtl trekscon
+	map_Ka Sci-Fi.Blv.textures/trekscOn.bmp
+	map_Kd Sci-Fi.Blv.textures/trekscOn.bmp
+	
+newmtl swhz3dk
+	map_Ka Sci-Fi.Blv.textures/SWhz3dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWhz3dk.bmp
+	
+newmtl swr2dk
+	map_Ka Sci-Fi.Blv.textures/SWr2dk.bmp
+	map_Kd Sci-Fi.Blv.textures/SWr2dk.bmp
+	
+newmtl swflorc
+	map_Ka Sci-Fi.Blv.textures/SWflorC.bmp
+	map_Kd Sci-Fi.Blv.textures/SWflorC.bmp

@@ -1,0 +1,229 @@
+# Model MTL from "cd2.dat" map from MM6.
+	
+newmtl d2wctra
+	map_Ka CD2.Blv.textures/d2wctrA.bmp
+	map_Kd CD2.Blv.textures/d2wctrA.bmp
+	
+newmtl crdrf2
+	map_Ka CD2.Blv.textures/CrDRf2.bmp
+	map_Kd CD2.Blv.textures/CrDRf2.bmp
+	
+newmtl d2ceil3
+	map_Ka CD2.Blv.textures/D2Ceil3.bmp
+	map_Kd CD2.Blv.textures/D2Ceil3.bmp
+
+newmtl _portal_
+	map_Tr CD2.Blv.textures/_Portal_.png
+	map_d CD2.Blv.textures/_Portal_.png
+	map_Ka CD2.Blv.textures/_Portal_.png
+	map_Kd CD2.Blv.textures/_Portal_.png
+	
+newmtl orwtrtyl
+	map_Ka CD2.Blv.textures/orWtrTyl.bmp
+	map_Kd CD2.Blv.textures/orWtrTyl.bmp
+	
+newmtl deskside
+	map_Ka CD2.Blv.textures/DESKSIDE.bmp
+	map_Kd CD2.Blv.textures/DESKSIDE.bmp
+	
+newmtl cttrim4
+	map_Ka CD2.Blv.textures/CTTRIM4.bmp
+	map_Kd CD2.Blv.textures/CTTRIM4.bmp
+	
+newmtl ctwl2re
+	map_Ka CD2.Blv.textures/ctwl2RE.bmp
+	map_Kd CD2.Blv.textures/ctwl2RE.bmp
+	
+newmtl bemvwal
+	map_Ka CD2.Blv.textures/BemVwal.bmp
+	map_Kd CD2.Blv.textures/BemVwal.bmp
+	
+newmtl ctflor5
+	map_Ka CD2.Blv.textures/ctFlor5.bmp
+	map_Kd CD2.Blv.textures/ctFlor5.bmp
+	
+newmtl ctwl2
+	map_Ka CD2.Blv.textures/ctwl2.bmp
+	map_Kd CD2.Blv.textures/ctwl2.bmp
+	
+newmtl ctflor1
+	map_Ka CD2.Blv.textures/ctFlor1.bmp
+	map_Kd CD2.Blv.textures/ctFlor1.bmp
+	
+newmtl cttrim1
+	map_Ka CD2.Blv.textures/CTTRIM1.bmp
+	map_Kd CD2.Blv.textures/CTTRIM1.bmp
+	
+newmtl desktop
+	map_Ka CD2.Blv.textures/DESKTOP.bmp
+	map_Kd CD2.Blv.textures/DESKTOP.bmp
+	
+newmtl ctceil2
+	map_Ka CD2.Blv.textures/ctCeil2.bmp
+	map_Kd CD2.Blv.textures/ctCeil2.bmp
+	
+newmtl cttrim5
+	map_Ka CD2.Blv.textures/CTTRIM5.bmp
+	map_Kd CD2.Blv.textures/CTTRIM5.bmp
+	
+newmtl ctdor4
+	map_Ka CD2.Blv.textures/ctDor4.bmp
+	map_Kd CD2.Blv.textures/ctDor4.bmp
+	
+newmtl cttrim3
+	map_Ka CD2.Blv.textures/CTTRIM3.bmp
+	map_Kd CD2.Blv.textures/CTTRIM3.bmp
+	
+newmtl ctspcl2
+	map_Ka CD2.Blv.textures/ctspcl2.bmp
+	map_Kd CD2.Blv.textures/ctspcl2.bmp
+	
+newmtl ctceil1
+	map_Ka CD2.Blv.textures/ctCeil1.bmp
+	map_Kd CD2.Blv.textures/ctCeil1.bmp
+	
+newmtl ch2frle
+	map_Ka CD2.Blv.textures/ch2frLE.bmp
+	map_Kd CD2.Blv.textures/ch2frLE.bmp
+	
+newmtl ch2frntb
+	map_Ka CD2.Blv.textures/ch2FRNTb.bmp
+	map_Kd CD2.Blv.textures/ch2FRNTb.bmp
+	
+newmtl ch2side
+	map_Ka CD2.Blv.textures/ch2side.bmp
+	map_Kd CD2.Blv.textures/ch2side.bmp
+	
+newmtl ch2frre
+	map_Ka CD2.Blv.textures/ch2frRE.bmp
+	map_Kd CD2.Blv.textures/ch2frRE.bmp
+	
+newmtl ch2topre
+	map_Ka CD2.Blv.textures/ch2topRE.bmp
+	map_Kd CD2.Blv.textures/ch2topRE.bmp
+	
+newmtl ch2tople
+	map_Ka CD2.Blv.textures/ch2topLE.bmp
+	map_Kd CD2.Blv.textures/ch2topLE.bmp
+	
+newmtl ctspcl1
+	map_Ka CD2.Blv.textures/ctspcl1.bmp
+	map_Kd CD2.Blv.textures/ctspcl1.bmp
+	
+newmtl ch2topb
+	map_Ka CD2.Blv.textures/ch2TOPb.bmp
+	map_Kd CD2.Blv.textures/ch2TOPb.bmp
+	
+newmtl lavatyl
+	map_Ka CD2.Blv.textures/LAVATYL.bmp
+	map_Kd CD2.Blv.textures/LAVATYL.bmp
+	
+newmtl d2flor5
+	map_Ka CD2.Blv.textures/D2flor5.bmp
+	map_Kd CD2.Blv.textures/D2flor5.bmp
+	
+newmtl d2flor4
+	map_Ka CD2.Blv.textures/D2flor4.bmp
+	map_Kd CD2.Blv.textures/D2flor4.bmp
+	
+newmtl d2wlale
+	map_Ka CD2.Blv.textures/D2WlALE.bmp
+	map_Kd CD2.Blv.textures/D2WlALE.bmp
+	
+newmtl d2wlare
+	map_Ka CD2.Blv.textures/D2WlARE.bmp
+	map_Kd CD2.Blv.textures/D2WlARE.bmp
+	
+newmtl d2wlactr
+	map_Ka CD2.Blv.textures/D2WlActr.bmp
+	map_Kd CD2.Blv.textures/D2WlActr.bmp
+	
+newmtl d2wlbpos
+	map_Ka CD2.Blv.textures/D2WlBPos.bmp
+	map_Kd CD2.Blv.textures/D2WlBPos.bmp
+	
+newmtl crdflr4
+	map_Ka CD2.Blv.textures/CrDFlr4.bmp
+	map_Kd CD2.Blv.textures/CrDFlr4.bmp
+	
+newmtl bemv32c
+	map_Ka CD2.Blv.textures/BemV32c.bmp
+	map_Kd CD2.Blv.textures/BemV32c.bmp
+	
+newmtl d6roofb
+	map_Ka CD2.Blv.textures/d6roofB.bmp
+	map_Kd CD2.Blv.textures/d6roofB.bmp
+	
+newmtl d2wlbmed
+	map_Ka CD2.Blv.textures/D2WlBmed.bmp
+	map_Kd CD2.Blv.textures/D2WlBmed.bmp
+	
+newmtl bigsign
+	map_Ka CD2.Blv.textures/bigsign.bmp
+	map_Kd CD2.Blv.textures/bigsign.bmp
+	
+newmtl t3ll5
+	map_Ka CD2.Blv.textures/T3LL5.bmp
+	map_Kd CD2.Blv.textures/T3LL5.bmp
+	
+newmtl bdksh16c
+	map_Ka CD2.Blv.textures/BdkSH16c.bmp
+	map_Kd CD2.Blv.textures/BdkSH16c.bmp
+	
+newmtl bdksv16c
+	map_Ka CD2.Blv.textures/BdkSV16c.bmp
+	map_Kd CD2.Blv.textures/BdkSV16c.bmp
+	
+newmtl t3wsp
+	map_Ka CD2.Blv.textures/t3wsp.bmp
+	map_Kd CD2.Blv.textures/t3wsp.bmp
+	
+newmtl sign7
+	map_Ka CD2.Blv.textures/SIGN7.bmp
+	map_Kd CD2.Blv.textures/SIGN7.bmp
+	
+newmtl crdflr4:i
+	d 0.3
+	Tr 0.7
+	map_Ka CD2.Blv.textures/CrDFlr4.bmp
+	map_Kd CD2.Blv.textures/CrDFlr4.bmp
+	
+newmtl d2wctra:i
+	d 0.3
+	Tr 0.7
+	map_Ka CD2.Blv.textures/d2wctrA.bmp
+	map_Kd CD2.Blv.textures/d2wctrA.bmp
+	
+newmtl d2lgdor
+	map_Ka CD2.Blv.textures/D2LgDor.bmp
+	map_Kd CD2.Blv.textures/D2LgDor.bmp
+	
+newmtl bemvdk
+	map_Ka CD2.Blv.textures/BemVdk.bmp
+	map_Kd CD2.Blv.textures/BemVdk.bmp
+	
+newmtl bemsv32c
+	map_Ka CD2.Blv.textures/BemSV32c.bmp
+	map_Kd CD2.Blv.textures/BemSV32c.bmp
+	
+newmtl d2skulbs
+	map_Ka CD2.Blv.textures/D2skulBs.bmp
+	map_Kd CD2.Blv.textures/D2skulBs.bmp
+	
+newmtl lavatyl:i
+	d 0.3
+	Tr 0.7
+	map_Ka CD2.Blv.textures/LAVATYL.bmp
+	map_Kd CD2.Blv.textures/LAVATYL.bmp
+	
+newmtl d1wctrb
+	map_Ka CD2.Blv.textures/d1wctrb.bmp
+	map_Kd CD2.Blv.textures/d1wctrb.bmp
+	
+newmtl d2wlcctr
+	map_Ka CD2.Blv.textures/D2WlCCtr.bmp
+	map_Kd CD2.Blv.textures/D2WlCCtr.bmp
+	
+newmtl d2ceil2
+	map_Ka CD2.Blv.textures/D2Ceil2.bmp
+	map_Kd CD2.Blv.textures/D2Ceil2.bmp

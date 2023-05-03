@@ -1,0 +1,209 @@
+# Model MTL from "oracle.dat" map from MM6.
+	
+newmtl swall5
+	map_Ka Oracle.Blv.textures/SWall5.bmp
+	map_Kd Oracle.Blv.textures/SWall5.bmp
+	
+newmtl ormrblgb
+	map_Ka Oracle.Blv.textures/OrMrbLgB.bmp
+	map_Kd Oracle.Blv.textures/OrMrbLgB.bmp
+	
+newmtl orertlgb
+	map_Ka Oracle.Blv.textures/OrErtLgB.bmp
+	map_Kd Oracle.Blv.textures/OrErtLgB.bmp
+	
+newmtl oceil
+	map_Ka Oracle.Blv.textures/OCeil.bmp
+	map_Kd Oracle.Blv.textures/OCeil.bmp
+	
+newmtl orceil
+	map_Ka Oracle.Blv.textures/OrCeil.bmp
+	map_Kd Oracle.Blv.textures/OrCeil.bmp
+	
+newmtl swgirder
+	map_Ka Oracle.Blv.textures/swGIRDER.bmp
+	map_Kd Oracle.Blv.textures/swGIRDER.bmp
+	
+newmtl swrdk
+	map_Ka Oracle.Blv.textures/SWrdk.bmp
+	map_Kd Oracle.Blv.textures/SWrdk.bmp
+	
+newmtl oflr1
+	map_Ka Oracle.Blv.textures/OFlr1.bmp
+	map_Kd Oracle.Blv.textures/OFlr1.bmp
+	
+newmtl swwala
+	map_Ka Oracle.Blv.textures/SWwalA.bmp
+	map_Kd Oracle.Blv.textures/SWwalA.bmp
+	
+newmtl orflra
+	map_Ka Oracle.Blv.textures/OrFlrA.bmp
+	map_Kd Oracle.Blv.textures/OrFlrA.bmp
+	
+newmtl sky_nit1
+	map_Ka Oracle.Blv.textures/SKY_NIT1.bmp
+	map_Kd Oracle.Blv.textures/SKY_NIT1.bmp
+	
+newmtl swll4dk
+	map_Ka Oracle.Blv.textures/SWll4dk.bmp
+	map_Kd Oracle.Blv.textures/SWll4dk.bmp
+	
+newmtl swr2dk
+	map_Ka Oracle.Blv.textures/SWr2dk.bmp
+	map_Kd Oracle.Blv.textures/SWr2dk.bmp
+
+newmtl _portal_
+	map_Tr Oracle.Blv.textures/_Portal_.png
+	map_d Oracle.Blv.textures/_Portal_.png
+	map_Ka Oracle.Blv.textures/_Portal_.png
+	map_Kd Oracle.Blv.textures/_Portal_.png
+	
+newmtl mndora
+	map_Ka Oracle.Blv.textures/mnDorA.bmp
+	map_Kd Oracle.Blv.textures/mnDorA.bmp
+	
+newmtl swank
+	map_Ka Oracle.Blv.textures/SWank.bmp
+	map_Kd Oracle.Blv.textures/SWank.bmp
+	
+newmtl trekscon
+	map_Ka Oracle.Blv.textures/trekscOn.bmp
+	map_Kd Oracle.Blv.textures/trekscOn.bmp
+	
+newmtl orflr1
+	map_Ka Oracle.Blv.textures/OrFlr1.bmp
+	map_Kd Oracle.Blv.textures/OrFlr1.bmp
+	
+newmtl orflrd32
+	map_Ka Oracle.Blv.textures/OrFlrd32.bmp
+	map_Kd Oracle.Blv.textures/OrFlrd32.bmp
+	
+newmtl orwtrtyl
+	map_Ka Oracle.Blv.textures/OrWtrTyl.bmp
+	map_Kd Oracle.Blv.textures/OrWtrTyl.bmp
+	
+newmtl orfyrlgb
+	map_Ka Oracle.Blv.textures/OrFyrLgB.bmp
+	map_Kd Oracle.Blv.textures/OrFyrLgB.bmp
+	
+newmtl orfyr64b
+	map_Ka Oracle.Blv.textures/OrFyr64B.bmp
+	map_Kd Oracle.Blv.textures/OrFyr64B.bmp
+	
+newmtl orair64
+	map_Ka Oracle.Blv.textures/OrAir64.bmp
+	map_Kd Oracle.Blv.textures/OrAir64.bmp
+	
+newmtl orair64a
+	map_Ka Oracle.Blv.textures/OrAir64A.bmp
+	map_Kd Oracle.Blv.textures/OrAir64A.bmp
+	
+newmtl orert64
+	map_Ka Oracle.Blv.textures/OrErt64.bmp
+	map_Kd Oracle.Blv.textures/OrErt64.bmp
+	
+newmtl orflr132
+	map_Ka Oracle.Blv.textures/OrFlr132.bmp
+	map_Kd Oracle.Blv.textures/OrFlr132.bmp
+	
+newmtl orwtr32
+	map_Ka Oracle.Blv.textures/OrWtr32.bmp
+	map_Kd Oracle.Blv.textures/OrWtr32.bmp
+	
+newmtl orair32
+	map_Ka Oracle.Blv.textures/OrAir32.bmp
+	map_Kd Oracle.Blv.textures/OrAir32.bmp
+	
+newmtl trekscrn
+	map_Ka Oracle.Blv.textures/TREKSCRN.bmp
+	map_Kd Oracle.Blv.textures/TREKSCRN.bmp
+	
+newmtl orflr32b
+	map_Ka Oracle.Blv.textures/OrFlr32B.bmp
+	map_Kd Oracle.Blv.textures/OrFlr32B.bmp
+	
+newmtl oflr1d32
+	map_Ka Oracle.Blv.textures/OFlr1D32.bmp
+	map_Kd Oracle.Blv.textures/OFlr1D32.bmp
+	
+newmtl orair256b
+	map_Ka Oracle.Blv.textures/Orair256B.bmp
+	map_Kd Oracle.Blv.textures/Orair256B.bmp
+	
+newmtl orfyr32
+	map_Ka Oracle.Blv.textures/OrFyr32.bmp
+	map_Kd Oracle.Blv.textures/OrFyr32.bmp
+	
+newmtl oceil1
+	map_Ka Oracle.Blv.textures/OCeil1.bmp
+	map_Kd Oracle.Blv.textures/OCeil1.bmp
+	
+newmtl ormrblga
+	map_Ka Oracle.Blv.textures/OrMrbLgA.bmp
+	map_Kd Oracle.Blv.textures/OrMrbLgA.bmp
+	
+newmtl oflr1l32
+	map_Ka Oracle.Blv.textures/OFlr1L32.bmp
+	map_Kd Oracle.Blv.textures/OFlr1L32.bmp
+	
+newmtl orwtr64
+	map_Ka Oracle.Blv.textures/orWtr64.bmp
+	map_Kd Oracle.Blv.textures/orWtr64.bmp
+	
+newmtl oceil:i
+	d 0.3
+	Tr 0.7
+	map_Ka Oracle.Blv.textures/OCeil.bmp
+	map_Kd Oracle.Blv.textures/OCeil.bmp
+	
+newmtl orwtrlgb
+	map_Ka Oracle.Blv.textures/OrWtrLgB.bmp
+	map_Kd Oracle.Blv.textures/OrWtrLgB.bmp
+	
+newmtl orairmbb
+	map_Ka Oracle.Blv.textures/ORAirMbB.bmp
+	map_Kd Oracle.Blv.textures/ORAirMbB.bmp
+	
+newmtl orert64b
+	map_Ka Oracle.Blv.textures/OrErt64B.bmp
+	map_Kd Oracle.Blv.textures/OrErt64B.bmp
+	
+newmtl orwtr64b
+	map_Ka Oracle.Blv.textures/OrWtr64B.bmp
+	map_Kd Oracle.Blv.textures/OrWtr64B.bmp
+	
+newmtl orfyr64a
+	map_Ka Oracle.Blv.textures/OrFyr64A.bmp
+	map_Kd Oracle.Blv.textures/OrFyr64A.bmp
+	
+newmtl orairrf
+	map_Ka Oracle.Blv.textures/OrAirRf.bmp
+	map_Kd Oracle.Blv.textures/OrAirRf.bmp
+	
+newmtl orwtrrf
+	map_Ka Oracle.Blv.textures/OrWtrRf.bmp
+	map_Kd Oracle.Blv.textures/OrWtrRf.bmp
+	
+newmtl swankdk
+	map_Ka Oracle.Blv.textures/SWankDk.bmp
+	map_Kd Oracle.Blv.textures/SWankDk.bmp
+	
+newmtl orfyrrf
+	map_Ka Oracle.Blv.textures/OrFyrRF.bmp
+	map_Kd Oracle.Blv.textures/OrFyrRF.bmp
+	
+newmtl orfyrlga
+	map_Ka Oracle.Blv.textures/OrFyrLgA.bmp
+	map_Kd Oracle.Blv.textures/OrFyrLgA.bmp
+	
+newmtl orerthrf
+	map_Ka Oracle.Blv.textures/OrErthRF.bmp
+	map_Kd Oracle.Blv.textures/OrErthRF.bmp
+	
+newmtl orert32
+	map_Ka Oracle.Blv.textures/OrErt32.bmp
+	map_Kd Oracle.Blv.textures/OrErt32.bmp
+	
+newmtl orwtrlga
+	map_Ka Oracle.Blv.textures/OrWtrLgA.bmp
+	map_Kd Oracle.Blv.textures/OrWtrLgA.bmp

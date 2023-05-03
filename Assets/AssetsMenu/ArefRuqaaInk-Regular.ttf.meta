@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fba402c2c67c7684593f5325efcf7a9d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aref Ruqaa Ink
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f912d3f4a105edf49b9d1a6673c96f92, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

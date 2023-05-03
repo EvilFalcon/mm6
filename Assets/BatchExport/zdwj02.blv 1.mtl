@@ -1,0 +1,59 @@
+# Model MTL from "zdwj02.dat" map from MM6.
+	
+newmtl desrt4
+	map_Ka zdwj02.blv.textures/DesRt4.bmp
+	map_Kd zdwj02.blv.textures/DesRt4.bmp
+	
+newmtl descnr2
+	map_Ka zdwj02.blv.textures/DesCnr2.bmp
+	map_Kd zdwj02.blv.textures/DesCnr2.bmp
+	
+newmtl descnr4
+	map_Ka zdwj02.blv.textures/DesCnr4.bmp
+	map_Kd zdwj02.blv.textures/DesCnr4.bmp
+	
+newmtl desrf1
+	map_Ka zdwj02.blv.textures/DesRf1.bmp
+	map_Kd zdwj02.blv.textures/DesRf1.bmp
+	
+newmtl deslft4
+	map_Ka zdwj02.blv.textures/DesLft4.bmp
+	map_Kd zdwj02.blv.textures/DesLft4.bmp
+	
+newmtl stcplan
+	map_Ka zdwj02.blv.textures/Stcplan.bmp
+	map_Kd zdwj02.blv.textures/Stcplan.bmp
+
+newmtl _portal_
+	map_Tr zdwj02.blv.textures/_Portal_.png
+	map_d zdwj02.blv.textures/_Portal_.png
+	map_Ka zdwj02.blv.textures/_Portal_.png
+	map_Kd zdwj02.blv.textures/_Portal_.png
+	
+newmtl t3dwal1
+	map_Ka zdwj02.blv.textures/T3DWAL1.bmp
+	map_Kd zdwj02.blv.textures/T3DWAL1.bmp
+	
+newmtl t3ll4le
+	map_Ka zdwj02.blv.textures/T3LL4LE.bmp
+	map_Kd zdwj02.blv.textures/T3LL4LE.bmp
+	
+newmtl t3ll4re
+	map_Ka zdwj02.blv.textures/T3LL4RE.bmp
+	map_Kd zdwj02.blv.textures/T3LL4RE.bmp
+	
+newmtl t3ll4
+	map_Ka zdwj02.blv.textures/T3LL4.bmp
+	map_Kd zdwj02.blv.textures/T3LL4.bmp
+	
+newmtl t3dr1
+	map_Ka zdwj02.blv.textures/T3DR1.bmp
+	map_Kd zdwj02.blv.textures/T3DR1.bmp
+	
+newmtl t3oor1
+	map_Ka zdwj02.blv.textures/T3OOR1.bmp
+	map_Kd zdwj02.blv.textures/T3OOR1.bmp
+	
+newmtl t3ll6
+	map_Ka zdwj02.blv.textures/T3LL6.bmp
+	map_Kd zdwj02.blv.textures/T3LL6.bmp

@@ -1,0 +1,151 @@
+# Model MTL from "d13.dat" map from MM6.
+	
+newmtl d6wlare
+	map_Ka D13.Blv.textures/d6wlARE.bmp
+	map_Kd D13.Blv.textures/d6wlARE.bmp
+	
+newmtl d6wlactr
+	map_Ka D13.Blv.textures/d6wlActr.bmp
+	map_Kd D13.Blv.textures/d6wlActr.bmp
+
+newmtl _portal_
+	map_Tr D13.Blv.textures/_Portal_.png
+	map_d D13.Blv.textures/_Portal_.png
+	map_Ka D13.Blv.textures/_Portal_.png
+	map_Kd D13.Blv.textures/_Portal_.png
+	
+newmtl d6roofa
+	map_Ka D13.Blv.textures/d6RoofA.bmp
+	map_Kd D13.Blv.textures/d6RoofA.bmp
+	
+newmtl d6ebeam
+	map_Ka D13.Blv.textures/d6Ebeam.bmp
+	map_Kd D13.Blv.textures/d6Ebeam.bmp
+	
+newmtl d6dorc
+	map_Ka D13.Blv.textures/d6dorC.bmp
+	map_Kd D13.Blv.textures/d6dorC.bmp
+	
+newmtl d6wlale
+	map_Ka D13.Blv.textures/d6wlALE.bmp
+	map_Kd D13.Blv.textures/d6wlALE.bmp
+	
+newmtl dirttyl
+	map_Ka D13.Blv.textures/DirtTyl.bmp
+	map_Kd D13.Blv.textures/DirtTyl.bmp
+	
+newmtl d6wlasp1
+	map_Ka D13.Blv.textures/d6wlAsp1.bmp
+	map_Kd D13.Blv.textures/d6wlAsp1.bmp
+	
+newmtl d6florb
+	map_Ka D13.Blv.textures/d6florB.bmp
+	map_Kd D13.Blv.textures/d6florB.bmp
+	
+newmtl d6roofb
+	map_Ka D13.Blv.textures/d6roofB.bmp
+	map_Kd D13.Blv.textures/d6roofB.bmp
+	
+newmtl d6wldctr
+	map_Ka D13.Blv.textures/d6wlDctr.bmp
+	map_Kd D13.Blv.textures/d6wlDctr.bmp
+	
+newmtl d6wldre
+	map_Ka D13.Blv.textures/d6wlDRE.bmp
+	map_Kd D13.Blv.textures/d6wlDRE.bmp
+	
+newmtl d6wldle
+	map_Ka D13.Blv.textures/d6wlDLE.bmp
+	map_Kd D13.Blv.textures/d6wlDLE.bmp
+	
+newmtl d2wctra
+	map_Ka D13.Blv.textures/d2wctrA.bmp
+	map_Kd D13.Blv.textures/d2wctrA.bmp
+	
+newmtl d6flora
+	map_Ka D13.Blv.textures/d6florA.bmp
+	map_Kd D13.Blv.textures/d6florA.bmp
+	
+newmtl d2wlcctr
+	map_Ka D13.Blv.textures/D2WlCCtr.bmp
+	map_Kd D13.Blv.textures/D2WlCCtr.bmp
+	
+newmtl d6wlalg
+	map_Ka D13.Blv.textures/d6wlALG.bmp
+	map_Kd D13.Blv.textures/d6wlALG.bmp
+	
+newmtl d6wlbctr
+	map_Ka D13.Blv.textures/d6wlBctr.bmp
+	map_Kd D13.Blv.textures/d6wlBctr.bmp
+	
+newmtl d6dorb
+	map_Ka D13.Blv.textures/d6DorB.bmp
+	map_Kd D13.Blv.textures/d6DorB.bmp
+	
+newmtl d6dord
+	map_Ka D13.Blv.textures/d6dorD.bmp
+	map_Kd D13.Blv.textures/d6dorD.bmp
+	
+newmtl orertlga
+	map_Ka D13.Blv.textures/OrErtLgA.bmp
+	map_Kd D13.Blv.textures/OrErtLgA.bmp
+	
+newmtl orerthrf
+	map_Ka D13.Blv.textures/OrErthRF.bmp
+	map_Kd D13.Blv.textures/OrErthRF.bmp
+	
+newmtl orert32
+	map_Ka D13.Blv.textures/OrErt32.bmp
+	map_Kd D13.Blv.textures/OrErt32.bmp
+	
+newmtl oflr1
+	map_Ka D13.Blv.textures/OFlr1.bmp
+	map_Kd D13.Blv.textures/OFlr1.bmp
+	
+newmtl ch1side
+	map_Ka D13.Blv.textures/ch1side.bmp
+	map_Kd D13.Blv.textures/ch1side.bmp
+	
+newmtl ch1frnt
+	map_Ka D13.Blv.textures/ch1frnt.bmp
+	map_Kd D13.Blv.textures/ch1frnt.bmp
+	
+newmtl bemdk4
+	map_Ka D13.Blv.textures/BEMDK4.bmp
+	map_Kd D13.Blv.textures/BEMDK4.bmp
+	
+newmtl ch1top
+	map_Ka D13.Blv.textures/ch1top.bmp
+	map_Kd D13.Blv.textures/ch1top.bmp
+	
+newmtl wtrtyl
+	map_Ka D13.Blv.textures/WTRTYL.bmp
+	map_Kd D13.Blv.textures/WTRTYL.bmp
+	
+newmtl bemdk2
+	map_Ka D13.Blv.textures/BEMDK2.bmp
+	map_Kd D13.Blv.textures/BEMDK2.bmp
+	
+newmtl d6dora
+	map_Ka D13.Blv.textures/d6DorA.bmp
+	map_Kd D13.Blv.textures/d6DorA.bmp
+	
+newmtl grastyl
+	map_Ka D13.Blv.textures/Grastyl.bmp
+	map_Kd D13.Blv.textures/Grastyl.bmp
+	
+newmtl d6uniqb
+	map_Ka D13.Blv.textures/d6uniqb.bmp
+	map_Kd D13.Blv.textures/d6uniqb.bmp
+	
+newmtl d6dorde
+	map_Ka D13.Blv.textures/d6dorDE.bmp
+	map_Kd D13.Blv.textures/d6dorDE.bmp
+	
+newmtl d6wlbre
+	map_Ka D13.Blv.textures/d6wlBRE.bmp
+	map_Kd D13.Blv.textures/d6wlBRE.bmp
+	
+newmtl d6wlble
+	map_Ka D13.Blv.textures/d6wlBLE.bmp
+	map_Kd D13.Blv.textures/d6wlBLE.bmp

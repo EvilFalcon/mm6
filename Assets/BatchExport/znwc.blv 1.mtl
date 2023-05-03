@@ -1,0 +1,143 @@
+# Model MTL from "znwc.dat" map from MM6.
+	
+newmtl bmsre
+	map_Ka znwc.blv.textures/BMSre.bmp
+	map_Kd znwc.blv.textures/BMSre.bmp
+	
+newmtl tdoord
+	map_Ka znwc.blv.textures/TdoorD.bmp
+	map_Kd znwc.blv.textures/TdoorD.bmp
+	
+newmtl bmsle
+	map_Ka znwc.blv.textures/BMSle.bmp
+	map_Kd znwc.blv.textures/BMSle.bmp
+	
+newmtl swprrf1
+	map_Ka znwc.blv.textures/SwprRf1.bmp
+	map_Kd znwc.blv.textures/SwprRf1.bmp
+	
+newmtl bmsctr
+	map_Ka znwc.blv.textures/BMSctr.bmp
+	map_Kd znwc.blv.textures/BMSctr.bmp
+	
+newmtl bmsctr1
+	map_Ka znwc.blv.textures/BMSCTR1.bmp
+	map_Kd znwc.blv.textures/BMSCTR1.bmp
+	
+newmtl swprf
+	map_Ka znwc.blv.textures/SwpRf.bmp
+	map_Kd znwc.blv.textures/SwpRf.bmp
+
+newmtl _portal_
+	map_Tr znwc.blv.textures/_Portal_.png
+	map_d znwc.blv.textures/_Portal_.png
+	map_Ka znwc.blv.textures/_Portal_.png
+	map_Kd znwc.blv.textures/_Portal_.png
+	
+newmtl swprrf2
+	map_Ka znwc.blv.textures/SwprRf2.bmp
+	map_Kd znwc.blv.textures/SwprRf2.bmp
+	
+newmtl d7flor4
+	map_Ka znwc.blv.textures/D7flor4.bmp
+	map_Kd znwc.blv.textures/D7flor4.bmp
+	
+newmtl gset05
+	map_Ka znwc.blv.textures/gset05.bmp
+	map_Kd znwc.blv.textures/gset05.bmp
+	
+newmtl d1sbpa
+	map_Ka znwc.blv.textures/d1sbpA.bmp
+	map_Kd znwc.blv.textures/d1sbpA.bmp
+	
+newmtl tdoorb
+	map_Ka znwc.blv.textures/TDOORB.bmp
+	map_Kd znwc.blv.textures/TDOORB.bmp
+	
+newmtl mnwl1
+	map_Ka znwc.blv.textures/mnwl1.bmp
+	map_Kd znwc.blv.textures/mnwl1.bmp
+	
+newmtl t1swdd
+	map_Ka znwc.blv.textures/T1swDd.bmp
+	map_Kd znwc.blv.textures/T1swDd.bmp
+	
+newmtl bd1ftbrd
+	map_Ka znwc.blv.textures/bd1ftbrd.bmp
+	map_Kd znwc.blv.textures/bd1ftbrd.bmp
+	
+newmtl cb6top
+	map_Ka znwc.blv.textures/cb6top.bmp
+	map_Kd znwc.blv.textures/cb6top.bmp
+	
+newmtl t1trima
+	map_Ka znwc.blv.textures/T1trimA.bmp
+	map_Kd znwc.blv.textures/T1trimA.bmp
+	
+newmtl cb2frnt
+	map_Ka znwc.blv.textures/cb2frnt.bmp
+	map_Kd znwc.blv.textures/cb2frnt.bmp
+	
+newmtl bemob1b
+	map_Ka znwc.blv.textures/BemOB1b.bmp
+	map_Kd znwc.blv.textures/BemOB1b.bmp
+	
+newmtl bemob2b
+	map_Ka znwc.blv.textures/BemOB2b.bmp
+	map_Kd znwc.blv.textures/BemOB2b.bmp
+	
+newmtl cb5frnt
+	map_Ka znwc.blv.textures/cb5frnt.bmp
+	map_Kd znwc.blv.textures/cb5frnt.bmp
+	
+newmtl bookcas2
+	map_Ka znwc.blv.textures/Bookcas2.bmp
+	map_Kd znwc.blv.textures/Bookcas2.bmp
+	
+newmtl bookcas1
+	map_Ka znwc.blv.textures/bookCas1.bmp
+	map_Kd znwc.blv.textures/bookCas1.bmp
+	
+newmtl ch1top
+	map_Ka znwc.blv.textures/ch1top.bmp
+	map_Kd znwc.blv.textures/ch1top.bmp
+	
+newmtl ch1side
+	map_Ka znwc.blv.textures/ch1side.bmp
+	map_Kd znwc.blv.textures/ch1side.bmp
+	
+newmtl ch1frnt
+	map_Ka znwc.blv.textures/ch1frnt.bmp
+	map_Kd znwc.blv.textures/ch1frnt.bmp
+	
+newmtl t1f3
+	map_Ka znwc.blv.textures/t1f3.bmp
+	map_Kd znwc.blv.textures/t1f3.bmp
+	
+newmtl bemh16a
+	map_Ka znwc.blv.textures/BemH16a.bmp
+	map_Kd znwc.blv.textures/BemH16a.bmp
+	
+newmtl vlcwl1a
+	map_Ka znwc.blv.textures/vlcwl1A.bmp
+	map_Kd znwc.blv.textures/vlcwl1A.bmp
+	
+newmtl t1f4
+	map_Ka znwc.blv.textures/t1f4.bmp
+	map_Kd znwc.blv.textures/t1f4.bmp
+	
+newmtl cb1frnt
+	map_Ka znwc.blv.textures/Cb1frnt.bmp
+	map_Kd znwc.blv.textures/Cb1frnt.bmp
+	
+newmtl cb1side1
+	map_Ka znwc.blv.textures/Cb1SIDE1.bmp
+	map_Kd znwc.blv.textures/Cb1SIDE1.bmp
+	
+newmtl cb3frnt
+	map_Ka znwc.blv.textures/cb3frnt.bmp
+	map_Kd znwc.blv.textures/cb3frnt.bmp
+	
+newmtl cb3side
+	map_Ka znwc.blv.textures/cb3side.bmp
+	map_Kd znwc.blv.textures/cb3side.bmp

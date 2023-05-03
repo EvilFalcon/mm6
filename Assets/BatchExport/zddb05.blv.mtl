@@ -1,0 +1,93 @@
+# Model MTL from "zddb05.dat" map from MM6.
+	
+newmtl d6wlare
+	map_Ka zddb05.blv.textures/d6wlARE.bmp
+	map_Kd zddb05.blv.textures/d6wlARE.bmp
+	
+newmtl d6wlactr
+	map_Ka zddb05.blv.textures/d6wlActr.bmp
+	map_Kd zddb05.blv.textures/d6wlActr.bmp
+	
+newmtl d6wlale
+	map_Ka zddb05.blv.textures/d6wlALE.bmp
+	map_Kd zddb05.blv.textures/d6wlALE.bmp
+	
+newmtl d6roofa
+	map_Ka zddb05.blv.textures/d6RoofA.bmp
+	map_Kd zddb05.blv.textures/d6RoofA.bmp
+
+newmtl _portal_
+	map_Tr zddb05.blv.textures/_Portal_.png
+	map_d zddb05.blv.textures/_Portal_.png
+	map_Ka zddb05.blv.textures/_Portal_.png
+	map_Kd zddb05.blv.textures/_Portal_.png
+	
+newmtl d6flora
+	map_Ka zddb05.blv.textures/d6florA.bmp
+	map_Kd zddb05.blv.textures/d6florA.bmp
+	
+newmtl d6wlasp1
+	map_Ka zddb05.blv.textures/d6wlAsp1.bmp
+	map_Kd zddb05.blv.textures/d6wlAsp1.bmp
+	
+newmtl d6uniqa
+	map_Ka zddb05.blv.textures/d6uniqA.bmp
+	map_Kd zddb05.blv.textures/d6uniqA.bmp
+	
+newmtl d6ebeam
+	map_Ka zddb05.blv.textures/d6Ebeam.bmp
+	map_Kd zddb05.blv.textures/d6Ebeam.bmp
+	
+newmtl d6uniqa1
+	map_Ka zddb05.blv.textures/d6uniqA1.bmp
+	map_Kd zddb05.blv.textures/d6uniqA1.bmp
+	
+newmtl ch1side
+	map_Ka zddb05.blv.textures/ch1side.bmp
+	map_Kd zddb05.blv.textures/ch1side.bmp
+	
+newmtl ch1top
+	map_Ka zddb05.blv.textures/ch1top.bmp
+	map_Kd zddb05.blv.textures/ch1top.bmp
+	
+newmtl d6uniqb
+	map_Ka zddb05.blv.textures/d6uniqb.bmp
+	map_Kd zddb05.blv.textures/d6uniqb.bmp
+	
+newmtl d6dord
+	map_Ka zddb05.blv.textures/d6dorD.bmp
+	map_Kd zddb05.blv.textures/d6dorD.bmp
+	
+newmtl ch1frnt
+	map_Ka zddb05.blv.textures/ch1frnt.bmp
+	map_Kd zddb05.blv.textures/ch1frnt.bmp
+	
+newmtl d8s2off
+	map_Ka zddb05.blv.textures/D8s2off.bmp
+	map_Kd zddb05.blv.textures/D8s2off.bmp
+	
+newmtl d6wlbctr
+	map_Ka zddb05.blv.textures/d6wlBctr.bmp
+	map_Kd zddb05.blv.textures/d6wlBctr.bmp
+	
+newmtl d6wlbre
+	map_Ka zddb05.blv.textures/d6wlBRE.bmp
+	map_Kd zddb05.blv.textures/d6wlBRE.bmp
+	
+newmtl d6wlble
+	map_Ka zddb05.blv.textures/d6wlBLE.bmp
+	map_Kd zddb05.blv.textures/d6wlBLE.bmp
+	
+newmtl d6dora
+	map_Ka zddb05.blv.textures/d6DorA.bmp
+	map_Kd zddb05.blv.textures/d6DorA.bmp
+
+newmtl 
+	map_Tr zddb05.blv.textures/.png
+	map_d zddb05.blv.textures/.png
+	map_Ka zddb05.blv.textures/.png
+	map_Kd zddb05.blv.textures/.png
+	
+newmtl d8s2on
+	map_Ka zddb05.blv.textures/D8s2on.bmp
+	map_Kd zddb05.blv.textures/D8s2on.bmp
