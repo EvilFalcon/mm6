@@ -1,28 +1,24 @@
 # Model MTL from "zddb10.dat" map from MM6.
 	
-newmtl dkwst
-	map_Ka zddb10.blv.textures/Dkwst.bmp
-	map_Kd zddb10.blv.textures/Dkwst.bmp
-	
-newmtl d8florc
-	map_Ka zddb10.blv.textures/D8florC.bmp
-	map_Kd zddb10.blv.textures/D8florC.bmp
-	
 newmtl dkwle
 	map_Ka zddb10.blv.textures/Dkwle.bmp
 	map_Kd zddb10.blv.textures/Dkwle.bmp
-	
-newmtl d2ceil2
-	map_Ka zddb10.blv.textures/D2ceil2.bmp
-	map_Kd zddb10.blv.textures/D2ceil2.bmp
 	
 newmtl dkwre
 	map_Ka zddb10.blv.textures/Dkwre.bmp
 	map_Kd zddb10.blv.textures/Dkwre.bmp
 	
-newmtl d8dorg
-	map_Ka zddb10.blv.textures/D8dorG.bmp
-	map_Kd zddb10.blv.textures/D8dorG.bmp
+newmtl d2ceil2
+	map_Ka zddb10.blv.textures/D2ceil2.bmp
+	map_Kd zddb10.blv.textures/D2ceil2.bmp
+	
+newmtl dkwst
+	map_Ka zddb10.blv.textures/Dkwst.bmp
+	map_Kd zddb10.blv.textures/Dkwst.bmp
+	
+newmtl bmplnk
+	map_Ka zddb10.blv.textures/bmPLNK.bmp
+	map_Kd zddb10.blv.textures/bmPLNK.bmp
 
 newmtl _portal_
 	map_Tr zddb10.blv.textures/_Portal_.png
@@ -30,33 +26,113 @@ newmtl _portal_
 	map_Ka zddb10.blv.textures/_Portal_.png
 	map_Kd zddb10.blv.textures/_Portal_.png
 	
+newmtl d1sbpa
+	map_Ka zddb10.blv.textures/d1sbpA.bmp
+	map_Kd zddb10.blv.textures/d1sbpA.bmp
+	
+newmtl bemdk3
+	map_Ka zddb10.blv.textures/BEMDK3.bmp
+	map_Kd zddb10.blv.textures/BEMDK3.bmp
+	
 newmtl bemdk4
 	map_Ka zddb10.blv.textures/Bemdk4.bmp
 	map_Kd zddb10.blv.textures/Bemdk4.bmp
 	
-newmtl bmplnk
-	map_Ka zddb10.blv.textures/bmPLNK.bmp
-	map_Kd zddb10.blv.textures/bmPLNK.bmp
+newmtl d2ceil1
+	map_Ka zddb10.blv.textures/D2ceil1.bmp
+	map_Kd zddb10.blv.textures/D2ceil1.bmp
 	
-newmtl d8dorge
-	map_Ka zddb10.blv.textures/D8dorGE.bmp
-	map_Kd zddb10.blv.textures/D8dorGE.bmp
+newmtl bemdk2
+	map_Ka zddb10.blv.textures/BEMDK2.bmp
+	map_Kd zddb10.blv.textures/BEMDK2.bmp
 	
-newmtl d8wlbxl
-	map_Ka zddb10.blv.textures/d8wlbxL.bmp
-	map_Kd zddb10.blv.textures/d8wlbxL.bmp
+newmtl cbtiny
+	map_Ka zddb10.blv.textures/CBTINY.bmp
+	map_Kd zddb10.blv.textures/CBTINY.bmp
 	
-newmtl d8wlbxr
-	map_Ka zddb10.blv.textures/d8wlbxR.bmp
-	map_Kd zddb10.blv.textures/d8wlbxR.bmp
+newmtl cbb
+	map_Ka zddb10.blv.textures/CBB.bmp
+	map_Kd zddb10.blv.textures/CBB.bmp
+	
+newmtl bemsh32b
+	map_Ka zddb10.blv.textures/BemSH32b.bmp
+	map_Kd zddb10.blv.textures/BemSH32b.bmp
+	
+newmtl cblrg
+	map_Ka zddb10.blv.textures/CbLRG.bmp
+	map_Kd zddb10.blv.textures/CbLRG.bmp
+	
+newmtl d2trpdor
+	map_Ka zddb10.blv.textures/D2trpdor.bmp
+	map_Kd zddb10.blv.textures/D2trpdor.bmp
+	
+newmtl bd1ftbrsd
+	map_Ka zddb10.blv.textures/bd1ftbrsd.bmp
+	map_Kd zddb10.blv.textures/bd1ftbrsd.bmp
+	
+newmtl bd1rail
+	map_Ka zddb10.blv.textures/bd1rail.bmp
+	map_Kd zddb10.blv.textures/bd1rail.bmp
+	
+newmtl cbfeam9
+	map_Ka zddb10.blv.textures/Cbfeam9.bmp
+	map_Kd zddb10.blv.textures/Cbfeam9.bmp
+	
+newmtl cbm16b
+	map_Ka zddb10.blv.textures/CBM16B.bmp
+	map_Kd zddb10.blv.textures/CBM16B.bmp
+	
+newmtl d8ceila
+	map_Ka zddb10.blv.textures/D8ceilA.bmp
+	map_Kd zddb10.blv.textures/D8ceilA.bmp
+	
+newmtl d8florc
+	map_Ka zddb10.blv.textures/D8florC.bmp
+	map_Kd zddb10.blv.textures/D8florC.bmp
+	
+newmtl d2flor2
+	map_Ka zddb10.blv.textures/D2flor2.bmp
+	map_Kd zddb10.blv.textures/D2flor2.bmp
 	
 newmtl d8wlbx
 	map_Ka zddb10.blv.textures/D8wlBx.bmp
 	map_Kd zddb10.blv.textures/D8wlBx.bmp
 	
-newmtl d8ceila
-	map_Ka zddb10.blv.textures/D8ceilA.bmp
-	map_Kd zddb10.blv.textures/D8ceilA.bmp
+newmtl d8wlbxl
+	map_Ka zddb10.blv.textures/d8wlbxL.bmp
+	map_Kd zddb10.blv.textures/d8wlbxL.bmp
+	
+newmtl bd1hdbrs
+	map_Ka zddb10.blv.textures/bd1hdbrS.bmp
+	map_Kd zddb10.blv.textures/bd1hdbrS.bmp
+	
+newmtl d8wlbxr
+	map_Ka zddb10.blv.textures/d8wlbxR.bmp
+	map_Kd zddb10.blv.textures/d8wlbxR.bmp
+	
+newmtl orertlga
+	map_Ka zddb10.blv.textures/OrErtLgA.bmp
+	map_Kd zddb10.blv.textures/OrErtLgA.bmp
+	
+newmtl cb2top
+	map_Ka zddb10.blv.textures/cb2top.bmp
+	map_Kd zddb10.blv.textures/cb2top.bmp
+	
+newmtl cbedsqr
+	map_Ka zddb10.blv.textures/Cbedsqr.bmp
+	map_Kd zddb10.blv.textures/Cbedsqr.bmp
+	
+newmtl cedsqrdk
+	map_Ka zddb10.blv.textures/CEDSQRDK.bmp
+	map_Kd zddb10.blv.textures/CEDSQRDK.bmp
+	
+newmtl d8dorg
+	map_Ka zddb10.blv.textures/D8dorG.bmp
+	map_Kd zddb10.blv.textures/D8dorG.bmp
+	
+newmtl d8dorge
+	map_Ka zddb10.blv.textures/D8dorGE.bmp
+	map_Kd zddb10.blv.textures/D8dorGE.bmp
 	
 newmtl d8s2on
 	map_Ka zddb10.blv.textures/D8s2on.bmp
@@ -66,29 +142,29 @@ newmtl d8s2off
 	map_Ka zddb10.blv.textures/D8s2off.bmp
 	map_Kd zddb10.blv.textures/D8s2off.bmp
 	
+newmtl d8wlcre
+	map_Ka zddb10.blv.textures/D8wlCRE.bmp
+	map_Kd zddb10.blv.textures/D8wlCRE.bmp
+	
 newmtl d8wlcle
 	map_Ka zddb10.blv.textures/D8wlCLE.bmp
 	map_Kd zddb10.blv.textures/D8wlCLE.bmp
-	
-newmtl d8dora
-	map_Ka zddb10.blv.textures/D8dorA.bmp
-	map_Kd zddb10.blv.textures/D8dorA.bmp
-	
-newmtl d8wlcspl
-	map_Ka zddb10.blv.textures/d8wlcspL.bmp
-	map_Kd zddb10.blv.textures/d8wlcspL.bmp
 	
 newmtl d8wlc
 	map_Ka zddb10.blv.textures/D8wlC.bmp
 	map_Kd zddb10.blv.textures/D8wlC.bmp
 	
-newmtl d8wlcre
-	map_Ka zddb10.blv.textures/D8wlCRE.bmp
-	map_Kd zddb10.blv.textures/D8wlCRE.bmp
+newmtl d8wlcspl
+	map_Ka zddb10.blv.textures/d8wlcspL.bmp
+	map_Kd zddb10.blv.textures/d8wlcspL.bmp
 	
 newmtl d8wlcspr
 	map_Ka zddb10.blv.textures/d8wlcspR.bmp
 	map_Kd zddb10.blv.textures/d8wlcspR.bmp
+	
+newmtl d8dora
+	map_Ka zddb10.blv.textures/D8dorA.bmp
+	map_Kd zddb10.blv.textures/D8dorA.bmp
 	
 newmtl d8dorabs
 	map_Ka zddb10.blv.textures/D8dorABS.bmp
@@ -102,69 +178,61 @@ newmtl d8wlcsp4
 	map_Ka zddb10.blv.textures/D8wlCsp4.bmp
 	map_Kd zddb10.blv.textures/D8wlCsp4.bmp
 	
-newmtl ch2frnt
-	map_Ka zddb10.blv.textures/ch2frnt.bmp
-	map_Kd zddb10.blv.textures/ch2frnt.bmp
-	
-newmtl d8wlcsp3
-	map_Ka zddb10.blv.textures/D8wlCsp3.bmp
-	map_Kd zddb10.blv.textures/D8wlCsp3.bmp
-	
-newmtl ch2top
-	map_Ka zddb10.blv.textures/ch2top.bmp
-	map_Kd zddb10.blv.textures/ch2top.bmp
-	
 newmtl d8wlcsp5
 	map_Ka zddb10.blv.textures/D8wlCsp5.bmp
 	map_Kd zddb10.blv.textures/D8wlCsp5.bmp
-	
-newmtl ch2side
-	map_Ka zddb10.blv.textures/ch2side.bmp
-	map_Kd zddb10.blv.textures/ch2side.bmp
 	
 newmtl ch2bak
 	map_Ka zddb10.blv.textures/ch2bak.bmp
 	map_Kd zddb10.blv.textures/ch2bak.bmp
 	
-newmtl d8wldle
-	map_Ka zddb10.blv.textures/D8wlDLE.bmp
-	map_Kd zddb10.blv.textures/D8wlDLE.bmp
+newmtl ch2top
+	map_Ka zddb10.blv.textures/ch2top.bmp
+	map_Kd zddb10.blv.textures/ch2top.bmp
 	
-newmtl d8florb
-	map_Ka zddb10.blv.textures/d8florB.bmp
-	map_Kd zddb10.blv.textures/d8florB.bmp
+newmtl ch2side
+	map_Ka zddb10.blv.textures/ch2side.bmp
+	map_Kd zddb10.blv.textures/ch2side.bmp
+	
+newmtl d8wlcsp3
+	map_Ka zddb10.blv.textures/D8wlCsp3.bmp
+	map_Kd zddb10.blv.textures/D8wlCsp3.bmp
+	
+newmtl ch2frnt
+	map_Ka zddb10.blv.textures/ch2frnt.bmp
+	map_Kd zddb10.blv.textures/ch2frnt.bmp
 	
 newmtl d8wldre
 	map_Ka zddb10.blv.textures/D8wlDRE.bmp
 	map_Kd zddb10.blv.textures/D8wlDRE.bmp
 	
+newmtl d8wldle
+	map_Ka zddb10.blv.textures/D8wlDLE.bmp
+	map_Kd zddb10.blv.textures/D8wlDLE.bmp
+	
 newmtl d8wldsp1
 	map_Ka zddb10.blv.textures/D8wlDsp1.bmp
 	map_Kd zddb10.blv.textures/D8wlDsp1.bmp
+	
+newmtl d8florb
+	map_Ka zddb10.blv.textures/d8florB.bmp
+	map_Kd zddb10.blv.textures/d8florB.bmp
 	
 newmtl d8dorb
 	map_Ka zddb10.blv.textures/D8dorB.bmp
 	map_Kd zddb10.blv.textures/D8dorB.bmp
 	
-newmtl cbedsqr
-	map_Ka zddb10.blv.textures/Cbedsqr.bmp
-	map_Kd zddb10.blv.textures/Cbedsqr.bmp
-	
-newmtl cedsqrdk
-	map_Ka zddb10.blv.textures/CEDSQRDK.bmp
-	map_Kd zddb10.blv.textures/CEDSQRDK.bmp
-	
 newmtl d8wldsp3
 	map_Ka zddb10.blv.textures/D8wlDsp3.bmp
 	map_Kd zddb10.blv.textures/D8wlDsp3.bmp
 	
-newmtl d8dorbe
-	map_Ka zddb10.blv.textures/D8dorBE.bmp
-	map_Kd zddb10.blv.textures/D8dorBE.bmp
-	
 newmtl d8wldsp4
 	map_Ka zddb10.blv.textures/D8wlDsp4.bmp
 	map_Kd zddb10.blv.textures/D8wlDsp4.bmp
+	
+newmtl d8dorbe
+	map_Ka zddb10.blv.textures/D8dorBE.bmp
+	map_Kd zddb10.blv.textures/D8dorBE.bmp
 	
 newmtl d8wldsp2
 	map_Ka zddb10.blv.textures/D8wlDsp2.bmp
@@ -182,13 +250,13 @@ newmtl d8wlbre
 	map_Ka zddb10.blv.textures/D8wlBRE.bmp
 	map_Kd zddb10.blv.textures/D8wlBRE.bmp
 	
-newmtl d8florh
-	map_Ka zddb10.blv.textures/D8florH.bmp
-	map_Kd zddb10.blv.textures/D8florH.bmp
-	
 newmtl d8wlbsp2
 	map_Ka zddb10.blv.textures/D8wlBsp2.bmp
 	map_Kd zddb10.blv.textures/D8wlBsp2.bmp
+	
+newmtl d8florh
+	map_Ka zddb10.blv.textures/D8florH.bmp
+	map_Kd zddb10.blv.textures/D8florH.bmp
 	
 newmtl d8wlbsp7
 	map_Ka zddb10.blv.textures/D8wlBsp7.bmp
@@ -198,13 +266,13 @@ newmtl d8wlbsp3
 	map_Ka zddb10.blv.textures/D8wlBsp3.bmp
 	map_Kd zddb10.blv.textures/D8wlBsp3.bmp
 	
-newmtl d8wlbsp1
-	map_Ka zddb10.blv.textures/D8wlBsp1.bmp
-	map_Kd zddb10.blv.textures/D8wlBsp1.bmp
-	
 newmtl d8wlbsp5
 	map_Ka zddb10.blv.textures/D8wlBsp5.bmp
 	map_Kd zddb10.blv.textures/D8wlBsp5.bmp
+	
+newmtl d8wlbsp1
+	map_Ka zddb10.blv.textures/D8wlBsp1.bmp
+	map_Kd zddb10.blv.textures/D8wlBsp1.bmp
 	
 newmtl d8wlbsp6
 	map_Ka zddb10.blv.textures/D8wlBsp6.bmp
@@ -237,71 +305,3 @@ newmtl d1trimle
 newmtl d2skulas
 	map_Ka zddb10.blv.textures/D2skulAS.bmp
 	map_Kd zddb10.blv.textures/D2skulAS.bmp
-	
-newmtl d1sbpa
-	map_Ka zddb10.blv.textures/d1sbpA.bmp
-	map_Kd zddb10.blv.textures/d1sbpA.bmp
-	
-newmtl d2ceil1
-	map_Ka zddb10.blv.textures/D2ceil1.bmp
-	map_Kd zddb10.blv.textures/D2ceil1.bmp
-	
-newmtl bemdk3
-	map_Ka zddb10.blv.textures/BEMDK3.bmp
-	map_Kd zddb10.blv.textures/BEMDK3.bmp
-	
-newmtl bemdk2
-	map_Ka zddb10.blv.textures/BEMDK2.bmp
-	map_Kd zddb10.blv.textures/BEMDK2.bmp
-	
-newmtl cbtiny
-	map_Ka zddb10.blv.textures/CBTINY.bmp
-	map_Kd zddb10.blv.textures/CBTINY.bmp
-	
-newmtl cbb
-	map_Ka zddb10.blv.textures/CBB.bmp
-	map_Kd zddb10.blv.textures/CBB.bmp
-	
-newmtl d2trpdor
-	map_Ka zddb10.blv.textures/D2trpdor.bmp
-	map_Kd zddb10.blv.textures/D2trpdor.bmp
-	
-newmtl cblrg
-	map_Ka zddb10.blv.textures/CbLRG.bmp
-	map_Kd zddb10.blv.textures/CbLRG.bmp
-	
-newmtl bemsh32b
-	map_Ka zddb10.blv.textures/BemSH32b.bmp
-	map_Kd zddb10.blv.textures/BemSH32b.bmp
-	
-newmtl bd1rail
-	map_Ka zddb10.blv.textures/bd1rail.bmp
-	map_Kd zddb10.blv.textures/bd1rail.bmp
-	
-newmtl bd1hdbrs
-	map_Ka zddb10.blv.textures/bd1hdbrS.bmp
-	map_Kd zddb10.blv.textures/bd1hdbrS.bmp
-	
-newmtl bd1ftbrsd
-	map_Ka zddb10.blv.textures/bd1ftbrsd.bmp
-	map_Kd zddb10.blv.textures/bd1ftbrsd.bmp
-	
-newmtl cbm16b
-	map_Ka zddb10.blv.textures/CBM16B.bmp
-	map_Kd zddb10.blv.textures/CBM16B.bmp
-	
-newmtl d2flor2
-	map_Ka zddb10.blv.textures/D2flor2.bmp
-	map_Kd zddb10.blv.textures/D2flor2.bmp
-	
-newmtl cb2top
-	map_Ka zddb10.blv.textures/cb2top.bmp
-	map_Kd zddb10.blv.textures/cb2top.bmp
-	
-newmtl cbfeam9
-	map_Ka zddb10.blv.textures/Cbfeam9.bmp
-	map_Kd zddb10.blv.textures/Cbfeam9.bmp
-	
-newmtl orertlga
-	map_Ka zddb10.blv.textures/OrErtLgA.bmp
-	map_Kd zddb10.blv.textures/OrErtLgA.bmp

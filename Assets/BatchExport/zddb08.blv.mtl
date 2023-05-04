@@ -4,17 +4,45 @@ newmtl d7wl4re
 	map_Ka zddb08.blv.textures/D7wl4RE.bmp
 	map_Kd zddb08.blv.textures/D7wl4RE.bmp
 	
+newmtl cb1frnt
+	map_Ka zddb08.blv.textures/Cb1frnt.bmp
+	map_Kd zddb08.blv.textures/Cb1frnt.bmp
+	
+newmtl cbm16b
+	map_Ka zddb08.blv.textures/CBM16B.bmp
+	map_Kd zddb08.blv.textures/CBM16B.bmp
+	
 newmtl bd1ftbrsd
 	map_Ka zddb08.blv.textures/bd1ftbrsd.bmp
 	map_Kd zddb08.blv.textures/bd1ftbrsd.bmp
+	
+newmtl bd1hdbrs
+	map_Ka zddb08.blv.textures/bd1hdbrS.bmp
+	map_Kd zddb08.blv.textures/bd1hdbrS.bmp
+	
+newmtl cbedsqr
+	map_Ka zddb08.blv.textures/Cbedsqr.bmp
+	map_Kd zddb08.blv.textures/Cbedsqr.bmp
+	
+newmtl d7wl4ctr
+	map_Ka zddb08.blv.textures/D7wl4ctr.bmp
+	map_Kd zddb08.blv.textures/D7wl4ctr.bmp
 	
 newmtl d7wl4le
 	map_Ka zddb08.blv.textures/D7wl4LE.bmp
 	map_Kd zddb08.blv.textures/D7wl4LE.bmp
 	
-newmtl d7wl4ctr
-	map_Ka zddb08.blv.textures/D7wl4ctr.bmp
-	map_Kd zddb08.blv.textures/D7wl4ctr.bmp
+newmtl bd1rail
+	map_Ka zddb08.blv.textures/bd1rail.bmp
+	map_Kd zddb08.blv.textures/bd1rail.bmp
+	
+newmtl d7flor3
+	map_Ka zddb08.blv.textures/D7flor3.bmp
+	map_Kd zddb08.blv.textures/D7flor3.bmp
+	
+newmtl d7flor8
+	map_Ka zddb08.blv.textures/D7flor8.bmp
+	map_Kd zddb08.blv.textures/D7flor8.bmp
 
 newmtl _portal_
 	map_Tr zddb08.blv.textures/_Portal_.png
@@ -22,61 +50,33 @@ newmtl _portal_
 	map_Ka zddb08.blv.textures/_Portal_.png
 	map_Kd zddb08.blv.textures/_Portal_.png
 	
-newmtl cr1ptrn
-	map_Ka zddb08.blv.textures/cr1ptrn.bmp
-	map_Kd zddb08.blv.textures/cr1ptrn.bmp
-	
-newmtl bd1hdbrs
-	map_Ka zddb08.blv.textures/bd1hdbrS.bmp
-	map_Kd zddb08.blv.textures/bd1hdbrS.bmp
+newmtl d7dor1s
+	map_Ka zddb08.blv.textures/D7dor1S.bmp
+	map_Kd zddb08.blv.textures/D7dor1S.bmp
 	
 newmtl d7ceil4
 	map_Ka zddb08.blv.textures/D7ceil4.bmp
 	map_Kd zddb08.blv.textures/D7ceil4.bmp
 	
-newmtl bd1rail
-	map_Ka zddb08.blv.textures/bd1rail.bmp
-	map_Kd zddb08.blv.textures/bd1rail.bmp
-	
-newmtl d7flor8
-	map_Ka zddb08.blv.textures/D7flor8.bmp
-	map_Kd zddb08.blv.textures/D7flor8.bmp
-	
-newmtl d7flor3
-	map_Ka zddb08.blv.textures/D7flor3.bmp
-	map_Kd zddb08.blv.textures/D7flor3.bmp
+newmtl cr1ptrn
+	map_Ka zddb08.blv.textures/cr1ptrn.bmp
+	map_Kd zddb08.blv.textures/cr1ptrn.bmp
 	
 newmtl cb1top1
 	map_Ka zddb08.blv.textures/Cb1TOP1.bmp
 	map_Kd zddb08.blv.textures/Cb1TOP1.bmp
 	
-newmtl cbedsqr
-	map_Ka zddb08.blv.textures/Cbedsqr.bmp
-	map_Kd zddb08.blv.textures/Cbedsqr.bmp
-	
-newmtl cbm16b
-	map_Ka zddb08.blv.textures/CBM16B.bmp
-	map_Kd zddb08.blv.textures/CBM16B.bmp
-	
-newmtl d7dor1s
-	map_Ka zddb08.blv.textures/D7dor1S.bmp
-	map_Kd zddb08.blv.textures/D7dor1S.bmp
-	
-newmtl oceil
-	map_Ka zddb08.blv.textures/OCeil.bmp
-	map_Kd zddb08.blv.textures/OCeil.bmp
+newmtl cedsqrdk
+	map_Ka zddb08.blv.textures/CEDSQRDK.bmp
+	map_Kd zddb08.blv.textures/CEDSQRDK.bmp
 	
 newmtl cbfeam9
 	map_Ka zddb08.blv.textures/Cbfeam9.bmp
 	map_Kd zddb08.blv.textures/Cbfeam9.bmp
 	
-newmtl cb1frnt
-	map_Ka zddb08.blv.textures/Cb1frnt.bmp
-	map_Kd zddb08.blv.textures/Cb1frnt.bmp
-	
-newmtl cedsqrdk
-	map_Ka zddb08.blv.textures/CEDSQRDK.bmp
-	map_Kd zddb08.blv.textures/CEDSQRDK.bmp
+newmtl oceil
+	map_Ka zddb08.blv.textures/OCeil.bmp
+	map_Kd zddb08.blv.textures/OCeil.bmp
 	
 newmtl d2flor2
 	map_Ka zddb08.blv.textures/D2flor2.bmp
@@ -90,14 +90,6 @@ newmtl d7dor1
 	map_Ka zddb08.blv.textures/D7dor1.bmp
 	map_Kd zddb08.blv.textures/D7dor1.bmp
 	
-newmtl crdrf1
-	map_Ka zddb08.blv.textures/CrDRf1.bmp
-	map_Kd zddb08.blv.textures/CrDRf1.bmp
-	
-newmtl crdwlle
-	map_Ka zddb08.blv.textures/CrDWlLE.bmp
-	map_Kd zddb08.blv.textures/CrDWlLE.bmp
-	
 newmtl crdwlmd
 	map_Ka zddb08.blv.textures/CrDWlMd.bmp
 	map_Kd zddb08.blv.textures/CrDWlMd.bmp
@@ -109,6 +101,14 @@ newmtl crdwlre
 newmtl crdflr3
 	map_Ka zddb08.blv.textures/CrDFlr3.bmp
 	map_Kd zddb08.blv.textures/CrDFlr3.bmp
+	
+newmtl crdrf1
+	map_Ka zddb08.blv.textures/CrDRf1.bmp
+	map_Kd zddb08.blv.textures/CrDRf1.bmp
+	
+newmtl crdwlle
+	map_Ka zddb08.blv.textures/CrDWlLE.bmp
+	map_Kd zddb08.blv.textures/CrDWlLE.bmp
 	
 newmtl d7wl2le
 	map_Ka zddb08.blv.textures/D7wl2LE.bmp
@@ -122,13 +122,13 @@ newmtl d7colum
 	map_Ka zddb08.blv.textures/D7colum.bmp
 	map_Kd zddb08.blv.textures/D7colum.bmp
 	
-newmtl d7spclc
-	map_Ka zddb08.blv.textures/D7spclC.bmp
-	map_Kd zddb08.blv.textures/D7spclC.bmp
-	
 newmtl d7spcla
 	map_Ka zddb08.blv.textures/D7spclA.bmp
 	map_Kd zddb08.blv.textures/D7spclA.bmp
+	
+newmtl d7spclc
+	map_Ka zddb08.blv.textures/D7spclC.bmp
+	map_Kd zddb08.blv.textures/D7spclC.bmp
 	
 newmtl d7spclb
 	map_Ka zddb08.blv.textures/D7spclB.bmp

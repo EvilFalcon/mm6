@@ -1,36 +1,24 @@
 # Model MTL from "zdwj01.dat" map from MM6.
 	
-newmtl d5walble
-	map_Ka zdwj01.blv.textures/d5walBLE.bmp
-	map_Kd zdwj01.blv.textures/d5walBLE.bmp
+newmtl d5walba
+	map_Ka zdwj01.blv.textures/D5WALBA.bmp
+	map_Kd zdwj01.blv.textures/D5WALBA.bmp
 	
-newmtl d5florb
-	map_Ka zdwj01.blv.textures/d5florB.bmp
-	map_Kd zdwj01.blv.textures/d5florB.bmp
-	
-newmtl ch1tprev
-	map_Ka zdwj01.blv.textures/Ch1tpREv.bmp
-	map_Kd zdwj01.blv.textures/Ch1tpREv.bmp
+newmtl d5dorlga
+	map_Ka zdwj01.blv.textures/d5dorLgA.bmp
+	map_Kd zdwj01.blv.textures/d5dorLgA.bmp
 	
 newmtl d5walbre
 	map_Ka zdwj01.blv.textures/d5walBRE.bmp
 	map_Kd zdwj01.blv.textures/d5walBRE.bmp
 	
-newmtl d5walas2
-	map_Ka zdwj01.blv.textures/d5walAs2.bmp
-	map_Kd zdwj01.blv.textures/d5walAs2.bmp
-	
-newmtl d5walba
-	map_Ka zdwj01.blv.textures/D5WALBA.bmp
-	map_Kd zdwj01.blv.textures/D5WALBA.bmp
-	
 newmtl d5ceilc
 	map_Ka zdwj01.blv.textures/d5ceilC.bmp
 	map_Kd zdwj01.blv.textures/d5ceilC.bmp
 	
-newmtl ch1tpbv
-	map_Ka zdwj01.blv.textures/Ch1tpBv.bmp
-	map_Kd zdwj01.blv.textures/Ch1tpBv.bmp
+newmtl d5florb
+	map_Ka zdwj01.blv.textures/d5florB.bmp
+	map_Kd zdwj01.blv.textures/d5florB.bmp
 
 newmtl _portal_
 	map_Tr zdwj01.blv.textures/_Portal_.png
@@ -38,13 +26,37 @@ newmtl _portal_
 	map_Ka zdwj01.blv.textures/_Portal_.png
 	map_Kd zdwj01.blv.textures/_Portal_.png
 	
-newmtl ch1tplev
-	map_Ka zdwj01.blv.textures/ch1tpLEv.bmp
-	map_Kd zdwj01.blv.textures/ch1tpLEv.bmp
+newmtl d5walble
+	map_Ka zdwj01.blv.textures/d5walBLE.bmp
+	map_Kd zdwj01.blv.textures/d5walBLE.bmp
+	
+newmtl d5walas1
+	map_Ka zdwj01.blv.textures/d5WalAs1.bmp
+	map_Kd zdwj01.blv.textures/d5WalAs1.bmp
+	
+newmtl d5walas2
+	map_Ka zdwj01.blv.textures/d5walAs2.bmp
+	map_Kd zdwj01.blv.textures/d5walAs2.bmp
+	
+newmtl ch1topb
+	map_Ka zdwj01.blv.textures/Ch1topB.bmp
+	map_Kd zdwj01.blv.textures/Ch1topB.bmp
 	
 newmtl ch1frre
 	map_Ka zdwj01.blv.textures/ch1frRE.bmp
 	map_Kd zdwj01.blv.textures/ch1frRE.bmp
+	
+newmtl ch1frntb
+	map_Ka zdwj01.blv.textures/ch1frntB.bmp
+	map_Kd zdwj01.blv.textures/ch1frntB.bmp
+	
+newmtl ch1tople
+	map_Ka zdwj01.blv.textures/ch1topLE.bmp
+	map_Kd zdwj01.blv.textures/ch1topLE.bmp
+	
+newmtl ch1topre
+	map_Ka zdwj01.blv.textures/Ch1topRE.bmp
+	map_Kd zdwj01.blv.textures/Ch1topRE.bmp
 	
 newmtl ch1frle
 	map_Ka zdwj01.blv.textures/ch1frLE.bmp
@@ -54,26 +66,14 @@ newmtl ch1side
 	map_Ka zdwj01.blv.textures/ch1side.bmp
 	map_Kd zdwj01.blv.textures/ch1side.bmp
 	
-newmtl ch1frntb
-	map_Ka zdwj01.blv.textures/ch1frntB.bmp
-	map_Kd zdwj01.blv.textures/ch1frntB.bmp
+newmtl ch1tprev
+	map_Ka zdwj01.blv.textures/Ch1tpREv.bmp
+	map_Kd zdwj01.blv.textures/Ch1tpREv.bmp
 	
-newmtl d5dorlga
-	map_Ka zdwj01.blv.textures/d5dorLgA.bmp
-	map_Kd zdwj01.blv.textures/d5dorLgA.bmp
+newmtl ch1tpbv
+	map_Ka zdwj01.blv.textures/Ch1tpBv.bmp
+	map_Kd zdwj01.blv.textures/Ch1tpBv.bmp
 	
-newmtl d5walas1
-	map_Ka zdwj01.blv.textures/d5WalAs1.bmp
-	map_Kd zdwj01.blv.textures/d5WalAs1.bmp
-	
-newmtl ch1topb
-	map_Ka zdwj01.blv.textures/Ch1topB.bmp
-	map_Kd zdwj01.blv.textures/Ch1topB.bmp
-	
-newmtl ch1tople
-	map_Ka zdwj01.blv.textures/ch1topLE.bmp
-	map_Kd zdwj01.blv.textures/ch1topLE.bmp
-	
-newmtl ch1topre
-	map_Ka zdwj01.blv.textures/Ch1topRE.bmp
-	map_Kd zdwj01.blv.textures/Ch1topRE.bmp
+newmtl ch1tplev
+	map_Ka zdwj01.blv.textures/ch1tpLEv.bmp
+	map_Kd zdwj01.blv.textures/ch1tpLEv.bmp

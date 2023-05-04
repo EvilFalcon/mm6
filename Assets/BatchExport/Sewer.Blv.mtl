@@ -1,16 +1,8 @@
 # Model MTL from "sewer.dat" map from MM6.
 	
-newmtl d1medbw
-	map_Ka Sewer.Blv.textures/d1medbw.bmp
-	map_Kd Sewer.Blv.textures/d1medbw.bmp
-	
 newmtl d1wldle2
 	map_Ka Sewer.Blv.textures/d1wlDLE2.bmp
 	map_Kd Sewer.Blv.textures/d1wlDLE2.bmp
-	
-newmtl d1wldle3
-	map_Ka Sewer.Blv.textures/d1wlDLE3.bmp
-	map_Kd Sewer.Blv.textures/d1wlDLE3.bmp
 
 newmtl _portal_
 	map_Tr Sewer.Blv.textures/_Portal_.png
@@ -18,207 +10,41 @@ newmtl _portal_
 	map_Ka Sewer.Blv.textures/_Portal_.png
 	map_Kd Sewer.Blv.textures/_Portal_.png
 	
-newmtl swprrf3
-	map_Ka Sewer.Blv.textures/SwprRf3.bmp
-	map_Kd Sewer.Blv.textures/SwprRf3.bmp
-	
-newmtl d1ceil1
-	map_Ka Sewer.Blv.textures/D1ceil1.bmp
-	map_Kd Sewer.Blv.textures/D1ceil1.bmp
-	
-newmtl d1trimre
-	map_Ka Sewer.Blv.textures/d1trimRE.bmp
-	map_Kd Sewer.Blv.textures/d1trimRE.bmp
-	
-newmtl d1wldsp
-	map_Ka Sewer.Blv.textures/d1wlDSP.bmp
-	map_Kd Sewer.Blv.textures/d1wlDSP.bmp
-	
-newmtl d1sbpa
-	map_Ka Sewer.Blv.textures/d1sbpA.bmp
-	map_Kd Sewer.Blv.textures/d1sbpA.bmp
-	
-newmtl d8dora
-	map_Ka Sewer.Blv.textures/D8dorA.bmp
-	map_Kd Sewer.Blv.textures/D8dorA.bmp
-	
-newmtl d1lggrt
-	map_Ka Sewer.Blv.textures/D1LgGrt.bmp
-	map_Kd Sewer.Blv.textures/D1LgGrt.bmp
-	
-newmtl d1wcntr
-	map_Ka Sewer.Blv.textures/D1WCNTR.bmp
-	map_Kd Sewer.Blv.textures/D1WCNTR.bmp
-	
-newmtl d1ladder
-	map_Ka Sewer.Blv.textures/d1ladder.bmp
-	map_Kd Sewer.Blv.textures/d1ladder.bmp
-	
-newmtl d1spcl2
-	map_Ka Sewer.Blv.textures/D1spcl2.bmp
-	map_Kd Sewer.Blv.textures/D1spcl2.bmp
-	
 newmtl d1wle
 	map_Ka Sewer.Blv.textures/d1wlE.bmp
 	map_Kd Sewer.Blv.textures/d1wlE.bmp
-	
-newmtl d1spcl3
-	map_Ka Sewer.Blv.textures/D1spcl3.bmp
-	map_Kd Sewer.Blv.textures/D1spcl3.bmp
-	
-newmtl d1wvnta
-	map_Ka Sewer.Blv.textures/d1wvntA.bmp
-	map_Kd Sewer.Blv.textures/d1wvntA.bmp
-	
-newmtl d1wldle4
-	map_Ka Sewer.Blv.textures/d1wlDLE4.bmp
-	map_Kd Sewer.Blv.textures/d1wlDLE4.bmp
 	
 newmtl d1trimle
 	map_Ka Sewer.Blv.textures/d1trimLE.bmp
 	map_Kd Sewer.Blv.textures/d1trimLE.bmp
 	
-newmtl qtextle1
-	map_Ka Sewer.Blv.textures/qtextle1.bmp
-	map_Kd Sewer.Blv.textures/qtextle1.bmp
+newmtl swprrf3
+	map_Ka Sewer.Blv.textures/SwprRf3.bmp
+	map_Kd Sewer.Blv.textures/SwprRf3.bmp
 	
-newmtl d2ceil2
-	map_Ka Sewer.Blv.textures/D2ceil2.bmp
-	map_Kd Sewer.Blv.textures/D2ceil2.bmp
+newmtl d1lggrt
+	map_Ka Sewer.Blv.textures/D1LgGrt.bmp
+	map_Kd Sewer.Blv.textures/D1LgGrt.bmp
 	
-newmtl bd1ftbrsd
-	map_Ka Sewer.Blv.textures/bd1ftbrsd.bmp
-	map_Kd Sewer.Blv.textures/bd1ftbrsd.bmp
+newmtl d1wldle3
+	map_Ka Sewer.Blv.textures/d1wlDLE3.bmp
+	map_Kd Sewer.Blv.textures/d1wlDLE3.bmp
 	
-newmtl d1wlble1
-	map_Ka Sewer.Blv.textures/D1wlble1.bmp
-	map_Kd Sewer.Blv.textures/D1wlble1.bmp
+newmtl d1medbw
+	map_Ka Sewer.Blv.textures/d1medbw.bmp
+	map_Kd Sewer.Blv.textures/d1medbw.bmp
 	
-newmtl bd1rail
-	map_Ka Sewer.Blv.textures/bd1rail.bmp
-	map_Kd Sewer.Blv.textures/bd1rail.bmp
-	
-newmtl bd1hdbrt
-	map_Ka Sewer.Blv.textures/bd1hdbrT.bmp
-	map_Kd Sewer.Blv.textures/bd1hdbrT.bmp
-	
-newmtl d1wlbctr
-	map_Ka Sewer.Blv.textures/D1WlBctr.bmp
-	map_Kd Sewer.Blv.textures/D1WlBctr.bmp
-	
-newmtl cb4side
-	map_Ka Sewer.Blv.textures/cb4side.bmp
-	map_Kd Sewer.Blv.textures/cb4side.bmp
-	
-newmtl t3d2abe:i
-	d 0.3
-	Tr 0.7
-	map_Ka Sewer.Blv.textures/T3d2abE.bmp
-	map_Kd Sewer.Blv.textures/T3d2abE.bmp
-	
-newmtl ch1tprev
-	map_Ka Sewer.Blv.textures/Ch1tpREv.bmp
-	map_Kd Sewer.Blv.textures/Ch1tpREv.bmp
-	
-newmtl d2ceil1
-	map_Ka Sewer.Blv.textures/D2ceil1.bmp
-	map_Kd Sewer.Blv.textures/D2ceil1.bmp
-	
-newmtl ch1side
-	map_Ka Sewer.Blv.textures/ch1side.bmp
-	map_Kd Sewer.Blv.textures/ch1side.bmp
-	
-newmtl cbedsqr
-	map_Ka Sewer.Blv.textures/Cbedsqr.bmp
-	map_Kd Sewer.Blv.textures/Cbedsqr.bmp
-	
-newmtl d1wlbre1
-	map_Ka Sewer.Blv.textures/D1wlbre1.bmp
-	map_Kd Sewer.Blv.textures/D1wlbre1.bmp
-	
-newmtl ch1frre
-	map_Ka Sewer.Blv.textures/ch1frRE.bmp
-	map_Kd Sewer.Blv.textures/ch1frRE.bmp
-	
-newmtl d7flor4
-	map_Ka Sewer.Blv.textures/D7flor4.bmp
-	map_Kd Sewer.Blv.textures/D7flor4.bmp
-	
-newmtl ch1tpbv
-	map_Ka Sewer.Blv.textures/Ch1tpBv.bmp
-	map_Kd Sewer.Blv.textures/Ch1tpBv.bmp
-	
-newmtl cbeam5
-	map_Ka Sewer.Blv.textures/CBEAM5.bmp
-	map_Kd Sewer.Blv.textures/CBEAM5.bmp
-	
-newmtl cb4frnt
-	map_Ka Sewer.Blv.textures/cb4frnt.bmp
-	map_Kd Sewer.Blv.textures/cb4frnt.bmp
-	
-newmtl ch1frle
-	map_Ka Sewer.Blv.textures/ch1frLE.bmp
-	map_Kd Sewer.Blv.textures/ch1frLE.bmp
-	
-newmtl ch1frntb
-	map_Ka Sewer.Blv.textures/ch1frntB.bmp
-	map_Kd Sewer.Blv.textures/ch1frntB.bmp
-	
-newmtl cb3top
-	map_Ka Sewer.Blv.textures/cb3top.bmp
-	map_Kd Sewer.Blv.textures/cb3top.bmp
-	
-newmtl ch1tplev
-	map_Ka Sewer.Blv.textures/ch1tpLEv.bmp
-	map_Kd Sewer.Blv.textures/ch1tpLEv.bmp
-	
-newmtl d1wldre
-	map_Ka Sewer.Blv.textures/d1wlDRE.bmp
-	map_Kd Sewer.Blv.textures/d1wlDRE.bmp
-	
-newmtl d1wldle
-	map_Ka Sewer.Blv.textures/d1wlDLE.bmp
-	map_Kd Sewer.Blv.textures/d1wlDLE.bmp
+newmtl d1trimre
+	map_Ka Sewer.Blv.textures/d1trimRE.bmp
+	map_Kd Sewer.Blv.textures/d1trimRE.bmp
 	
 newmtl d5dorsma
 	map_Ka Sewer.Blv.textures/d5dorSmA.bmp
 	map_Kd Sewer.Blv.textures/d5dorSmA.bmp
 	
-newmtl hvflora
-	map_Ka Sewer.Blv.textures/HVFLORA.bmp
-	map_Kd Sewer.Blv.textures/HVFLORA.bmp
-	
-newmtl hvwl5a
-	map_Ka Sewer.Blv.textures/HVWL5A.bmp
-	map_Kd Sewer.Blv.textures/HVWL5A.bmp
-	
-newmtl hvceila
-	map_Ka Sewer.Blv.textures/HVCEILA.bmp
-	map_Kd Sewer.Blv.textures/HVCEILA.bmp
-	
-newmtl swcirc2
-	map_Ka Sewer.Blv.textures/swcirc2.bmp
-	map_Kd Sewer.Blv.textures/swcirc2.bmp
-	
-newmtl swall5
-	map_Ka Sewer.Blv.textures/SWall5.bmp
-	map_Kd Sewer.Blv.textures/SWall5.bmp
-	
-newmtl swpcnr2
-	map_Ka Sewer.Blv.textures/SwpCnr2.bmp
-	map_Kd Sewer.Blv.textures/SwpCnr2.bmp
-	
-newmtl bemh
-	map_Ka Sewer.Blv.textures/BemH.bmp
-	map_Kd Sewer.Blv.textures/BemH.bmp
-	
-newmtl d1smbw
-	map_Ka Sewer.Blv.textures/D1SMBW.bmp
-	map_Kd Sewer.Blv.textures/D1SMBW.bmp
-	
-newmtl orwtrtyl
-	map_Ka Sewer.Blv.textures/orWtrTyl.bmp
-	map_Kd Sewer.Blv.textures/orWtrTyl.bmp
+newmtl d1wldsp
+	map_Ka Sewer.Blv.textures/d1wlDSP.bmp
+	map_Kd Sewer.Blv.textures/d1wlDSP.bmp
 	
 newmtl swpcnr3
 	map_Ka Sewer.Blv.textures/SwpCnr3.bmp
@@ -228,26 +54,200 @@ newmtl swpend2a
 	map_Ka Sewer.Blv.textures/SwpEnd2a.bmp
 	map_Kd Sewer.Blv.textures/SwpEnd2a.bmp
 	
-newmtl d1mbea
-	map_Ka Sewer.Blv.textures/d1mbeA.bmp
-	map_Kd Sewer.Blv.textures/d1mbeA.bmp
+newmtl swpend3a
+	map_Ka Sewer.Blv.textures/SwpEnd3a.bmp
+	map_Kd Sewer.Blv.textures/SwpEnd3a.bmp
 	
-newmtl ch1topre
-	map_Ka Sewer.Blv.textures/Ch1topRE.bmp
-	map_Kd Sewer.Blv.textures/Ch1topRE.bmp
+newmtl swpcnr2
+	map_Ka Sewer.Blv.textures/SwpCnr2.bmp
+	map_Kd Sewer.Blv.textures/SwpCnr2.bmp
 	
-newmtl ch1topb
-	map_Ka Sewer.Blv.textures/Ch1topB.bmp
-	map_Kd Sewer.Blv.textures/Ch1topB.bmp
+newmtl bemh
+	map_Ka Sewer.Blv.textures/BemH.bmp
+	map_Kd Sewer.Blv.textures/BemH.bmp
+	
+newmtl d1ceil1
+	map_Ka Sewer.Blv.textures/D1ceil1.bmp
+	map_Kd Sewer.Blv.textures/D1ceil1.bmp
+	
+newmtl d1wvnta
+	map_Ka Sewer.Blv.textures/d1wvntA.bmp
+	map_Kd Sewer.Blv.textures/d1wvntA.bmp
+	
+newmtl ch1frre
+	map_Ka Sewer.Blv.textures/ch1frRE.bmp
+	map_Kd Sewer.Blv.textures/ch1frRE.bmp
+	
+newmtl ch1side
+	map_Ka Sewer.Blv.textures/ch1side.bmp
+	map_Kd Sewer.Blv.textures/ch1side.bmp
+	
+newmtl ch1frntb
+	map_Ka Sewer.Blv.textures/ch1frntB.bmp
+	map_Kd Sewer.Blv.textures/ch1frntB.bmp
+	
+newmtl ch1frle
+	map_Ka Sewer.Blv.textures/ch1frLE.bmp
+	map_Kd Sewer.Blv.textures/ch1frLE.bmp
+	
+newmtl ch1tpbv
+	map_Ka Sewer.Blv.textures/Ch1tpBv.bmp
+	map_Kd Sewer.Blv.textures/Ch1tpBv.bmp
+	
+newmtl ch1tplev
+	map_Ka Sewer.Blv.textures/ch1tpLEv.bmp
+	map_Kd Sewer.Blv.textures/ch1tpLEv.bmp
+	
+newmtl ch1tprev
+	map_Ka Sewer.Blv.textures/Ch1tpREv.bmp
+	map_Kd Sewer.Blv.textures/Ch1tpREv.bmp
+	
+newmtl d1ladder
+	map_Ka Sewer.Blv.textures/d1ladder.bmp
+	map_Kd Sewer.Blv.textures/d1ladder.bmp
+	
+newmtl d1wldle4
+	map_Ka Sewer.Blv.textures/d1wlDLE4.bmp
+	map_Kd Sewer.Blv.textures/d1wlDLE4.bmp
+	
+newmtl d1wcntr
+	map_Ka Sewer.Blv.textures/D1WCNTR.bmp
+	map_Kd Sewer.Blv.textures/D1WCNTR.bmp
+	
+newmtl d8dora
+	map_Ka Sewer.Blv.textures/D8dorA.bmp
+	map_Kd Sewer.Blv.textures/D8dorA.bmp
+	
+newmtl d1sbpa
+	map_Ka Sewer.Blv.textures/d1sbpA.bmp
+	map_Kd Sewer.Blv.textures/d1sbpA.bmp
+	
+newmtl qtextle1
+	map_Ka Sewer.Blv.textures/qtextle1.bmp
+	map_Kd Sewer.Blv.textures/qtextle1.bmp
+	
+newmtl d1wlble1
+	map_Ka Sewer.Blv.textures/D1wlble1.bmp
+	map_Kd Sewer.Blv.textures/D1wlble1.bmp
+	
+newmtl bd1hdbrt
+	map_Ka Sewer.Blv.textures/bd1hdbrT.bmp
+	map_Kd Sewer.Blv.textures/bd1hdbrT.bmp
+	
+newmtl d2ceil1
+	map_Ka Sewer.Blv.textures/D2ceil1.bmp
+	map_Kd Sewer.Blv.textures/D2ceil1.bmp
+	
+newmtl d1wlbctr
+	map_Ka Sewer.Blv.textures/D1WlBctr.bmp
+	map_Kd Sewer.Blv.textures/D1WlBctr.bmp
+	
+newmtl bd1ftbrsd
+	map_Ka Sewer.Blv.textures/bd1ftbrsd.bmp
+	map_Kd Sewer.Blv.textures/bd1ftbrsd.bmp
+	
+newmtl d1wlbre1
+	map_Ka Sewer.Blv.textures/D1wlbre1.bmp
+	map_Kd Sewer.Blv.textures/D1wlbre1.bmp
+	
+newmtl bd1rail
+	map_Ka Sewer.Blv.textures/bd1rail.bmp
+	map_Kd Sewer.Blv.textures/bd1rail.bmp
+	
+newmtl cbeam5
+	map_Ka Sewer.Blv.textures/CBEAM5.bmp
+	map_Kd Sewer.Blv.textures/CBEAM5.bmp
+	
+newmtl t3d2abe:i
+	d 0.3
+	Tr 0.7
+	map_Ka Sewer.Blv.textures/T3d2abE.bmp
+	map_Kd Sewer.Blv.textures/T3d2abE.bmp
+	
+newmtl d7flor4
+	map_Ka Sewer.Blv.textures/D7flor4.bmp
+	map_Kd Sewer.Blv.textures/D7flor4.bmp
+	
+newmtl cb4side
+	map_Ka Sewer.Blv.textures/cb4side.bmp
+	map_Kd Sewer.Blv.textures/cb4side.bmp
+	
+newmtl cbedsqr
+	map_Ka Sewer.Blv.textures/Cbedsqr.bmp
+	map_Kd Sewer.Blv.textures/Cbedsqr.bmp
+	
+newmtl d2ceil2
+	map_Ka Sewer.Blv.textures/D2ceil2.bmp
+	map_Kd Sewer.Blv.textures/D2ceil2.bmp
+	
+newmtl cb4frnt
+	map_Ka Sewer.Blv.textures/cb4frnt.bmp
+	map_Kd Sewer.Blv.textures/cb4frnt.bmp
+	
+newmtl cb3top
+	map_Ka Sewer.Blv.textures/cb3top.bmp
+	map_Kd Sewer.Blv.textures/cb3top.bmp
+	
+newmtl d1wldle
+	map_Ka Sewer.Blv.textures/d1wlDLE.bmp
+	map_Kd Sewer.Blv.textures/d1wlDLE.bmp
+	
+newmtl d1wldre
+	map_Ka Sewer.Blv.textures/d1wlDRE.bmp
+	map_Kd Sewer.Blv.textures/d1wlDRE.bmp
+	
+newmtl hvceila
+	map_Ka Sewer.Blv.textures/HVCEILA.bmp
+	map_Kd Sewer.Blv.textures/HVCEILA.bmp
+	
+newmtl swall5
+	map_Ka Sewer.Blv.textures/SWall5.bmp
+	map_Kd Sewer.Blv.textures/SWall5.bmp
+	
+newmtl hvflora
+	map_Ka Sewer.Blv.textures/HVFLORA.bmp
+	map_Kd Sewer.Blv.textures/HVFLORA.bmp
+	
+newmtl swcirc2
+	map_Ka Sewer.Blv.textures/swcirc2.bmp
+	map_Kd Sewer.Blv.textures/swcirc2.bmp
+	
+newmtl hvwl5a
+	map_Ka Sewer.Blv.textures/HVWL5A.bmp
+	map_Kd Sewer.Blv.textures/HVWL5A.bmp
 	
 newmtl ch1tople
 	map_Ka Sewer.Blv.textures/ch1topLE.bmp
 	map_Kd Sewer.Blv.textures/ch1topLE.bmp
 	
-newmtl swpend3a
-	map_Ka Sewer.Blv.textures/SwpEnd3a.bmp
-	map_Kd Sewer.Blv.textures/SwpEnd3a.bmp
+newmtl ch1topb
+	map_Ka Sewer.Blv.textures/Ch1topB.bmp
+	map_Kd Sewer.Blv.textures/Ch1topB.bmp
+	
+newmtl ch1topre
+	map_Ka Sewer.Blv.textures/Ch1topRE.bmp
+	map_Kd Sewer.Blv.textures/Ch1topRE.bmp
+	
+newmtl d1spcl3
+	map_Ka Sewer.Blv.textures/D1spcl3.bmp
+	map_Kd Sewer.Blv.textures/D1spcl3.bmp
+	
+newmtl d1spcl2
+	map_Ka Sewer.Blv.textures/D1spcl2.bmp
+	map_Kd Sewer.Blv.textures/D1spcl2.bmp
+	
+newmtl d1mbea
+	map_Ka Sewer.Blv.textures/d1mbeA.bmp
+	map_Kd Sewer.Blv.textures/d1mbeA.bmp
 	
 newmtl crcn96
 	map_Ka Sewer.Blv.textures/CRCN96.bmp
 	map_Kd Sewer.Blv.textures/CRCN96.bmp
+	
+newmtl d1smbw
+	map_Ka Sewer.Blv.textures/D1SMBW.bmp
+	map_Kd Sewer.Blv.textures/D1SMBW.bmp
+	
+newmtl orwtrtyl
+	map_Ka Sewer.Blv.textures/orWtrTyl.bmp
+	map_Kd Sewer.Blv.textures/orWtrTyl.bmp

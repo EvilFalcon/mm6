@@ -192,21 +192,17 @@ newmtl ch3side
 	map_Ka OutA3.Odm.textures/ch3side.bmp
 	map_Kd OutA3.Odm.textures/ch3side.bmp
 	
-newmtl ch3frle
-	map_Ka OutA3.Odm.textures/ch3frLE.bmp
-	map_Kd OutA3.Odm.textures/ch3frLE.bmp
+newmtl ch3topre
+	map_Ka OutA3.Odm.textures/ch3topRE.bmp
+	map_Kd OutA3.Odm.textures/ch3topRE.bmp
 	
 newmtl ch3tpbv
 	map_Ka OutA3.Odm.textures/ch3tpBv.bmp
 	map_Kd OutA3.Odm.textures/ch3tpBv.bmp
 	
-newmtl ch3frntb
-	map_Ka OutA3.Odm.textures/ch3frntB.bmp
-	map_Kd OutA3.Odm.textures/ch3frntB.bmp
-	
-newmtl ch3topre
-	map_Ka OutA3.Odm.textures/ch3topRE.bmp
-	map_Kd OutA3.Odm.textures/ch3topRE.bmp
+newmtl ch3tople
+	map_Ka OutA3.Odm.textures/ch3topLE.bmp
+	map_Kd OutA3.Odm.textures/ch3topLE.bmp
 	
 newmtl ch3frre
 	map_Ka OutA3.Odm.textures/ch3frRE.bmp
@@ -216,45 +212,25 @@ newmtl ch3bakb
 	map_Ka OutA3.Odm.textures/ch3bakB.bmp
 	map_Kd OutA3.Odm.textures/ch3bakB.bmp
 	
-newmtl ch3tople
-	map_Ka OutA3.Odm.textures/ch3topLE.bmp
-	map_Kd OutA3.Odm.textures/ch3topLE.bmp
+newmtl ch3frle
+	map_Ka OutA3.Odm.textures/ch3frLE.bmp
+	map_Kd OutA3.Odm.textures/ch3frLE.bmp
 	
-newmtl solid09
-	map_Ka OutA3.Odm.textures/solid09.bmp
-	map_Kd OutA3.Odm.textures/solid09.bmp
+newmtl ch3frntb
+	map_Ka OutA3.Odm.textures/ch3frntB.bmp
+	map_Kd OutA3.Odm.textures/ch3frntB.bmp
 	
-newmtl vh3trimb
-	map_Ka OutA3.Odm.textures/vh3trimB.bmp
-	map_Kd OutA3.Odm.textures/vh3trimB.bmp
-	
-newmtl vh2roof2
-	map_Ka OutA3.Odm.textures/VH2ROOF2.bmp
-	map_Kd OutA3.Odm.textures/VH2ROOF2.bmp
-	
-newmtl vh2trimb
-	map_Ka OutA3.Odm.textures/vh2TrimB.bmp
-	map_Kd OutA3.Odm.textures/vh2TrimB.bmp
-	
-newmtl vh2ctr
-	map_Ka OutA3.Odm.textures/vh2ctr.bmp
-	map_Kd OutA3.Odm.textures/vh2ctr.bmp
-	
-newmtl wtrtyl
-	map_Ka OutA3.Odm.textures/WtrTyl.bmp
-	map_Kd OutA3.Odm.textures/WtrTyl.bmp
-	
-newmtl bemob2
-	map_Ka OutA3.Odm.textures/BemOB2.bmp
-	map_Kd OutA3.Odm.textures/BemOB2.bmp
+newmtl bemsv16a
+	map_Ka OutA3.Odm.textures/BemSV16a.bmp
+	map_Kd OutA3.Odm.textures/BemSV16a.bmp
 	
 newmtl bemstrt1
 	map_Ka OutA3.Odm.textures/BemStrT1.bmp
 	map_Kd OutA3.Odm.textures/BemStrT1.bmp
 	
-newmtl bemsv16a
-	map_Ka OutA3.Odm.textures/BemSV16a.bmp
-	map_Kd OutA3.Odm.textures/BemSV16a.bmp
+newmtl bemob2
+	map_Ka OutA3.Odm.textures/BemOB2.bmp
+	map_Kd OutA3.Odm.textures/BemOB2.bmp
 	
 newmtl bemtila
 	map_Ka OutA3.Odm.textures/BemTilA.bmp
@@ -268,6 +244,10 @@ newmtl solid03
 	map_Ka OutA3.Odm.textures/solid03.bmp
 	map_Kd OutA3.Odm.textures/solid03.bmp
 	
+newmtl vh2trimb
+	map_Ka OutA3.Odm.textures/vh2TrimB.bmp
+	map_Kd OutA3.Odm.textures/vh2TrimB.bmp
+	
 newmtl vh1trima
 	map_Ka OutA3.Odm.textures/vh1TrimA.bmp
 	map_Kd OutA3.Odm.textures/vh1TrimA.bmp
@@ -275,6 +255,18 @@ newmtl vh1trima
 newmtl lavatyl
 	map_Ka OutA3.Odm.textures/LAVATYL.bmp
 	map_Kd OutA3.Odm.textures/LAVATYL.bmp
+	
+newmtl vh3trimb
+	map_Ka OutA3.Odm.textures/vh3trimB.bmp
+	map_Kd OutA3.Odm.textures/vh3trimB.bmp
+	
+newmtl vh2roof2
+	map_Ka OutA3.Odm.textures/VH2ROOF2.bmp
+	map_Kd OutA3.Odm.textures/VH2ROOF2.bmp
+	
+newmtl vh2ctr
+	map_Ka OutA3.Odm.textures/vh2ctr.bmp
+	map_Kd OutA3.Odm.textures/vh2ctr.bmp
 	
 newmtl vh2door
 	map_Ka OutA3.Odm.textures/vh2Door.bmp
@@ -285,3 +277,11 @@ newmtl vh1trima:i
 	Tr 0.7
 	map_Ka OutA3.Odm.textures/vh1TrimA.bmp
 	map_Kd OutA3.Odm.textures/vh1TrimA.bmp
+	
+newmtl solid09
+	map_Ka OutA3.Odm.textures/solid09.bmp
+	map_Kd OutA3.Odm.textures/solid09.bmp
+	
+newmtl wtrtyl
+	map_Ka OutA3.Odm.textures/WtrTyl.bmp
+	map_Kd OutA3.Odm.textures/WtrTyl.bmp

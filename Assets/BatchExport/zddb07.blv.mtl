@@ -4,17 +4,17 @@ newmtl swplft3
 	map_Ka zddb07.blv.textures/SwpLft3.bmp
 	map_Kd zddb07.blv.textures/SwpLft3.bmp
 	
-newmtl swprt3
-	map_Ka zddb07.blv.textures/SwpRT3.bmp
-	map_Kd zddb07.blv.textures/SwpRT3.bmp
-	
 newmtl swpcnr3
 	map_Ka zddb07.blv.textures/SwpCnr3.bmp
 	map_Kd zddb07.blv.textures/SwpCnr3.bmp
 	
-newmtl swprrf2
-	map_Ka zddb07.blv.textures/SwprRf2.bmp
-	map_Kd zddb07.blv.textures/SwprRf2.bmp
+newmtl swprt3
+	map_Ka zddb07.blv.textures/SwpRT3.bmp
+	map_Kd zddb07.blv.textures/SwpRT3.bmp
+	
+newmtl swprrf3
+	map_Ka zddb07.blv.textures/SwprRf3.bmp
+	map_Kd zddb07.blv.textures/SwprRf3.bmp
 
 newmtl _portal_
 	map_Tr zddb07.blv.textures/_Portal_.png
@@ -22,17 +22,9 @@ newmtl _portal_
 	map_Ka zddb07.blv.textures/_Portal_.png
 	map_Kd zddb07.blv.textures/_Portal_.png
 	
-newmtl swprrf3
-	map_Ka zddb07.blv.textures/SwprRf3.bmp
-	map_Kd zddb07.blv.textures/SwprRf3.bmp
-	
-newmtl swpdr3a
-	map_Ka zddb07.blv.textures/SwpDr3a.bmp
-	map_Kd zddb07.blv.textures/SwpDr3a.bmp
-	
-newmtl wtrtyl
-	map_Ka zddb07.blv.textures/WtrTyl.bmp
-	map_Kd zddb07.blv.textures/WtrTyl.bmp
+newmtl swprrf2
+	map_Ka zddb07.blv.textures/SwprRf2.bmp
+	map_Kd zddb07.blv.textures/SwprRf2.bmp
 	
 newmtl swpend1
 	map_Ka zddb07.blv.textures/SwpEnd1.bmp
@@ -49,3 +41,11 @@ newmtl d8s2on
 newmtl whcntr
 	map_Ka zddb07.blv.textures/WHCNTR.bmp
 	map_Kd zddb07.blv.textures/WHCNTR.bmp
+	
+newmtl swpdr3a
+	map_Ka zddb07.blv.textures/SwpDr3a.bmp
+	map_Kd zddb07.blv.textures/SwpDr3a.bmp
+	
+newmtl wtrtyl
+	map_Ka zddb07.blv.textures/WtrTyl.bmp
+	map_Kd zddb07.blv.textures/WtrTyl.bmp

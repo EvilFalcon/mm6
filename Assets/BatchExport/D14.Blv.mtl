@@ -1,20 +1,20 @@
 # Model MTL from "d14.dat" map from MM6.
 	
-newmtl d2wlble
-	map_Ka D14.Blv.textures/D2WlBLE.bmp
-	map_Kd D14.Blv.textures/D2WlBLE.bmp
+newmtl d2ceil3
+	map_Ka D14.Blv.textures/D2Ceil3.bmp
+	map_Kd D14.Blv.textures/D2Ceil3.bmp
 	
-newmtl d2wlbre
-	map_Ka D14.Blv.textures/D2WlBRE.bmp
-	map_Kd D14.Blv.textures/D2WlBRE.bmp
+newmtl d2niche3
+	map_Ka D14.Blv.textures/D2niche3.bmp
+	map_Kd D14.Blv.textures/D2niche3.bmp
 	
 newmtl d2wlbctr
 	map_Ka D14.Blv.textures/D2WlBCtr.bmp
 	map_Kd D14.Blv.textures/D2WlBCtr.bmp
 	
-newmtl d2flor4
-	map_Ka D14.Blv.textures/D2flor4.bmp
-	map_Kd D14.Blv.textures/D2flor4.bmp
+newmtl d2wlbpos
+	map_Ka D14.Blv.textures/D2WlBPos.bmp
+	map_Kd D14.Blv.textures/D2WlBPos.bmp
 
 newmtl _portal_
 	map_Tr D14.Blv.textures/_Portal_.png
@@ -22,41 +22,77 @@ newmtl _portal_
 	map_Ka D14.Blv.textures/_Portal_.png
 	map_Kd D14.Blv.textures/_Portal_.png
 	
-newmtl d2ceil3
-	map_Ka D14.Blv.textures/D2Ceil3.bmp
-	map_Kd D14.Blv.textures/D2Ceil3.bmp
+newmtl d2flor4
+	map_Ka D14.Blv.textures/D2flor4.bmp
+	map_Kd D14.Blv.textures/D2flor4.bmp
 	
-newmtl bemh
-	map_Ka D14.Blv.textures/BemH.bmp
-	map_Kd D14.Blv.textures/BemH.bmp
+newmtl d2wlble
+	map_Ka D14.Blv.textures/D2WlBLE.bmp
+	map_Kd D14.Blv.textures/D2WlBLE.bmp
 	
-newmtl crsmdr1
-	map_Ka D14.Blv.textures/CrSmdr1.bmp
-	map_Kd D14.Blv.textures/CrSmdr1.bmp
+newmtl d2skulbs
+	map_Ka D14.Blv.textures/D2skulBs.bmp
+	map_Kd D14.Blv.textures/D2skulBs.bmp
 	
-newmtl d2wlbpos
-	map_Ka D14.Blv.textures/D2WlBPos.bmp
-	map_Kd D14.Blv.textures/D2WlBPos.bmp
-	
-newmtl d2niche4
-	map_Ka D14.Blv.textures/D2niche4.bmp
-	map_Kd D14.Blv.textures/D2niche4.bmp
+newmtl d2wlbre
+	map_Ka D14.Blv.textures/D2WlBRE.bmp
+	map_Kd D14.Blv.textures/D2WlBRE.bmp
 	
 newmtl d2niche1
 	map_Ka D14.Blv.textures/D2niche1.bmp
 	map_Kd D14.Blv.textures/D2niche1.bmp
 	
+newmtl bmdk16c
+	map_Ka D14.Blv.textures/BMDK16C.bmp
+	map_Kd D14.Blv.textures/BMDK16C.bmp
+	
+newmtl d2flor1
+	map_Ka D14.Blv.textures/D2flor1.bmp
+	map_Kd D14.Blv.textures/D2flor1.bmp
+	
+newmtl d2lgdor
+	map_Ka D14.Blv.textures/D2LgDor.bmp
+	map_Kd D14.Blv.textures/D2LgDor.bmp
+	
+newmtl bemhwal
+	map_Ka D14.Blv.textures/BemHwal.bmp
+	map_Kd D14.Blv.textures/BemHwal.bmp
+	
+newmtl bemdk2
+	map_Ka D14.Blv.textures/BEMDK2.bmp
+	map_Kd D14.Blv.textures/BEMDK2.bmp
+	
+newmtl bemtila
+	map_Ka D14.Blv.textures/BemTilA.bmp
+	map_Kd D14.Blv.textures/BemTilA.bmp
+	
+newmtl bemdk5
+	map_Ka D14.Blv.textures/BEMDK5.bmp
+	map_Kd D14.Blv.textures/BEMDK5.bmp
+	
+newmtl crsmdr1
+	map_Ka D14.Blv.textures/CrSmdr1.bmp
+	map_Kd D14.Blv.textures/CrSmdr1.bmp
+	
+newmtl bemdk16d
+	map_Ka D14.Blv.textures/BeMDK16D.bmp
+	map_Kd D14.Blv.textures/BeMDK16D.bmp
+	
+newmtl bemh
+	map_Ka D14.Blv.textures/BemH.bmp
+	map_Kd D14.Blv.textures/BemH.bmp
+	
 newmtl d2niche2
 	map_Ka D14.Blv.textures/D2niche2.bmp
 	map_Kd D14.Blv.textures/D2niche2.bmp
 	
+newmtl d2niche4
+	map_Ka D14.Blv.textures/D2niche4.bmp
+	map_Kd D14.Blv.textures/D2niche4.bmp
+	
 newmtl d2wlbc
 	map_Ka D14.Blv.textures/D2WLBC.bmp
 	map_Kd D14.Blv.textures/D2WLBC.bmp
-	
-newmtl d2niche3
-	map_Ka D14.Blv.textures/D2niche3.bmp
-	map_Kd D14.Blv.textures/D2niche3.bmp
 	
 newmtl d2skulas
 	map_Ka D14.Blv.textures/D2skulAS.bmp
@@ -70,10 +106,6 @@ newmtl d2wlare
 	map_Ka D14.Blv.textures/D2WlARE.bmp
 	map_Kd D14.Blv.textures/D2WlARE.bmp
 	
-newmtl d2wlbmed
-	map_Ka D14.Blv.textures/D2WlBmed.bmp
-	map_Kd D14.Blv.textures/D2WlBmed.bmp
-	
 newmtl cbedsqr
 	map_Ka D14.Blv.textures/Cbedsqr.bmp
 	map_Kd D14.Blv.textures/Cbedsqr.bmp
@@ -82,13 +114,21 @@ newmtl cedsqrdk
 	map_Ka D14.Blv.textures/Cedsqrdk.bmp
 	map_Kd D14.Blv.textures/Cedsqrdk.bmp
 	
-newmtl d2lgdor
-	map_Ka D14.Blv.textures/D2LgDor.bmp
-	map_Kd D14.Blv.textures/D2LgDor.bmp
+newmtl d2wlbmed
+	map_Ka D14.Blv.textures/D2WlBmed.bmp
+	map_Kd D14.Blv.textures/D2WlBmed.bmp
 	
 newmtl d2wlcctr
 	map_Ka D14.Blv.textures/D2WlCCtr.bmp
 	map_Kd D14.Blv.textures/D2WlCCtr.bmp
+	
+newmtl d2wlcle
+	map_Ka D14.Blv.textures/D2WlCLE.bmp
+	map_Kd D14.Blv.textures/D2WlCLE.bmp
+	
+newmtl d2wlcsp
+	map_Ka D14.Blv.textures/d2wlCsp.bmp
+	map_Kd D14.Blv.textures/d2wlCsp.bmp
 	
 newmtl d2wlbdrn
 	map_Ka D14.Blv.textures/D2WlBDrn.bmp
@@ -97,43 +137,3 @@ newmtl d2wlbdrn
 newmtl d2wlcre
 	map_Ka D14.Blv.textures/D2WlCRE.bmp
 	map_Kd D14.Blv.textures/D2WlCRE.bmp
-	
-newmtl d2wlcsp
-	map_Ka D14.Blv.textures/d2wlCsp.bmp
-	map_Kd D14.Blv.textures/d2wlCsp.bmp
-	
-newmtl d2wlcle
-	map_Ka D14.Blv.textures/D2WlCLE.bmp
-	map_Kd D14.Blv.textures/D2WlCLE.bmp
-	
-newmtl d2skulbs
-	map_Ka D14.Blv.textures/D2skulBs.bmp
-	map_Kd D14.Blv.textures/D2skulBs.bmp
-	
-newmtl d2flor1
-	map_Ka D14.Blv.textures/D2flor1.bmp
-	map_Kd D14.Blv.textures/D2flor1.bmp
-	
-newmtl bmdk16c
-	map_Ka D14.Blv.textures/BMDK16C.bmp
-	map_Kd D14.Blv.textures/BMDK16C.bmp
-	
-newmtl bemhwal
-	map_Ka D14.Blv.textures/BemHwal.bmp
-	map_Kd D14.Blv.textures/BemHwal.bmp
-	
-newmtl bemdk16d
-	map_Ka D14.Blv.textures/BeMDK16D.bmp
-	map_Kd D14.Blv.textures/BeMDK16D.bmp
-	
-newmtl bemdk5
-	map_Ka D14.Blv.textures/BEMDK5.bmp
-	map_Kd D14.Blv.textures/BEMDK5.bmp
-	
-newmtl bemtila
-	map_Ka D14.Blv.textures/BemTilA.bmp
-	map_Kd D14.Blv.textures/BemTilA.bmp
-	
-newmtl bemdk2
-	map_Ka D14.Blv.textures/BEMDK2.bmp
-	map_Kd D14.Blv.textures/BEMDK2.bmp

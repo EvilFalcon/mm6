@@ -1,8 +1,8 @@
 # Model MTL from "d17.dat" map from MM6.
 	
-newmtl tewls
-	map_Ka D17.Blv.textures/TewlS.bmp
-	map_Kd D17.Blv.textures/TewlS.bmp
+newmtl tewrs
+	map_Ka D17.Blv.textures/TewRS.bmp
+	map_Kd D17.Blv.textures/TewRS.bmp
 	
 newmtl tews
 	map_Ka D17.Blv.textures/TewS.bmp
@@ -12,9 +12,9 @@ newmtl t3ll6
 	map_Ka D17.Blv.textures/T3LL6.bmp
 	map_Kd D17.Blv.textures/T3LL6.bmp
 	
-newmtl tewrs
-	map_Ka D17.Blv.textures/TewRS.bmp
-	map_Kd D17.Blv.textures/TewRS.bmp
+newmtl tewls
+	map_Ka D17.Blv.textures/TewlS.bmp
+	map_Kd D17.Blv.textures/TewlS.bmp
 
 newmtl _portal_
 	map_Tr D17.Blv.textures/_Portal_.png
@@ -26,65 +26,61 @@ newmtl d7flor4
 	map_Ka D17.Blv.textures/D7flor4.bmp
 	map_Kd D17.Blv.textures/D7flor4.bmp
 	
-newmtl ormrblga
-	map_Ka D17.Blv.textures/OrmrbLGa.bmp
-	map_Kd D17.Blv.textures/OrmrbLGa.bmp
-	
-newmtl bemv32a
-	map_Ka D17.Blv.textures/BemV32a.bmp
-	map_Kd D17.Blv.textures/BemV32a.bmp
-	
-newmtl bemtila
-	map_Ka D17.Blv.textures/BemTilA.bmp
-	map_Kd D17.Blv.textures/BemTilA.bmp
-	
-newmtl beemdorc
-	map_Ka D17.Blv.textures/BeemDorC.bmp
-	map_Kd D17.Blv.textures/BeemDorC.bmp
+newmtl bemh32a
+	map_Ka D17.Blv.textures/BemH32a.bmp
+	map_Kd D17.Blv.textures/BemH32a.bmp
 	
 newmtl d7wl1ctr2
 	map_Ka D17.Blv.textures/D7wl1ctr2.bmp
 	map_Kd D17.Blv.textures/D7wl1ctr2.bmp
 	
-newmtl bemh32a
-	map_Ka D17.Blv.textures/BemH32a.bmp
-	map_Kd D17.Blv.textures/BemH32a.bmp
-	
-newmtl bd1hdbrs
-	map_Ka D17.Blv.textures/bd1hdbrS.bmp
-	map_Kd D17.Blv.textures/bd1hdbrS.bmp
-	
-newmtl cedsqrdk
-	map_Ka D17.Blv.textures/CEDSQRDK.bmp
-	map_Kd D17.Blv.textures/CEDSQRDK.bmp
+newmtl bemv32a
+	map_Ka D17.Blv.textures/BemV32a.bmp
+	map_Kd D17.Blv.textures/BemV32a.bmp
 	
 newmtl t3f2
 	map_Ka D17.Blv.textures/T3F2.bmp
 	map_Kd D17.Blv.textures/T3F2.bmp
 	
-newmtl t3wsbp
-	map_Ka D17.Blv.textures/T3WSBP.bmp
-	map_Kd D17.Blv.textures/T3WSBP.bmp
+newmtl bemtila
+	map_Ka D17.Blv.textures/BemTilA.bmp
+	map_Kd D17.Blv.textures/BemTilA.bmp
 	
-newmtl bd1rail
-	map_Ka D17.Blv.textures/bd1rail.bmp
-	map_Kd D17.Blv.textures/bd1rail.bmp
+newmtl cbsm
+	map_Ka D17.Blv.textures/CbSM.bmp
+	map_Kd D17.Blv.textures/CbSM.bmp
 	
-newmtl d1smbw
-	map_Ka D17.Blv.textures/d1smbw.bmp
-	map_Kd D17.Blv.textures/d1smbw.bmp
-	
-newmtl bd1ftbrsd
-	map_Ka D17.Blv.textures/bd1ftbrsd.bmp
-	map_Kd D17.Blv.textures/bd1ftbrsd.bmp
+newmtl cblrg
+	map_Ka D17.Blv.textures/CbLRG.bmp
+	map_Kd D17.Blv.textures/CbLRG.bmp
 	
 newmtl cbedsqr
 	map_Ka D17.Blv.textures/Cbedsqr.bmp
 	map_Kd D17.Blv.textures/Cbedsqr.bmp
 	
-newmtl cr1ptrn
-	map_Ka D17.Blv.textures/cr1ptrn.bmp
-	map_Kd D17.Blv.textures/cr1ptrn.bmp
+newmtl bd1hdbrs
+	map_Ka D17.Blv.textures/bd1hdbrS.bmp
+	map_Kd D17.Blv.textures/bd1hdbrS.bmp
+	
+newmtl bd1ftbrsd
+	map_Ka D17.Blv.textures/bd1ftbrsd.bmp
+	map_Kd D17.Blv.textures/bd1ftbrsd.bmp
+	
+newmtl cbm16b
+	map_Ka D17.Blv.textures/CBM16B.bmp
+	map_Kd D17.Blv.textures/CBM16B.bmp
+	
+newmtl cedsqrdk
+	map_Ka D17.Blv.textures/CEDSQRDK.bmp
+	map_Kd D17.Blv.textures/CEDSQRDK.bmp
+	
+newmtl bemvwal
+	map_Ka D17.Blv.textures/BemVwal.bmp
+	map_Kd D17.Blv.textures/BemVwal.bmp
+	
+newmtl bd1rail
+	map_Ka D17.Blv.textures/bd1rail.bmp
+	map_Kd D17.Blv.textures/bd1rail.bmp
 
 newmtl :i
 	d 0.3
@@ -93,17 +89,17 @@ newmtl :i
 	map_Ka D17.Blv.textures/.png
 	map_Kd D17.Blv.textures/.png
 	
-newmtl t3c1
-	map_Ka D17.Blv.textures/T3C1.bmp
-	map_Kd D17.Blv.textures/T3C1.bmp
+newmtl bemh32c
+	map_Ka D17.Blv.textures/BemH32c.bmp
+	map_Kd D17.Blv.textures/BemH32c.bmp
 	
-newmtl cbm16b
-	map_Ka D17.Blv.textures/CBM16B.bmp
-	map_Kd D17.Blv.textures/CBM16B.bmp
+newmtl beemdorc
+	map_Ka D17.Blv.textures/BeemDorC.bmp
+	map_Kd D17.Blv.textures/BeemDorC.bmp
 	
-newmtl t3mgc
-	map_Ka D17.Blv.textures/T3MGC.bmp
-	map_Kd D17.Blv.textures/T3MGC.bmp
+newmtl t3wsbp
+	map_Ka D17.Blv.textures/T3WSBP.bmp
+	map_Kd D17.Blv.textures/T3WSBP.bmp
 	
 newmtl cbfbm16:i
 	d 0.3
@@ -111,91 +107,37 @@ newmtl cbfbm16:i
 	map_Ka D17.Blv.textures/Cbfbm16.bmp
 	map_Kd D17.Blv.textures/Cbfbm16.bmp
 	
-newmtl granite
-	map_Ka D17.Blv.textures/Granite.bmp
-	map_Kd D17.Blv.textures/Granite.bmp
+newmtl ormrblga
+	map_Ka D17.Blv.textures/OrmrbLGa.bmp
+	map_Kd D17.Blv.textures/OrmrbLGa.bmp
 	
-newmtl bemh32c
-	map_Ka D17.Blv.textures/BemH32c.bmp
-	map_Kd D17.Blv.textures/BemH32c.bmp
+newmtl bemv32b
+	map_Ka D17.Blv.textures/BemV32b.bmp
+	map_Kd D17.Blv.textures/BemV32b.bmp
 	
-newmtl cbrdbrck
-	map_Ka D17.Blv.textures/CbRdbrck.bmp
-	map_Kd D17.Blv.textures/CbRdbrck.bmp
+newmtl bemh32b
+	map_Ka D17.Blv.textures/BemH32b.bmp
+	map_Kd D17.Blv.textures/BemH32b.bmp
 	
-newmtl cb3top
-	map_Ka D17.Blv.textures/cb3top.bmp
-	map_Kd D17.Blv.textures/cb3top.bmp
+newmtl t3t6
+	map_Ka D17.Blv.textures/T3T6.bmp
+	map_Kd D17.Blv.textures/T3T6.bmp
 	
 newmtl t3wbsr
 	map_Ka D17.Blv.textures/T3wbsr.bmp
 	map_Kd D17.Blv.textures/T3wbsr.bmp
 	
-newmtl t3wspp
-	map_Ka D17.Blv.textures/T3wspp.bmp
-	map_Kd D17.Blv.textures/T3wspp.bmp
-	
-newmtl d7wl3ctr2
-	map_Ka D17.Blv.textures/D7wl3ctr2.bmp
-	map_Kd D17.Blv.textures/D7wl3ctr2.bmp
-	
-newmtl bemsh32c
-	map_Ka D17.Blv.textures/BemSH32c.bmp
-	map_Kd D17.Blv.textures/BemSH32c.bmp
-	
-newmtl cb4side
-	map_Ka D17.Blv.textures/cb4side.bmp
-	map_Kd D17.Blv.textures/cb4side.bmp
-	
-newmtl t3wbsl
-	map_Ka D17.Blv.textures/T3WBSL.bmp
-	map_Kd D17.Blv.textures/T3WBSL.bmp
-	
-newmtl bemstra1
-	map_Ka D17.Blv.textures/BemStrA1.bmp
-	map_Kd D17.Blv.textures/BemStrA1.bmp
-	
-newmtl bemvwal
-	map_Ka D17.Blv.textures/BemVwal.bmp
-	map_Kd D17.Blv.textures/BemVwal.bmp
-	
-newmtl tdortrim
-	map_Ka D17.Blv.textures/TDORTRIM.bmp
-	map_Kd D17.Blv.textures/TDORTRIM.bmp
-	
-newmtl bemhwal1
-	map_Ka D17.Blv.textures/BemHwal1.bmp
-	map_Kd D17.Blv.textures/BemHwal1.bmp
-	
-newmtl cbm16:i
-	d 0.3
-	Tr 0.7
-	map_Ka D17.Blv.textures/Cbm16.bmp
-	map_Kd D17.Blv.textures/Cbm16.bmp
-	
-newmtl tdortrm2
-	map_Ka D17.Blv.textures/TDORTRM2.bmp
-	map_Kd D17.Blv.textures/TDORTRM2.bmp
-	
-newmtl cb4frnt
-	map_Ka D17.Blv.textures/cb4frnt.bmp
-	map_Kd D17.Blv.textures/cb4frnt.bmp
-	
 newmtl t3wbltd
 	map_Ka D17.Blv.textures/T3WBLTD.bmp
 	map_Kd D17.Blv.textures/T3WBLTD.bmp
 	
-newmtl bdksh16a
-	map_Ka D17.Blv.textures/BdkSH16a.bmp
-	map_Kd D17.Blv.textures/BdkSH16a.bmp
+newmtl t3c1
+	map_Ka D17.Blv.textures/T3C1.bmp
+	map_Kd D17.Blv.textures/T3C1.bmp
 	
-newmtl cedvwal1
-	map_Ka D17.Blv.textures/CedVWal1.bmp
-	map_Kd D17.Blv.textures/CedVWal1.bmp
-	
-newmtl bemdk1
-	map_Ka D17.Blv.textures/Bemdk1.bmp
-	map_Kd D17.Blv.textures/Bemdk1.bmp
+newmtl t3wbsl
+	map_Ka D17.Blv.textures/T3WBSL.bmp
+	map_Kd D17.Blv.textures/T3WBSL.bmp
 	
 newmtl d6roofb
 	map_Ka D17.Blv.textures/d6roofB.bmp
@@ -217,85 +159,9 @@ newmtl d6roofa
 	map_Ka D17.Blv.textures/d6RoofA.bmp
 	map_Kd D17.Blv.textures/d6RoofA.bmp
 	
-newmtl bemh32b
-	map_Ka D17.Blv.textures/BemH32b.bmp
-	map_Kd D17.Blv.textures/BemH32b.bmp
-	
-newmtl bemstart
-	map_Ka D17.Blv.textures/BemStarT.bmp
-	map_Kd D17.Blv.textures/BemStarT.bmp
-	
-newmtl ch2side
-	map_Ka D17.Blv.textures/ch2side.bmp
-	map_Kd D17.Blv.textures/ch2side.bmp
-	
-newmtl bemh
-	map_Ka D17.Blv.textures/BemH.bmp
-	map_Kd D17.Blv.textures/BemH.bmp
-	
-newmtl ch2tople
-	map_Ka D17.Blv.textures/ch2topLE.bmp
-	map_Kd D17.Blv.textures/ch2topLE.bmp
-	
-newmtl ch2topb
-	map_Ka D17.Blv.textures/ch2TOPb.bmp
-	map_Kd D17.Blv.textures/ch2TOPb.bmp
-	
 newmtl straw
 	map_Ka D17.Blv.textures/straw.bmp
 	map_Kd D17.Blv.textures/straw.bmp
-	
-newmtl bemv
-	map_Ka D17.Blv.textures/BemV.bmp
-	map_Kd D17.Blv.textures/BemV.bmp
-	
-newmtl ch2frre
-	map_Ka D17.Blv.textures/ch2frRE.bmp
-	map_Kd D17.Blv.textures/ch2frRE.bmp
-	
-newmtl ch2frntb
-	map_Ka D17.Blv.textures/ch2FRNTb.bmp
-	map_Kd D17.Blv.textures/ch2FRNTb.bmp
-	
-newmtl ch2frle
-	map_Ka D17.Blv.textures/ch2frLE.bmp
-	map_Kd D17.Blv.textures/ch2frLE.bmp
-	
-newmtl ch2topre
-	map_Ka D17.Blv.textures/ch2topRE.bmp
-	map_Kd D17.Blv.textures/ch2topRE.bmp
-	
-newmtl cb3side
-	map_Ka D17.Blv.textures/cb3side.bmp
-	map_Kd D17.Blv.textures/cb3side.bmp
-	
-newmtl cb3frnt
-	map_Ka D17.Blv.textures/cb3frnt.bmp
-	map_Kd D17.Blv.textures/cb3frnt.bmp
-	
-newmtl cb3shlf
-	map_Ka D17.Blv.textures/cb3shlf.bmp
-	map_Kd D17.Blv.textures/cb3shlf.bmp
-	
-newmtl t3t6
-	map_Ka D17.Blv.textures/T3T6.bmp
-	map_Kd D17.Blv.textures/T3T6.bmp
-	
-newmtl qtextle1
-	map_Ka D17.Blv.textures/qtextle1.bmp
-	map_Kd D17.Blv.textures/qtextle1.bmp
-	
-newmtl deskside
-	map_Ka D17.Blv.textures/DESKSIDE.bmp
-	map_Kd D17.Blv.textures/DESKSIDE.bmp
-	
-newmtl bdksh32b
-	map_Ka D17.Blv.textures/BdkSH32b.bmp
-	map_Kd D17.Blv.textures/BdkSH32b.bmp
-	
-newmtl deskback
-	map_Ka D17.Blv.textures/DESKBACK.bmp
-	map_Kd D17.Blv.textures/DESKBACK.bmp
 	
 newmtl d6uniqa
 	map_Ka D17.Blv.textures/d6uniqA.bmp
@@ -305,33 +171,69 @@ newmtl d7flor2
 	map_Ka D17.Blv.textures/D7flor2.bmp
 	map_Kd D17.Blv.textures/D7flor2.bmp
 	
-newmtl d6florb
-	map_Ka D17.Blv.textures/d6florB.bmp
-	map_Kd D17.Blv.textures/d6florB.bmp
+newmtl d7dor2
+	map_Ka D17.Blv.textures/D7dor2.bmp
+	map_Kd D17.Blv.textures/D7dor2.bmp
 	
 newmtl d7flor3
 	map_Ka D17.Blv.textures/D7flor3.bmp
 	map_Kd D17.Blv.textures/D7flor3.bmp
 	
-newmtl cbsm
-	map_Ka D17.Blv.textures/CbSM.bmp
-	map_Kd D17.Blv.textures/CbSM.bmp
+newmtl d6florb
+	map_Ka D17.Blv.textures/d6florB.bmp
+	map_Kd D17.Blv.textures/d6florB.bmp
 	
-newmtl cblrg
-	map_Ka D17.Blv.textures/CbLRG.bmp
-	map_Kd D17.Blv.textures/CbLRG.bmp
+newmtl d1smbw
+	map_Ka D17.Blv.textures/d1smbw.bmp
+	map_Kd D17.Blv.textures/d1smbw.bmp
 	
-newmtl ch1topre
-	map_Ka D17.Blv.textures/Ch1topRE.bmp
-	map_Kd D17.Blv.textures/Ch1topRE.bmp
+newmtl tdortrim
+	map_Ka D17.Blv.textures/TDORTRIM.bmp
+	map_Kd D17.Blv.textures/TDORTRIM.bmp
+	
+newmtl qtextle1
+	map_Ka D17.Blv.textures/qtextle1.bmp
+	map_Kd D17.Blv.textures/qtextle1.bmp
+	
+newmtl granite
+	map_Ka D17.Blv.textures/Granite.bmp
+	map_Kd D17.Blv.textures/Granite.bmp
+	
+newmtl bemhwal1
+	map_Ka D17.Blv.textures/BemHwal1.bmp
+	map_Kd D17.Blv.textures/BemHwal1.bmp
+	
+newmtl cbrdbrck
+	map_Ka D17.Blv.textures/CbRdbrck.bmp
+	map_Kd D17.Blv.textures/CbRdbrck.bmp
+	
+newmtl d7wl3ctr2
+	map_Ka D17.Blv.textures/D7wl3ctr2.bmp
+	map_Kd D17.Blv.textures/D7wl3ctr2.bmp
+	
+newmtl deskback
+	map_Ka D17.Blv.textures/DESKBACK.bmp
+	map_Kd D17.Blv.textures/DESKBACK.bmp
+	
+newmtl deskside
+	map_Ka D17.Blv.textures/DESKSIDE.bmp
+	map_Kd D17.Blv.textures/DESKSIDE.bmp
+	
+newmtl t3wspp
+	map_Ka D17.Blv.textures/T3wspp.bmp
+	map_Kd D17.Blv.textures/T3wspp.bmp
+	
+newmtl bdksh32b
+	map_Ka D17.Blv.textures/BdkSH32b.bmp
+	map_Kd D17.Blv.textures/BdkSH32b.bmp
+	
+newmtl bemstra1
+	map_Ka D17.Blv.textures/BemStrA1.bmp
+	map_Kd D17.Blv.textures/BemStrA1.bmp
 	
 newmtl ch1side
 	map_Ka D17.Blv.textures/ch1side.bmp
 	map_Kd D17.Blv.textures/ch1side.bmp
-	
-newmtl ch1frle
-	map_Ka D17.Blv.textures/ch1frLE.bmp
-	map_Kd D17.Blv.textures/ch1frLE.bmp
 	
 newmtl ch1frntb
 	map_Ka D17.Blv.textures/ch1frntB.bmp
@@ -341,6 +243,10 @@ newmtl ch1tople
 	map_Ka D17.Blv.textures/ch1topLE.bmp
 	map_Kd D17.Blv.textures/ch1topLE.bmp
 	
+newmtl ch1frle
+	map_Ka D17.Blv.textures/ch1frLE.bmp
+	map_Kd D17.Blv.textures/ch1frLE.bmp
+	
 newmtl ch1frre
 	map_Ka D17.Blv.textures/ch1frRE.bmp
 	map_Kd D17.Blv.textures/ch1frRE.bmp
@@ -349,6 +255,38 @@ newmtl ch1topb
 	map_Ka D17.Blv.textures/Ch1topB.bmp
 	map_Kd D17.Blv.textures/Ch1topB.bmp
 	
+newmtl ch1topre
+	map_Ka D17.Blv.textures/Ch1topRE.bmp
+	map_Kd D17.Blv.textures/Ch1topRE.bmp
+	
+newmtl ch2tople
+	map_Ka D17.Blv.textures/ch2topLE.bmp
+	map_Kd D17.Blv.textures/ch2topLE.bmp
+	
+newmtl ch2topb
+	map_Ka D17.Blv.textures/ch2TOPb.bmp
+	map_Kd D17.Blv.textures/ch2TOPb.bmp
+	
+newmtl ch2frle
+	map_Ka D17.Blv.textures/ch2frLE.bmp
+	map_Kd D17.Blv.textures/ch2frLE.bmp
+	
+newmtl ch2topre
+	map_Ka D17.Blv.textures/ch2topRE.bmp
+	map_Kd D17.Blv.textures/ch2topRE.bmp
+	
+newmtl ch2side
+	map_Ka D17.Blv.textures/ch2side.bmp
+	map_Kd D17.Blv.textures/ch2side.bmp
+	
+newmtl ch2frntb
+	map_Ka D17.Blv.textures/ch2FRNTb.bmp
+	map_Kd D17.Blv.textures/ch2FRNTb.bmp
+	
+newmtl ch2frre
+	map_Ka D17.Blv.textures/ch2frRE.bmp
+	map_Kd D17.Blv.textures/ch2frRE.bmp
+	
 newmtl d3ll6
 	map_Ka D17.Blv.textures/d3LL6.bmp
 	map_Kd D17.Blv.textures/d3LL6.bmp
@@ -356,6 +294,76 @@ newmtl d3ll6
 newmtl t3t7
 	map_Ka D17.Blv.textures/T3T7.bmp
 	map_Kd D17.Blv.textures/T3T7.bmp
+	
+newmtl bemstart
+	map_Ka D17.Blv.textures/BemStarT.bmp
+	map_Kd D17.Blv.textures/BemStarT.bmp
+	
+newmtl bemv
+	map_Ka D17.Blv.textures/BemV.bmp
+	map_Kd D17.Blv.textures/BemV.bmp
+	
+newmtl bemh
+	map_Ka D17.Blv.textures/BemH.bmp
+	map_Kd D17.Blv.textures/BemH.bmp
+	
+newmtl tdortrm2
+	map_Ka D17.Blv.textures/TDORTRM2.bmp
+	map_Kd D17.Blv.textures/TDORTRM2.bmp
+	
+newmtl cb3side
+	map_Ka D17.Blv.textures/cb3side.bmp
+	map_Kd D17.Blv.textures/cb3side.bmp
+	
+newmtl cb3frnt
+	map_Ka D17.Blv.textures/cb3frnt.bmp
+	map_Kd D17.Blv.textures/cb3frnt.bmp
+	
+newmtl bemsh32c
+	map_Ka D17.Blv.textures/BemSH32c.bmp
+	map_Kd D17.Blv.textures/BemSH32c.bmp
+	
+newmtl cb3shlf
+	map_Ka D17.Blv.textures/cb3shlf.bmp
+	map_Kd D17.Blv.textures/cb3shlf.bmp
+	
+newmtl bdksh16a
+	map_Ka D17.Blv.textures/BdkSH16a.bmp
+	map_Kd D17.Blv.textures/BdkSH16a.bmp
+	
+newmtl bemdk1
+	map_Ka D17.Blv.textures/Bemdk1.bmp
+	map_Kd D17.Blv.textures/Bemdk1.bmp
+	
+newmtl cedvwal1
+	map_Ka D17.Blv.textures/CedVWal1.bmp
+	map_Kd D17.Blv.textures/CedVWal1.bmp
+	
+newmtl cb4frnt
+	map_Ka D17.Blv.textures/cb4frnt.bmp
+	map_Kd D17.Blv.textures/cb4frnt.bmp
+	
+newmtl cb3top
+	map_Ka D17.Blv.textures/cb3top.bmp
+	map_Kd D17.Blv.textures/cb3top.bmp
+	
+newmtl cb4side
+	map_Ka D17.Blv.textures/cb4side.bmp
+	map_Kd D17.Blv.textures/cb4side.bmp
+	
+newmtl cbm16:i
+	d 0.3
+	Tr 0.7
+	map_Ka D17.Blv.textures/Cbm16.bmp
+	map_Kd D17.Blv.textures/Cbm16.bmp
+	
+newmtl t3mgc
+	map_Ka D17.Blv.textures/T3MGC.bmp
+	map_Kd D17.Blv.textures/T3MGC.bmp
+	
+newmtl cr1ptrn
+	map_Ka D17.Blv.textures/cr1ptrn.bmp
+	map_Kd D17.Blv.textures/cr1ptrn.bmp
 	
 newmtl cr64
 	map_Ka D17.Blv.textures/CR64.bmp
@@ -372,11 +380,3 @@ newmtl bemdk5
 newmtl bdksv32c
 	map_Ka D17.Blv.textures/BdkSV32c.bmp
 	map_Kd D17.Blv.textures/BdkSV32c.bmp
-	
-newmtl d7dor2
-	map_Ka D17.Blv.textures/D7dor2.bmp
-	map_Kd D17.Blv.textures/D7dor2.bmp
-	
-newmtl bemv32b
-	map_Ka D17.Blv.textures/BemV32b.bmp
-	map_Kd D17.Blv.textures/BemV32b.bmp

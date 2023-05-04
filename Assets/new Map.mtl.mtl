@@ -1,0 +1,1892 @@
+# Blender 3.3.5 MTL File: 'None'
+# www.blender.org
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl armorpor.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/armorpor.bmp
+
+newmtl bank.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BANK.bmp
+
+newmtl bdksv16a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BdkSV16a.bmp
+
+newmtl bemdk3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BEMDK3.bmp
+
+newmtl bemdorb.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemDorB.bmp
+
+newmtl bemh32a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemH32a.bmp
+
+newmtl bemhwal.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemHwal.bmp
+
+newmtl bemhwal1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemHwal1.bmp
+
+newmtl bemhwal1:i.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.300000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemHwal1.bmp
+
+newmtl bemob1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemOb1.bmp
+
+newmtl bemob1b.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemOB1b.bmp
+
+newmtl bemob2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemOB2.bmp
+
+newmtl bemob2b.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemOB2b.bmp
+
+newmtl bemstara.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemStarA.bmp
+
+newmtl bemstarb.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemStarB.bmp
+
+newmtl bemstart.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemStarT.bmp
+
+newmtl bemstra1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemStrA1.bmp
+
+newmtl bemstrt1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemStrT1.bmp
+
+newmtl bemsv16a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemSV16a.bmp
+
+newmtl bemsv32a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemSV32a.bmp
+
+newmtl bemtila.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemTilA.bmp
+
+newmtl bemv.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemV.bmp
+
+newmtl bemv32a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemV32a.bmp
+
+newmtl bemv32b.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemV32b.bmp
+
+newmtl bemvwal.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemVwal.bmp
+
+newmtl bemvwal1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BemVwal1.bmp
+
+newmtl blksmmid.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/BLKSMMID.bmp
+
+newmtl cbeam2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Cbeam2.bmp
+
+newmtl cbeam5.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Cbeam5.bmp
+
+newmtl cbmxbrck.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/cbMxbrck.bmp
+
+newmtl cbrdbrck.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CbRdbrck.bmp
+
+newmtl cedhwal1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CedHWal1.bmp
+
+newmtl cedsqrdk.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Cedsqrdk.bmp
+
+newmtl cedvwal1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CedVWal1.bmp
+
+newmtl cedvwal2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CedVWal2.bmp
+
+newmtl cr64.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CR64.bmp
+
+newmtl crdflr3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CrDFlr3.bmp
+
+newmtl crdflr4.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CrDFlr4.bmp
+
+newmtl crside.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/CRSIDE.bmp
+
+newmtl d2lgdor.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/D2LgDor.bmp
+
+newmtl dirttyl:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/dirttyl.bmp
+
+newmtl drsrecap:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrECAP.bmp
+
+newmtl drsrew:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrEW.bmp
+
+newmtl drsrew_s:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrEW_S.bmp
+
+newmtl drsrn_e:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrN_E.bmp
+
+newmtl drsrn_w:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrN_W.bmp
+
+newmtl drsrns:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrNS.bmp
+
+newmtl drsrs_e:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrS_E.bmp
+
+newmtl drsrs_w:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrS_W.bmp
+
+newmtl drsrwcap:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/drsrWCAP.bmp
+
+newmtl elem-all.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ELEM-ALL.bmp
+
+newmtl granite.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Granite.bmp
+
+newmtl grastyl:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grastyl.bmp
+
+newmtl grdrte:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtE.bmp
+
+newmtl grdrtn:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtN.bmp
+
+newmtl grdrtne:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtNE.bmp
+
+newmtl grdrtnw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtNW.bmp
+
+newmtl grdrts:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtS.bmp
+
+newmtl grdrtse:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtSE.bmp
+
+newmtl grdrtsw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtSW.bmp
+
+newmtl grdrtw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtW.bmp
+
+newmtl grdrtxne:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtXNE.bmp
+
+newmtl grdrtxnw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtXNW.bmp
+
+newmtl grdrtxse:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtXSE.bmp
+
+newmtl grdrtxsw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/grdrtXSW.bmp
+
+newmtl magicpor.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Magicpor.bmp
+
+newmtl mystrya.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/mystryA.bmp
+
+newmtl oflr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/OFlr.bmp
+
+newmtl pbrdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PBRDR.bmp
+
+newmtl pbrle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PBRLE.bmp
+
+newmtl pbrre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PBRRE.bmp
+
+newmtl pbrst.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Pbrst.bmp
+
+newmtl pbrwn.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PBRWN.bmp
+
+newmtl pbtrm.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PbTrM.bmp
+
+newmtl plruf01.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/plruf01.bmp
+
+newmtl plstrdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Plstrdr.bmp
+
+newmtl pxshings.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Pxshings.bmp
+
+newmtl pxstrdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PXSTRDR.bmp
+
+newmtl pxstrle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PXSTRLE.bmp
+
+newmtl pxstrlew.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PxstrleW.bmp
+
+newmtl pxstrre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PXSTRRE.bmp
+
+newmtl pxstrst.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PXSTRST.bmp
+
+newmtl pxstrwb.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PxstrwB.bmp
+
+newmtl pxstrwbx.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/PxstrwBx.bmp
+
+newmtl rblbw.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RblBW.bmp
+
+newmtl rblle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Rblle.bmp
+
+newmtl rblmt.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RblMt.bmp
+
+newmtl rblre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Rblre.bmp
+
+newmtl rblst.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Rblst.bmp
+
+newmtl rblst1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Rblst1.bmp
+
+newmtl rhctr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RHCTR.bmp
+
+newmtl rhctr:i.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.300000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RHCTR.bmp
+
+newmtl rhctrw.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RHCTRW.bmp
+
+newmtl rhdr1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RHDR1.bmp
+
+newmtl rhdr2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RHDR2.bmp
+
+newmtl rhle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/RHLE.bmp
+
+newmtl self-all.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/SELF-ALL.bmp
+
+newmtl sidert32.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/SIDERT32.bmp
+
+newmtl sign128.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Sign128.bmp
+
+newmtl solid10.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/solid10.bmp
+
+newmtl stables.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/STABLES.bmp
+
+newmtl storemid.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/STOREMID.bmp
+
+newmtl t1c2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/t1c2.bmp
+
+newmtl t1c3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/t1c3.bmp
+
+newmtl t1d1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/t1d1.bmp
+
+newmtl t1d3.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/t1d3.bmp
+
+newmtl t1f1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/t1f1.bmp
+
+newmtl t1swbd.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1swBd.bmp
+
+newmtl t1swbu:i.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.300000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1swBu.bmp
+
+newmtl t1w11a.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/t1w11a.bmp
+
+newmtl t1wl1cts.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl1ctS.bmp
+
+newmtl t1wl1lea.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl1LEa.bmp
+
+newmtl t1wl1lea1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl1LEa1.bmp
+
+newmtl t1wl1rea.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl1REa.bmp
+
+newmtl t1wl4ctr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl4ctr.bmp
+
+newmtl t1wl4spb.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl4SpB.bmp
+
+newmtl t1wl4w.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl4W.bmp
+
+newmtl t1wl5ct.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl5ct.bmp
+
+newmtl t1wl5lea.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl5LEa.bmp
+
+newmtl t1wl5lec.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl5LEc.bmp
+
+newmtl t1wl5rea.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T1wl5REa.bmp
+
+newmtl t3c2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/T3C2.bmp
+
+newmtl tav128wl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAV128WL.bmp
+
+newmtl tav128wl:i.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.300000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAV128WL.bmp
+
+newmtl tavctr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVCTR.bmp
+
+newmtl tavldyle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVLDYLE.bmp
+
+newmtl tavldyre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVLDYRE.bmp
+
+newmtl tavle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVLE.bmp
+
+newmtl tavlgdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVLGDR.bmp
+
+newmtl tavmid.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVMID.bmp
+
+newmtl tavre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVRE.bmp
+
+newmtl tavrf.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVRF.bmp
+
+newmtl tavsmdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVSMDR.bmp
+
+newmtl tavwctr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVWCTR.bmp
+
+newmtl tavwle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVWLE.bmp
+
+newmtl tavwre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TAVWRE.bmp
+
+newmtl tdoora.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TDoorA.bmp
+
+newmtl tdoorb.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TDOORB.bmp
+
+newmtl tdortrim.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TDORTRIM.bmp
+
+newmtl tewd.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Tewd.bmp
+
+newmtl tewdw.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewdW.bmp
+
+newmtl tewld.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Tewld.bmp
+
+newmtl tewls.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewlS.bmp
+
+newmtl tewm.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewM.bmp
+
+newmtl tewrd.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewRd.bmp
+
+newmtl tewrs.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewRS.bmp
+
+newmtl tews.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewS.bmp
+
+newmtl tewsw.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TewSW.bmp
+
+newmtl thctr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THctr.bmp
+
+newmtl thctrw1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THctrW1.bmp
+
+newmtl thctrw2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THctrW2.bmp
+
+newmtl thle.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THle.bmp
+
+newmtl thlgdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THLgDr.bmp
+
+newmtl thre.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/Thre.bmp
+
+newmtl thsmdr.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THSmDr.bmp
+
+newmtl thuniq1.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THUniq1.bmp
+
+newmtl thuniq2.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/THUniq2.bmp
+
+newmtl top32.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TOP32.bmp
+
+newmtl training.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TRAINING.bmp
+
+newmtl trim.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/TRIM.bmp
+
+newmtl voldrte:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtE.bmp
+
+newmtl voldrtn:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtN.bmp
+
+newmtl voldrtne:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtNE.bmp
+
+newmtl voldrtnw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtNW.bmp
+
+newmtl voldrts:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtS.bmp
+
+newmtl voldrtse:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtSE.bmp
+
+newmtl voldrtsw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtSW.bmp
+
+newmtl voldrtw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtW.bmp
+
+newmtl voldrtxne:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtXNE.bmp
+
+newmtl voldrtxnw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtXNW.bmp
+
+newmtl voldrtxse:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtXSE.bmp
+
+newmtl voldrtxsw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voldrtXSW.bmp
+
+newmtl voltyl:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/voltyl.bmp
+
+newmtl wood012.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/WOOD012.bmp
+
+newmtl wtrdre:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrE.bmp
+
+newmtl wtrdrn:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrN.bmp
+
+newmtl wtrdrne:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrNE.bmp
+
+newmtl wtrdrnw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrNW.bmp
+
+newmtl wtrdrs:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrS.bmp
+
+newmtl wtrdrse:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrSE.bmp
+
+newmtl wtrdrsw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrSW.bmp
+
+newmtl wtrdrw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrW.bmp
+
+newmtl wtrdrxne:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrXNE.bmp
+
+newmtl wtrdrxnw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrXNW.bmp
+
+newmtl wtrdrxse:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrXSE.bmp
+
+newmtl wtrdrxsw:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrdrXSW.bmp
+
+newmtl wtrtyl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/WtrTyl.bmp
+
+newmtl wtrtyl:g.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd D:/игры/Pk oflain/Buka/MMCollection/MM_VI/BatchExport/OutE3.Odm.textures/ground/wtrtyl.bmp
