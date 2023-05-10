@@ -6,8 +6,6 @@ namespace AttackSystem
     {
         public float Calculate(float damage, int luck, float sustainability)
         {
-
-
             if (sustainability <= 0)
                 return damage;
 

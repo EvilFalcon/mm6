@@ -6,7 +6,7 @@ namespace AttackSystem
     {
         private static readonly Random s_random = new Random();
 
-        public bool Hero(int monsterArmorClass, int attackHero, float distance, int skill) //значения взяты с https://grayface.github.io/ru/mm/mechanics/#Recovery-Time
+        public bool CanHeroHit(int monsterArmorClass, int attackHero, float distance, int skill) //значения взяты с https://grayface.github.io/ru/mm/mechanics/#Recovery-Time
         {
             int rangePenalty = 0;
             float chance;
@@ -34,7 +34,7 @@ namespace AttackSystem
             return false;
         }
 
-        public bool Monster(int monsterLevel, int heroArmorClass)
+        public bool CanMonsterHit(int monsterLevel, int heroArmorClass)
         {
             float chance;
             chance = 100 * ((5f + monsterLevel * 2) / (10f + monsterLevel * 2 + heroArmorClass));
@@ -48,7 +48,7 @@ namespace AttackSystem
             return false;
         }
 
-        public bool CalculatemonsterSuccessChanceTakeDebuff(int monsterLevel, float factor)
+        public bool CanTakeDebuffWhenHit(int monsterLevel, float factor)
         {
             float chance;
             chance = 100f * (monsterLevel * factor);
@@ -62,7 +62,7 @@ namespace AttackSystem
             return false;
         }
 
-        public bool ChanceApplyHeroDebuff(int luckEffect, int otherEffect) //Other Effect зависит от дебафа
+        public bool CanApplyHeroDebuff(int luckEffect, int otherEffect) //Other Effect зависит от дебафа
         {
             float chance;
             chance = 100 * (30 / (30f + Effect.Get(luckEffect) + otherEffect));
@@ -76,7 +76,7 @@ namespace AttackSystem
             return false;
         }
 
-        public bool ChanceApplyMonsterDebuff(int monsterResilience, int monsterLevel)
+        public bool CanApplyMonsterDebuff(int monsterResilience, int monsterLevel)
         {
             float chance;
             chance = 100 * (30f + monsterResilience + monsterLevel);
