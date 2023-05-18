@@ -1,69 +1,44 @@
-﻿using System;
-using HealthPoint;
+﻿using HealthPoint;
 using Interface;
-using Items;
-using PlayerScripts.Player_Controller;
+using PlayerScripts.PlayerComponent.PlayerParameters;
+using PlayerScripts.PlayerComponent.Resistrs;
 using UnityEngine;
 
 namespace PlayerScripts
 {
-    [RequireComponent(typeof(PlayerInput))]
-    public class Hero : MonoBehaviour, IAttaker, IDamageable
+    public class Hero : IAttacker, IDamageable
     {
-        [SerializeField] private string _name;
-
-        [SerializeField] private int _healthPoint;
-        [SerializeField] private int _damagePoint;
         private Health _health;
-        private Weapon _weapon;
+        private readonly Resists _resists;
+        private readonly Parameters _parameters;
 
-        public Vector3 Position { get; }
-        public int WaitingTime { get; }
-
-        //  public event Action<int> IncreasedTheLevel;
-       //  public event Action<int> ChangedHealth;
-
-        private void Awake()
+        public Hero(Health health, Resists resists, Parameters parameters)
         {
-            _weapon = new Weapon(_damagePoint);
-            _health = new Health(_healthPoint);
-        }
-
-        void Start()
-        {
-        }
-
-        private void OnEnable()
-        {
-           // IncreasedTheLevel += _health.IncreaseHealth;
-          //  ChangedHealth += _health.IncreaseHealth;
+            _health = health;
+            _resists = resists;
+            _parameters = parameters;
             _health.Died += OnDied;
         }
 
         private void OnDisable()
         {
-            // IncreasedTheLevel -= _health.IncreaseHealth;
-            // ChangedHealth -= _health.IncreaseHealth;
             _health.Died -= OnDied;
-        }
-
-        private void Update()
-        {
         }
 
         private void OnDied()
         {
-            Debug.Log($"Герой {_name} умер");
+            Debug.Log($"Герой  умер");
+            OnDisable();
         }
 
         public void TakeDamage(int attack)
         {
-            throw new NotImplementedException();
+            _health.TakeDamage(attack);
         }
 
         public void Attack(IDamageable enemy)
         {
-            _weapon.Attack(enemy);
+            enemy.TakeDamage(1);
         }
     }
 }

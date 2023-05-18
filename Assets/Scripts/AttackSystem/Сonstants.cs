@@ -1,7 +1,6 @@
-﻿namespace AttackSystem
+﻿namespace AttackSystem.AttackSystem
 {
     public class Сonstants
     {
-        
     }
 }

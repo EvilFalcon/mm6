@@ -1,7 +1,6 @@
 using System;
 using Interface;
 using JetBrains.Annotations;
-using UnityEngine;
 
 namespace HealthPoint
 {

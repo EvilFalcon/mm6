@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AttackSystem
+namespace AttackSystem.AttackSystem
 {
     public static class Effect
     {
@@ -84,7 +84,7 @@ namespace AttackSystem
                 }
                 else
                 {
-                    low = guess + 1;
+                    low = guess + 1; 
                 }
             }
 
