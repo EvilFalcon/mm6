@@ -12,6 +12,8 @@ namespace PlayerScripts
         private readonly Resists _resists;
         private readonly Parameters _parameters;
 
+       // private readonly Equipment _equipment;
+
         public Hero(Health health, Resists resists, Parameters parameters)
         {
             _health = health;

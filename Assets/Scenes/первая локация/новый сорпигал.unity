@@ -2275,7 +2275,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051243059}
   m_LocalRotation: {x: -0.2524501, y: -0.7268418, z: 0.33893198, w: -0.5413825}
-  m_LocalPosition: {x: 138.49277, y: 145, z: 479.4}
+  m_LocalPosition: {x: -259, y: 273.5, z: 30}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4222,10 +4222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 60d21a8c9f0615348b31d3458d466ed1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _hero1: {fileID: 2135954502}
-  _hero2: {fileID: 0}
-  _hero3: {fileID: 0}
-  _hero4: {fileID: 0}
 --- !u!23 &5214678281159760
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4960,6 +4956,7 @@ GameObject:
   - component: {fileID: 543450652879419782}
   - component: {fileID: 919132148943070014}
   - component: {fileID: 919132148943070015}
+  - component: {fileID: 919132148943070016}
   m_Layer: 0
   m_Name: OutE3.Odm
   m_TagString: Untagged
@@ -5041,6 +5038,18 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 3233390917154534210, guid: 9dad2e3b957ca35468427920d14bb6fc, type: 3}
+--- !u!114 &919132148943070016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 919132148943070012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0893ce61867144dfae37ea63bedaddb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!23 &930472609533646236
 MeshRenderer:
   m_ObjectHideFlags: 0
