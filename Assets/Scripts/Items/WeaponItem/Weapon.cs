@@ -21,7 +21,7 @@ namespace Items.WeaponItem
         public new void AddComponent(IComponent component)
         {
             if (CheckConformity(component) == false)
-                base.AddComponent(component);
+                base.Add(component);
         }
 
         private bool CheckConformity(IComponent component)

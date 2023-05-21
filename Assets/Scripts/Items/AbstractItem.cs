@@ -17,7 +17,7 @@ namespace Items
 
         public string Name => GetName();
 
-        protected void AddComponent(IComponent component)
+        protected void Add(IComponent component)
         {
             _components.Add(component);
         }
