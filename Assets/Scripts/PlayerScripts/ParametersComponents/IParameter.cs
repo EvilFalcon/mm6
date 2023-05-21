@@ -1,7 +1,7 @@
 ﻿using System;
 using Interface;
 
-namespace PlayerScripts.PlayerComponent.PlayerParameters
+namespace PlayerScripts.ParametersComponents
 {
     public interface IParameter : IComponent
     {

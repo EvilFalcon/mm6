@@ -1,9 +1,10 @@
 ﻿using System.Collections.Generic;
 using ComponentVisitor;
 using Interface;
-using PlayerScripts.PlayerComponent.PlayerParameters.Components;
+using Parameters.Components;
+using PlayerScripts.ParametersComponents.Components;
 
-namespace PlayerScripts.PlayerComponent.PlayerParameters
+namespace PlayerScripts.ParametersComponents
 {
     public class Parameters : IComponent
     {

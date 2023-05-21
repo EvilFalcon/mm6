@@ -2,7 +2,8 @@
 using Items.ItemComponent;
 using Items.WeaponComponent;
 using Items.WeaponComponent.DamageType;
-using PlayerScripts.PlayerComponent.PlayerParameters;
+using Parameters;
+using PlayerScripts.ParametersComponents;
 using PlayerScripts.PlayerComponent.Resistrs;
 
 namespace ComponentVisitor

@@ -1,17 +1,23 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using ComponentVisitor;
 using Interface;
-using UnityEngine;
 
-namespace Items.WeaponItem
+namespace Items
 {
-    public class Sword : MonoBehaviour, IWeapon, IComponent
+    public abstract class AbstractItem : IComponent
     {
         private List<IComponent> _components = new List<IComponent>();
 
+        public AbstractItem(string equipStat)
+        {
+            EquipStat = equipStat;
+        }
+
+        public string EquipStat;
+
         public string Name => GetName();
 
-        public void AddComponent(IComponent component)
+        protected void AddComponent(IComponent component)
         {
             _components.Add(component);
         }
@@ -27,7 +33,7 @@ namespace Items.WeaponItem
 
             return itemNameVisitor.GetNameItem();
         }
-        
+
         public void Accept(IComponentVisitor visitor)
         {
             foreach (IComponent component in _components)

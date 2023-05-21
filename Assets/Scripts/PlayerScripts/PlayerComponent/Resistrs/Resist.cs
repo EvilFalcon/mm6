@@ -1,10 +1,9 @@
 ﻿using System;
 using ComponentVisitor;
-using Interface;
 
 namespace PlayerScripts.PlayerComponent.Resistrs
 {
-    public class Resist<T> : IResists where T : IResistType
+    public class Resist<T> : BaseResist where T : IResistType
 
     {
         public Resist(int value)
@@ -14,7 +13,7 @@ namespace PlayerScripts.PlayerComponent.Resistrs
 
         public int Value { get; }
 
-        public void Accept(IComponentVisitor visitor)
+        public override void Accept(IComponentVisitor visitor)
         {
             visitor.Visit(this);
         }

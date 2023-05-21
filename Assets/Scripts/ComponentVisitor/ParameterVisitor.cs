@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using Interface;
-using PlayerScripts.PlayerComponent.PlayerParameters;
+using Parameters;
+using PlayerScripts.ParametersComponents;
 
 namespace ComponentVisitor
 {

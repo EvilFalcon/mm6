@@ -9,7 +9,7 @@ namespace AttackSystem.AttackSystem
             if (sustainability <= 0)
                 return damage;
 
-            float chance = 1 - 30 / (30 + sustainability + Effect.Get(luck));
+            float chance = 1 - 30 / (30f + sustainability + Effect.Get(luck));
             int chancePercent = (int)(chance * 100);
 
             Random random = new Random();

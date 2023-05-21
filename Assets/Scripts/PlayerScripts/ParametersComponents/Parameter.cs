@@ -2,7 +2,7 @@
 using ComponentVisitor;
 using Interface;
 
-namespace PlayerScripts.PlayerComponent.PlayerParameters
+namespace PlayerScripts.ParametersComponents
 {
     public class Parameter<T> : IParameter where T : IParameterType
     {

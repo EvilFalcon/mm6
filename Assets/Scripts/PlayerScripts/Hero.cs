@@ -1,20 +1,20 @@
 ﻿using HealthPoint;
 using Interface;
-using PlayerScripts.PlayerComponent.PlayerParameters;
+using PlayerScripts.PlayerComponent.Equipment;
 using PlayerScripts.PlayerComponent.Resistrs;
 using UnityEngine;
 
 namespace PlayerScripts
 {
-    public class Hero : IAttacker, IDamageable
+    public abstract class Hero : IAttacker, IDamageable
     {
         private Health _health;
         private readonly Resists _resists;
-        private readonly Parameters _parameters;
+        private readonly ParametersComponents.Parameters _parameters;
 
-       // private readonly Equipment _equipment;
+        private readonly HeroEquipment _equipment;
 
-        public Hero(Health health, Resists resists, Parameters parameters)
+        protected Hero(Health health, Resists resists, ParametersComponents.Parameters parameters)
         {
             _health = health;
             _resists = resists;

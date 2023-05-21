@@ -6,7 +6,7 @@
         {
             int effect = Effect.Get(speedEffect);
 
-            return cooldownWeapons + cooldownArmor + cooldownShield - (1 * skill - effect);
+            return cooldownWeapons + cooldownArmor + cooldownShield - (1 * skill + effect);
         }
     }
 }

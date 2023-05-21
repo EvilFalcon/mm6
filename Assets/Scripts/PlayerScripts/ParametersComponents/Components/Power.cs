@@ -1,6 +1,6 @@
 ﻿using Interface;
 
-namespace PlayerScripts.PlayerComponent.PlayerParameters.Components
+namespace Parameters.Components
 {
     public class Power : IParameterType
     {
