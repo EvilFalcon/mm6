@@ -3,7 +3,7 @@ using Interface;
 
 namespace Items.ItemComponent
 {
-    public class ItemDescription<T> : IComponent where T : IItemDescription
+    public class ItemDescription : IComponent 
     {
         public ItemDescription(string description)
         {

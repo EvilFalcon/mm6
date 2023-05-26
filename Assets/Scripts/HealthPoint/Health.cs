@@ -11,7 +11,7 @@ namespace HealthPoint
             Value = value;
             Max = Value;
         }
-
+        
         [CanBeNull] public event Action Died;
 
         public int Max { get; private set; }

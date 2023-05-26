@@ -6,11 +6,12 @@ namespace Items
 {
     public abstract class AbstractItem : IComponent
     {
-        private List<IComponent> _components = new List<IComponent>();
+        private List<IComponent> _components;
 
-        public AbstractItem(string equipStat)
+        public AbstractItem(string equipStat,IComponent[] baseComponents)
         {
             EquipStat = equipStat;
+            _components = new List<IComponent>(baseComponents);
         }
 
         public string EquipStat;

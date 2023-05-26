@@ -9,25 +9,25 @@ namespace ComponentVisitor
     {
         private readonly Dictionary<Type, IDamage> _components = new Dictionary<Type, IDamage>();
 
-        public override void Visit<T>(Damage<T> damage)
+        public override void Visit<T>(BonusDamage<T> bonusDamage)
         {
             Type type = typeof(T);
 
             if (_components.ContainsKey(type) == false)
-                _components[type] = new Damage<T>(0, 0);
+                _components[type] = new BonusDamage<T>(0, 0);
 
-            Damage<T> currentDamage = (Damage<T>)_components[type];
+            BonusDamage<T> currentBonusDamage = (BonusDamage<T>)_components[type];
 
-            _components[type] = new Damage<T>(currentDamage.Min + damage.Min, currentDamage.Max + damage.Max);
+            _components[type] = new BonusDamage<T>(currentBonusDamage.Min + bonusDamage.Min, currentBonusDamage.Max + bonusDamage.Max);
         }
 
-        public Damage<T> GetDamage<T>() where T : IDamageType
+        public BonusDamage<T> GetDamage<T>() where T : IDamageType
         {
             Type type = typeof(T);
             if (_components.ContainsKey(type) == false)
-                return new Damage<T>(0, 0);
+                return new BonusDamage<T>(0, 0);
 
-            return (Damage<T>)_components[type];
+            return (BonusDamage<T>)_components[type];
         }
 
         public void ApplyToAll(Action<IDamageType> action)

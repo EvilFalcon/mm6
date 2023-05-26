@@ -7,7 +7,7 @@ namespace EnemyScripts
 {
     [RequireComponent(
         typeof(Health),
-        typeof(MagicDamage))]
+        typeof(Magic))]
     public class Enemy : MonoBehaviour, IDamageable
     {
         [SerializeField] private int _healthPoint;

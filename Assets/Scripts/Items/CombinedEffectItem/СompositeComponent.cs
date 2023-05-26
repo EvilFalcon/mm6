@@ -2,10 +2,11 @@
 using System.Linq;
 using ComponentVisitor;
 using Interface;
+using Items.Filter;
 
 namespace Items.CombinedEffectItem
 {
-    public class СompositeComponent : IComponent
+    public abstract class СompositeComponent : IComponent
     {
         private readonly IComponent[] _components;
 
@@ -20,6 +21,17 @@ namespace Items.CombinedEffectItem
             {
                 component.Accept(visitor);
             }
+        }
+
+        public bool CheckConformity(ComponentFilter componentFilter)
+        {
+            foreach (var component in _components)
+            {
+                if (componentFilter.CheckConformity(component) == false)
+                    return false;
+            }
+
+            return true;
         }
     }
 }

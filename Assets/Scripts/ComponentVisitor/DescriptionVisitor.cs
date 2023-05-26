@@ -7,7 +7,7 @@ namespace ComponentVisitor
     {
         private string _description;
 
-        public override void Visit<T>(ItemDescription<T> component)
+        public override void Visit(ItemDescription component)
         {
             if (String.IsNullOrEmpty(_description) == false)
                 _description = "";

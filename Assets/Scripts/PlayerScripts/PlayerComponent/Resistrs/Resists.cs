@@ -13,12 +13,12 @@ namespace PlayerScripts.PlayerComponent.Resistrs
         {
             _component = new List<IResists>()
             {
-                new Resist<PhysicalResist>(physical),
-                new Resist<FieryResiet>(fiery),
-                new Resist<ColdResist>(cold),
-                new Resist<ElectricResist>(electric),
-                new Resist<MagicResist>(magic),
-                new Resist<PoisonResist>(poison),
+                new Resist<Physical>(physical),
+                new Resist<Fiery>(fiery),
+                new Resist<Cold>(cold),
+                new Resist<Electric>(electric),
+                new Resist<Magic>(magic),
+                new Resist<Poison>(poison),
             };
         }
 

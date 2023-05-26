@@ -1,42 +1,34 @@
-using System;
 using Interface;
+using Items.CombinedEffectItem;
+using Items.Filter;
+using Items.ItemComponent;
+using Items.ItemComponent.ItemComponentInfo;
 using Items.WeaponComponent;
 using Items.WeaponComponent.DamageType;
-using PlayerScripts.PlayerComponent.Resistrs;
 
 namespace Items.WeaponItem
 {
-    public class Weapon : AbstractItem
+    public class Weapon : AbstractItem, IItem
     {
-        private readonly Type[] _blackComponentTypes = 
-        {
-            typeof(Damage<MagicDamage>),
-            typeof(BaseResist),
-        };
+        private readonly ComponentFilter _componentFilter;
 
-        public Weapon(string equipStat) : base(equipStat)
+        public Weapon(string equipStat, IComponent[] baseComponents) : base(equipStat, baseComponents)
         {
+            _componentFilter = new ComponentFilter(new[]
+            {
+                typeof(BonusDamage<PoisonDamage>),
+                typeof(BonusDamage<Cold>),
+                typeof(BonusDamage<Fiery>),
+                typeof(СompositeComponent),
+                typeof(ItemPrice<BonusPrice>),
+                typeof(ItemName),
+            });
         }
 
         public new void AddComponent(IComponent component)
         {
-            if (CheckConformity(component) == false)
-                base.Add(component);
-        }
-
-        private bool CheckConformity(IComponent component)
-        {
-            Type componentType = component.GetType();
-
-            foreach (var type in _blackComponentTypes)
-            {
-                if (componentType == type || componentType.IsSubclassOf(type))
-                {
-                    return true;
-                }
-            }
-
-            return false;
+            if (_componentFilter.CheckConformity(component))
+                Add(component);
         }
     }
 }
