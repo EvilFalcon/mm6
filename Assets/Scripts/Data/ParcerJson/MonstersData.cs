@@ -1,7 +1,9 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 namespace Data.ParcerJson
 {
+    [Serializable]
     public class MonstersData
     {
         [SerializeField] private int _iDMonster;

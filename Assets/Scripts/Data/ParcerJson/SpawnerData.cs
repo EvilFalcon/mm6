@@ -1,7 +1,9 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 namespace Data.ParcerJson
 {
+    [Serializable]
     public class SpawnerData
     {
         [SerializeField] private int _itemID;
