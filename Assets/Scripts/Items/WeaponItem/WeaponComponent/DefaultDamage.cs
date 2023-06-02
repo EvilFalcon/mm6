@@ -1,7 +1,7 @@
 ﻿using System;
 using ComponentVisitor;
+using Data.Utils;
 using Items.WeaponItem.WeaponComponent.DamageType;
-using Utils;
 
 namespace Items.WeaponItem.WeaponComponent
 {

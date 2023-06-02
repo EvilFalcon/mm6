@@ -1,6 +1,6 @@
 ﻿using Unity.Mathematics;
 
-namespace Utils
+namespace Data.Utils
 {
     public class Dice
     {

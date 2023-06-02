@@ -6,27 +6,33 @@ using Data.Utils;
 using Items.Spawners;
 using Random = UnityEngine.Random;
 
-namespace Items.FactoryItem
+namespace Items.Factory
 {
     public class ItemInformationContent
     {
-        private Dictionary<int, SpawnerDataInfo> _spawnerItems;
+        private Dictionary<int, SpawnerDataInfo> _spawnerItems = new Dictionary<int, SpawnerDataInfo>();
         private int _totalWeight;
         private int[] _keys;
         private SpawnerDataInfo[] _itemList;
         private SpawnerItemData _cache;
+        private ParserData _parserData;
 
-        public SpawnerDataInfo GenerateItem(SpawnerItemData spawnerItemData, out int level)
+        public ItemInformationContent(ParserData data)
+        {
+            _parserData = data;
+        }
+
+        public SpawnerDataInfo GenerateRandomItem(SpawnerItemData spawnerItemData, out int level)
         {
             if (spawnerItemData is null)
             {
                 level = default;
                 return null;
             }
-
+            
             if (_cache != spawnerItemData)
             {
-                _itemList = ParcerData._spawnerDatas;
+                _itemList = _parserData._spawnerDatas;
 
                 _cache = spawnerItemData;
 

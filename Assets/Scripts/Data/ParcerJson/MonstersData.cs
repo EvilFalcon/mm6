@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace Data.ParcerJson
 {
@@ -12,10 +13,11 @@ namespace Data.ParcerJson
         [SerializeField] private int _level;
         [SerializeField] private int _hP;
         [SerializeField] private int _armorClass;
-        [SerializeField] private int _eXP;
+        [SerializeField] private int _eXp;
         [SerializeField] private string _treasure;
         [SerializeField] private int _treasure2Persent;
-        [SerializeField] private string _treasure_2IavelItem;
+        [SerializeField] private string _treasure2IevelItem;
+        [SerializeField] private string _group;
         [SerializeField] private int _quest;
         [SerializeField] private string _fly;
         [SerializeField] private string _move;
@@ -48,10 +50,11 @@ namespace Data.ParcerJson
         public int Level => _level;
         public int HP => _hP;
         public int ArmorClass => _armorClass;
-        public int EXP => _eXP;
+        public int EXP => _eXp;
         public string Treasure => _treasure;
         public int Treasure2Persent => _treasure2Persent;
-        public string Treasure2IevelItem => _treasure_2IavelItem;
+        public string Treasure2IevelItem => _treasure2IevelItem;
+        public string Group => _group;
         public int Quest => _quest;
         public string Fly => _fly;
         public string Move => _move;

@@ -1,12 +1,11 @@
 ﻿using Data.ParcerJson;
-using Items.CombinedComponent;
-using Items.FactoryItem;
+using Items.Factory;
 using UnityEngine;
 
 namespace Items.Spawners
 {
     [RequireComponent(typeof(SpawnerItemData))]
-    public class SpawnerItem : MonoBehaviour
+    public class ItemSpawner : MonoBehaviour
     {
         private ItemInformationContent _itemInformationContent;
 
@@ -16,30 +15,30 @@ namespace Items.Spawners
         private ItemFactory _itemFactory;
         private ItemData _itemData;
         private SpawnerItemData _spawnerItemData;
+        private ParserData _parserData;
         private int _level;
 
         private void Awake()
         {
-            _itemInformationContent = new ItemInformationContent();
+            _parserData = new ParserData();
+            _itemInformationContent = new ItemInformationContent(_parserData);
             _itemComponentBuilder = new ItemComponentBuilder();
             _itemBonusParamsBuilder = new ItemBonusParamsBuilder();
-            _itemFactory = new ItemFactory();
+            _itemFactory = new ItemFactory(_itemComponentBuilder);
             _spawnerItemData = GetComponent<SpawnerItemData>();
         }
 
-        public IItem Build()
+        public IInitializableItem Build()
         {
-            SpawnerDataInfo spawnerDataInfo = GetSpawnerInfo();
-            _itemData = ParcerData._itemsDatas[spawnerDataInfo.ItemID];
-            СompositeComponent сompositeComponent = _itemComponentBuilder.Build(_itemData, _level);
-            IItem item = _itemFactory.CreateUnknownItem(_itemData, _level);
-            item.AddDefaultComponent(сompositeComponent, _itemData.EquipStat, _itemData.SkillGroup, _level);
+            SpawnerDataInfo spawnerDataInfo = GetRandomSpawnerInfo();
+            _itemData = _parserData._itemsDatas[spawnerDataInfo.ItemID];
+            IInitializableItem item = _itemFactory.CreateUnknownItem(_itemData, _level);
             return item;
         }
 
-        private SpawnerDataInfo GetSpawnerInfo()
+        private SpawnerDataInfo GetRandomSpawnerInfo()
         {
-            return _itemInformationContent.GenerateItem(_spawnerItemData, out _level);
+            return _itemInformationContent.GenerateRandomItem(_spawnerItemData, out _level);
         }
     }
 }

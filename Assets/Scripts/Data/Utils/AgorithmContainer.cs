@@ -8,7 +8,7 @@
             int high = valueCollection.Length - 1;
             int guess;
 
-            int key;
+            int key = 0;
 
             if (valueCollection[valueCollection.Length - 1] <= value)
             {

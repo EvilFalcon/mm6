@@ -1,7 +1,7 @@
 ﻿using Data.ParcerJson;
 using Items.CombinedComponent;
 
-namespace Items.FactoryItem
+namespace Items.Factory
 {
     public class ItemBonusParamsBuilder
     {

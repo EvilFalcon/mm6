@@ -9,7 +9,7 @@ using Items.WeaponItem.WeaponComponent.DamageType;
 using PlayerScripts.PlayerComponent.Resistrs;
 using Utils;
 
-namespace Items.FactoryItem
+namespace Items.Factory
 {
     public class ItemComponentBuilder
     {
@@ -59,9 +59,19 @@ namespace Items.FactoryItem
         {
             (int min, int max) = _converter.Convert(itemData.Mod1);
 
+            if (itemData.SkillGroup != "Blaster")
+            {
+                components.AddComponent(new IComponent[]
+                {
+                    new DefaultDamage<Physical>(min, max, itemData.Mod2),
+                });
+                
+                return components;
+            }
+
             components.AddComponent(new IComponent[]
             {
-                new DefaultDamage<Physical>(min, max, itemData.Mod2),
+                new DefaultDamage<Energy>(min, max, itemData.Mod2)
             });
 
             return components;

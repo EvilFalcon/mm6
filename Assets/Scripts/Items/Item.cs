@@ -1,33 +1,35 @@
 ﻿using System.Collections.Generic;
 using ComponentVisitor;
+using Data.ParcerJson;
 using Interface;
 using Items.CombinedComponent;
 using UnityEngine;
 
 namespace Items
 {
-    public abstract class AbstractItem : MonoBehaviour, IComponent
+    public class Item : MonoBehaviour, IComponent, IInitializableItem, IUpgradeItem
     {
         private List<IComponent> _components = new List<IComponent>();
 
-        public int Level;
+        public int Level { get; private set; }
 
-        public string EquipStat;
+        public string EquipStat { get; private set; }
 
-        public string SkillGroup;
+        public string SkillGroup { get; private set; }
 
         public string Name => GetName();
 
-        protected void Add(IComponent component)
+        public void AddComponent(СompositeComponent component)
         {
             _components.Add(component);
         }
 
-        protected void AddDefaultParams(СompositeComponent baseComponents, string equipStat, string skillGroup, int level)
+        public void AddDefaultComponent(СompositeComponent baseComponents, ItemData itemData, int level)
         {
-            EquipStat = equipStat;
-            SkillGroup = skillGroup;
+            EquipStat = itemData.EquipStat;
+            SkillGroup = itemData.SkillGroup;
             Level = level;
+            _components.Add(baseComponents);
         }
 
         private string GetName()

@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace Data.ParcerJson
 {
@@ -10,12 +11,12 @@ namespace Data.ParcerJson
         [SerializeField] private string _picFile;
         [SerializeField] private string _equipStat;
         [SerializeField] private string _skillGroup;
-        [SerializeField] private int _chanceByLevel_1;
-        [SerializeField] private int _chanceByLevel_2;
-        [SerializeField] private int _chanceByLevel_3;
-        [SerializeField] private int _chanceByLevel_4;
-        [SerializeField] private int _chanceByLevel_5;
-        [SerializeField] private int _chanceByLevel_6;
+        [SerializeField] private int _chanceByLevel1;
+        [SerializeField] private int _chanceByLevel2;
+        [SerializeField] private int _chanceByLevel3;
+        [SerializeField] private int _chanceByLevel4;
+        [SerializeField] private int _chanceByLevel5;
+        [SerializeField] private int _chanceByLevel6;
         [SerializeField] private string _levelItem;
 
         public int ItemID => _itemID;
@@ -26,12 +27,12 @@ namespace Data.ParcerJson
 
         public int[] Chance => new int[]
         {
-            _chanceByLevel_1,
-            _chanceByLevel_2,
-            _chanceByLevel_3,
-            _chanceByLevel_4,
-            _chanceByLevel_5,
-            _chanceByLevel_6,
+            _chanceByLevel1,
+            _chanceByLevel2,
+            _chanceByLevel3,
+            _chanceByLevel4,
+            _chanceByLevel5,
+            _chanceByLevel6,
         };
     }
 }

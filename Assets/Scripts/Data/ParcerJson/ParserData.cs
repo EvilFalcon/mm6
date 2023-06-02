@@ -5,15 +5,15 @@ using UnityEngine;
 
 namespace Data.ParcerJson
 {
-    public class ParcerData
+    public class ParserData
     {
-        public static ItemData[] _itemsDatas;
-        public static SpellItemsData[] _spellItemsDatas;
-        public static SpawnerDataInfo[] _spawnerDatas;
-        public static MonstersData[] _monstersData;
-        private static Dictionary<Type, string> _pathJasons;
+        public readonly ItemData[] _itemsDatas;
+        public readonly SpellItemsData[] _spellItemsDatas;
+        public readonly SpawnerDataInfo[] _spawnerDatas;
+        public readonly MonstersData[] _monstersData;
+        private Dictionary<Type, string> _pathJasons;
 
-        public ParcerData()
+        public ParserData()
         {
             _pathJasons = new Dictionary<Type, string>()
             {
@@ -27,23 +27,24 @@ namespace Data.ParcerJson
             _spellItemsDatas = FromJson<SpellItemsData>(typeof(SpellItemsData));
             _spawnerDatas = FromJson<SpawnerDataInfo>(typeof(SpawnerDataInfo));
             _monstersData = FromJson<MonstersData>(typeof(MonstersData));
+            Debug.Log($"парсер {_spawnerDatas.Length}");
         }
 
-        public static T[] FromJson<T>(Type type)
+        public T[] FromJson<T>(Type type)
         {
             string json = File.ReadAllText(_pathJasons[type]);
             Wrapper<T> wrapper = JsonUtility.FromJson<Wrapper<T>>(json);
             return wrapper.Items;
         }
 
-        public static string ToJson<T>(T[] array)
+        public string ToJson<T>(T[] array)
         {
             Wrapper<T> wrapper = new Wrapper<T>();
             wrapper.Items = array;
             return JsonUtility.ToJson(wrapper);
         }
 
-        public static string ToJson<T>(T[] array, bool prettyPrint)
+        public string ToJson<T>(T[] array, bool prettyPrint)
         {
             Wrapper<T> wrapper = new Wrapper<T>();
             wrapper.Items = array;
