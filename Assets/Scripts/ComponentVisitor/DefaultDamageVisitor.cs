@@ -1,4 +1,4 @@
-﻿using Items.WeaponComponent;
+﻿using Items.WeaponItem.WeaponComponent;
 
 namespace ComponentVisitor
 {
@@ -6,7 +6,7 @@ namespace ComponentVisitor
     {
         public int Damage { get; private set; }
 
-        public override void Visit<Physical>(DefaultDamage<Physical> defaultDamage)
+        public override void Visit<T>(DefaultDamage<T> defaultDamage)
         {
             Damage = defaultDamage.GetDamage();
         }

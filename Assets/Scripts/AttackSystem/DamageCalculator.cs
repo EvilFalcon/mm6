@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AttackSystem.AttackSystem
+namespace AttackSystem
 {
     public class DamageCalculator
     {

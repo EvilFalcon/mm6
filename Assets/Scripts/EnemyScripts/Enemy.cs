@@ -1,6 +1,6 @@
 using HealthPoint;
 using Interface;
-using Items.WeaponComponent.DamageType;
+using Items.WeaponItem.WeaponComponent.DamageType;
 using UnityEngine;
 
 namespace EnemyScripts

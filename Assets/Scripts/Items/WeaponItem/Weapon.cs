@@ -1,34 +1,17 @@
-using Interface;
-using Items.CombinedEffectItem;
-using Items.Filter;
-using Items.ItemComponent;
-using Items.ItemComponent.ItemComponentInfo;
-using Items.WeaponComponent;
-using Items.WeaponComponent.DamageType;
+﻿using Items.CombinedComponent;
 
 namespace Items.WeaponItem
 {
     public class Weapon : AbstractItem, IItem
     {
-        private readonly ComponentFilter _componentFilter;
-
-        public Weapon(string equipStat, IComponent[] baseComponents) : base(equipStat, baseComponents)
+        public void AddDefaultComponent(СompositeComponent baseComponents, string equipStat, string skillGroup, int level)
         {
-            _componentFilter = new ComponentFilter(new[]
-            {
-                typeof(BonusDamage<PoisonDamage>),
-                typeof(BonusDamage<Cold>),
-                typeof(BonusDamage<Fiery>),
-                typeof(СompositeComponent),
-                typeof(ItemPrice<BonusPrice>),
-                typeof(ItemName),
-            });
+            AddDefaultParams(baseComponents, equipStat, skillGroup, level);
         }
 
-        public new void AddComponent(IComponent component)
+        public void AddComponent(СompositeComponent component)
         {
-            if (_componentFilter.CheckConformity(component))
-                Add(component);
+            Add(component);
         }
     }
 }

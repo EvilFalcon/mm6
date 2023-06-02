@@ -1,4 +1,4 @@
-﻿namespace AttackSystem.AttackSystem
+﻿namespace AttackSystem
 {
     public class RestorationCalculator
     {

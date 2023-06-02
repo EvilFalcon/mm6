@@ -1,7 +1,7 @@
 ﻿using Interface;
 using Items.ItemComponent;
-using Items.WeaponComponent;
-using Items.WeaponComponent.DamageType;
+using Items.WeaponItem.WeaponComponent;
+using Items.WeaponItem.WeaponComponent.DamageType;
 using PlayerScripts.ParametersComponents;
 using PlayerScripts.PlayerComponent.Resistrs;
 
@@ -19,6 +19,6 @@ namespace ComponentVisitor
         
         void Visit<T>(Resist<T> component) where T : IResistType;
         
-        void Visit<T>(DefaultDamage<T> component) where T : Physical;
+        void Visit<T>(DefaultDamage<T> component) where T : IDamageType;
     }
 }

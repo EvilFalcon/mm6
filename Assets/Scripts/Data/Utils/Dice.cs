@@ -1,10 +1,10 @@
 ﻿using Unity.Mathematics;
 
-namespace Data.Utils
+namespace Utils
 {
     public class Dice
     {
-        private static Random s_random = new Random();
+        private static Random s_random;
         
         public static int GetValueDice(int diceCount, int sideCount)
         {

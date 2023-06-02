@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using Items.WeaponComponent;
-using Items.WeaponComponent.DamageType;
+using Items.WeaponItem.WeaponComponent;
+using Items.WeaponItem.WeaponComponent.DamageType;
 
 namespace ComponentVisitor
 {
@@ -14,18 +14,18 @@ namespace ComponentVisitor
             Type type = typeof(T);
 
             if (_components.ContainsKey(type) == false)
-                _components[type] = new BonusDamage<T>(0, 0);
+                _components[type] = new BonusDamage<T>(0);
 
             BonusDamage<T> currentBonusDamage = (BonusDamage<T>)_components[type];
 
-            _components[type] = new BonusDamage<T>(currentBonusDamage.Min + bonusDamage.Min, currentBonusDamage.Max + bonusDamage.Max);
+            _components[type] = new BonusDamage<T>(currentBonusDamage.Value + bonusDamage.Value);
         }
 
         public BonusDamage<T> GetDamage<T>() where T : IDamageType
         {
             Type type = typeof(T);
             if (_components.ContainsKey(type) == false)
-                return new BonusDamage<T>(0, 0);
+                return new BonusDamage<T>(0);
 
             return (BonusDamage<T>)_components[type];
         }

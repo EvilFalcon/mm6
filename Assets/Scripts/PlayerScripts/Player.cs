@@ -13,8 +13,6 @@ namespace PlayerScripts
         [SerializeField] private Hero _hero3;
         [SerializeField] private Hero _hero4;
 
-     
-        
         private Hero[] _detachment;
 
         private void Awake()

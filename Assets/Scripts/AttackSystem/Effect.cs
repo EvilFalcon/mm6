@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using Data.Utils;
 
-namespace AttackSystem.AttackSystem
+namespace AttackSystem
 {
     public static class Effect
     {
@@ -50,45 +51,7 @@ namespace AttackSystem.AttackSystem
 
         public static int Get(int stat)
         {
-            int low = 0;
-            int high = s_keys.Length - 1;
-            int guess;
-
-            int key;
-
-            if (s_keys[s_keys.Length - 1] <= stat)
-            {
-                key = s_keys[s_keys.Length - 1];
-                return s_stats[key];
-            }
-
-            if (s_keys[low] > stat)
-            {
-                key = s_keys[low];
-                return s_stats[key];
-            }
-
-            while (low <= high)
-            {
-                guess = (low + high) / 2;
-
-                if (s_keys[guess] < stat && s_keys[guess + 1] > stat)
-                {
-                    key = s_keys[guess];
-                    return s_stats[key];
-                }
-
-                if (s_keys[guess] > stat)
-                {
-                    high = guess - 1;
-                }
-                else
-                {
-                    low = guess + 1; 
-                }
-            }
-
-            return 0;
+            return s_stats[AgorithmContainer.FindValueInRange(s_keys, stat)];
         }
     }
 }

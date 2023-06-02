@@ -1,26 +1,33 @@
 ﻿using System.Collections.Generic;
 using ComponentVisitor;
 using Interface;
+using Items.CombinedComponent;
+using UnityEngine;
 
 namespace Items
 {
-    public abstract class AbstractItem : IComponent
+    public abstract class AbstractItem : MonoBehaviour, IComponent
     {
-        private List<IComponent> _components;
+        private List<IComponent> _components = new List<IComponent>();
 
-        public AbstractItem(string equipStat,IComponent[] baseComponents)
-        {
-            EquipStat = equipStat;
-            _components = new List<IComponent>(baseComponents);
-        }
+        public int Level;
 
         public string EquipStat;
+
+        public string SkillGroup;
 
         public string Name => GetName();
 
         protected void Add(IComponent component)
         {
             _components.Add(component);
+        }
+
+        protected void AddDefaultParams(СompositeComponent baseComponents, string equipStat, string skillGroup, int level)
+        {
+            EquipStat = equipStat;
+            SkillGroup = skillGroup;
+            Level = level;
         }
 
         private string GetName()

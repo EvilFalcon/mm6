@@ -1,6 +1,6 @@
 ﻿using Interface;
 
-namespace Parameters.Components
+namespace PlayerScripts.ParametersComponents.Components
 {
     public class Intellect : IParameterType
     {
