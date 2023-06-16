@@ -45,7 +45,7 @@ namespace Items.Factory
 
             if (itemData.SkillGroup == "Blaster")
             {
-                return new GameObject().AddComponent<Item>();//Todo:
+                return new GameObject().AddComponent<Item>();
             }
 
             return new GameObject().AddComponent<Item>();

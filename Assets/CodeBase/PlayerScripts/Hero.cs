@@ -1,22 +1,22 @@
-﻿using HealthPoint;
+﻿using ComponentVisitor;
+using HealthPoint;
 using Interface;
 using PlayerScripts.PlayerComponent.Equipment;
 using PlayerScripts.PlayerComponent.Resistrs;
-using UnityEngine;
 
 namespace PlayerScripts
 {
-    public abstract class Hero : IAttacker, IDamageable
+    public abstract class Hero : IAttacker, IDamageable, IComponent
     {
-        private Health _health;
+        private readonly Health _health;
         private readonly Resists _resists;
         private readonly ParametersComponents.Parameters _parameters;
-
         private readonly HeroEquipment _equipment;
 
         protected Hero(Health health, Resists resists, ParametersComponents.Parameters parameters)
         {
-            _health = health;
+            _equipment = new HeroEquipment();
+            _health = new Health(this);
             _resists = resists;
             _parameters = parameters;
             _health.Died += OnDied;
@@ -29,7 +29,6 @@ namespace PlayerScripts
 
         private void OnDied()
         {
-            Debug.Log($"Герой  умер");
             OnDisable();
         }
 
@@ -41,6 +40,13 @@ namespace PlayerScripts
         public void Attack(IDamageable enemy)
         {
             enemy.TakeDamage(1);
+        }
+
+        public void Accept(IComponentVisitor visitor)
+        {
+            _resists.Accept(visitor);
+            _parameters.Accept(visitor);
+            _equipment.Accept(visitor);
         }
     }
 }

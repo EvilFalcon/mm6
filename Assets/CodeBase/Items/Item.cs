@@ -11,38 +11,40 @@ namespace Items
     public class Item : MonoBehaviour, IComponent, IInitializableItem, IUpgradeItem
     {
         private List<IComponent> _components = new List<IComponent>();
-        public string _picApSprite;
 
         public int ID { get; private set; }
         public int Level { get; private set; }
         public string SkillGroup { get; private set; }
         public string EquipStat { get; private set; }
-        
+        public string TypeBonus { get; private set; }
+        public int BonusId { get; private set; }
+
+        public string DefaultSpritePath { get; private set; }
+        public string PicApSprite { get; private set; }
         public string Name => GetName();
-        public SpriteRenderer Image { get; private set; }
-        public string DefaultSprite { get; private set; }
-        
+        public string Description => GetDescription();
+        public int Price => GetPrice();
+
         private void Awake()
         {
-            Image = GetComponent<SpriteRenderer>();
         }
 
-        public void AddComponent(СompositeComponent component)
+        public void AddComponent(CompositeComponent component, string typeBonus, int bonusId)
         {
+            TypeBonus = typeBonus;
+            BonusId = bonusId;
             _components.Add(component);
         }
 
-        public void AddDefaultComponent(СompositeComponent baseComponents, ItemData itemData, int level)
+        public void AddDefaultComponent(CompositeComponent baseComponents, ItemData itemData, int level)
         {
             ID = itemData.ItemID;
-            _picApSprite = itemData.PicFile;
+            PicApSprite = itemData.PicFile;
             // DefaultSprite = defaultSprite;
             EquipStat = itemData.EquipStat;
             SkillGroup = itemData.SkillGroup;
             Level = level;
             _components.Add(baseComponents);
-            Sprite sprite = Resources.Load<Sprite>(_picApSprite);
-            Image.sprite = sprite;
         }
 
         private string GetName()
@@ -55,6 +57,30 @@ namespace Items
             }
 
             return itemNameVisitor.GetNameItem();
+        }
+
+        private string GetDescription()
+        {
+            DescriptionVisitor visitor = new DescriptionVisitor();
+
+            foreach (var component in _components)
+            {
+                component.Accept(visitor);
+            }
+
+            return visitor.GetDescriptionItem();
+        } 
+       
+        private int GetPrice()
+        {
+            ItemPriceVisitor visitor = new ItemPriceVisitor();
+
+            foreach (var component in _components)
+            {
+                component.Accept(visitor);
+            }
+
+            return visitor.GetPrise();
         }
 
         public void Accept(IComponentVisitor visitor)

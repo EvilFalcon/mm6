@@ -18,7 +18,7 @@ namespace EnemyScripts
 
         private void Awake()
         {
-            _health = new Health(_healthPoint);
+            //_health = new Health();
         }
 
         private void OnEnable()
@@ -32,7 +32,7 @@ namespace EnemyScripts
         {
             _health.Died -= OnDisable;
             gameObject.SetActive(false);
-            _health = new Health(_health.Max);
+            //_health = new Health(_health.Max);
         }
 
         private void OnDestroy()

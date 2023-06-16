@@ -15,15 +15,15 @@ namespace Items.Factory
     {
         private readonly DamageConverter _converter = new DamageConverter();
 
-        public СompositeComponent Build(ItemData itemData, int level)
+        public CompositeComponent Build(ItemData itemData, int level)
         {
             if (itemData.SkillGroup == null)
                 return null;
 
-            СompositeComponent components = new СompositeComponent(new IComponent[]
+            CompositeComponent components = new CompositeComponent(new IComponent[]
             {
                 new ItemName(itemData.Name, 1),
-                new ItemDescription(itemData.Notes,1),
+                new ItemDescription(itemData.Notes, 1),
                 new ItemPrice<DefaultPrice>(itemData.Value, 0)
             });
 
@@ -45,7 +45,7 @@ namespace Items.Factory
             return null;
         }
 
-        private СompositeComponent CreateComponentArmor(ItemData itemData, СompositeComponent components)
+        private CompositeComponent CreateComponentArmor(ItemData itemData, CompositeComponent components)
         {
             components.AddComponent(new IComponent[]
             {
@@ -55,7 +55,7 @@ namespace Items.Factory
             return components;
         }
 
-        private СompositeComponent CreateComponentWeapon(ItemData itemData, СompositeComponent components)
+        private CompositeComponent CreateComponentWeapon(ItemData itemData, CompositeComponent components)
         {
             (int min, int max) = _converter.Convert(itemData.Mod1);
 

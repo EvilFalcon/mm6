@@ -1,5 +1,6 @@
 ﻿using Interface;
 using Items.ItemComponent;
+using Items.ItemComponent.ItemComponentInfo;
 using Items.ItemComponent.WeaponComponent;
 using Items.ItemComponent.WeaponComponent.DamageType;
 using PlayerScripts.ParametersComponents;
@@ -24,5 +25,9 @@ namespace ComponentVisitor
         public virtual void Visit<T>(DefaultDamage<T> component) where T : IDamageType { }
         
         public virtual void Visit<T>(DamageModified<T> component) where T : IDamageType { }
+        
+        public virtual void Visit(HealthComponent component) { }
+        
+        public virtual void Visit(ManaComponent component) { }
     }
 }

@@ -31,7 +31,6 @@ namespace Data.ParcerJson
             SpawnerDatas = FromJson<SpawnerDataInfo>(typeof(SpawnerDataInfo));
             MonstersData = FromJson<MonstersData>(typeof(MonstersData));
             StandardBonusStats = FromJson<StandardBonusStatsData>(typeof(StandardBonusStatsData));
-            Program.Run();
         }
 
         public T[] FromJson<T>(Type type)

@@ -18,6 +18,7 @@ namespace AttackSystem
             {
                 rangePenalty = monsterArmorClass / 2;
             }
+            
             else if (distance >= 25.6)
             {
                 rangePenalty = monsterArmorClass + 15;

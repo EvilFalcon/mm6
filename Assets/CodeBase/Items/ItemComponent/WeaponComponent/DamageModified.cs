@@ -14,7 +14,6 @@ namespace Items.ItemComponent.WeaponComponent
 
         public int Min { get; }
         public int Max { get; }
-      
 
         public void Accept(IComponentVisitor visitor)
         {

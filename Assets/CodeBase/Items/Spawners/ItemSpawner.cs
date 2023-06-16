@@ -33,7 +33,7 @@ namespace Items.Spawners
             SpawnerDataInfo spawnerDataInfo = GetRandomSpawnerInfo();
             _itemData = _parserData.ItemsDatas[spawnerDataInfo.ItemID];
             IUpgradeItem item = (IUpgradeItem)_itemFactory.CreateUnknownItem(_itemData, _level);
-            item = _itemBonusParamsBuilder.Build(item, _itemData);
+            item = _itemBonusParamsBuilder.Build(item);
             return (Item)item;
         }
 

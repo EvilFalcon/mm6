@@ -1,6 +1,8 @@
-﻿namespace PlayerScripts.PlayerComponent.Equipment
+﻿using Interface;
+
+namespace PlayerScripts.PlayerComponent.Equipment
 {
-    public interface IEquipmentItems
+    public interface IEquipmentItems : IComponent
     {
     }
 }

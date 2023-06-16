@@ -1,26 +1,41 @@
 using System;
+using AttackSystem;
+using ComponentVisitor;
 using Interface;
 using JetBrains.Annotations;
+using PlayerScripts.ParametersComponents.Components;
 
 namespace HealthPoint
 {
     public class Health : IWillCure
     {
-        public Health(int value)
+        private readonly IComponent _component;
+
+        public Health(IComponent component)
         {
-            Value = value;
-            Max = Value;
+            _component = component;
+            Value = Max;
         }
-        
+
         [CanBeNull] public event Action Died;
 
-        public int Max { get; private set; }
+        public int Max => GetMaxHealth();
         public int Value { get; private set; }
-        public int Min { get; } = 0;
+        private int _thresholdOfDeath = 0;
+        private int _min;
 
-        public void IncreaseHealth(int points)
+        private int GetMaxHealth()
         {
-            Max += points;
+            HealthVisitor healthVisitor = new HealthVisitor();
+            ParameterVisitorType<Endurance> enduranceVisitor = new ParameterVisitorType<Endurance>();
+            _component.Accept(healthVisitor);
+            _component.Accept(enduranceVisitor);
+            _thresholdOfDeath = enduranceVisitor.Value;
+
+            if (_thresholdOfDeath > 0)
+                _thresholdOfDeath *= -1;
+            
+            return healthVisitor.Health + Effect.Get(enduranceVisitor.Value);
         }
 
         public void Heal(int points)
@@ -41,10 +56,10 @@ namespace HealthPoint
 
             Value -= attack;
 
-            if (Value < Min)
-                Value = Min;
+            if (Value < _thresholdOfDeath)
+                Value = _thresholdOfDeath;
 
-            if (Value == Min)
+            if (Value == _thresholdOfDeath)
                 Died?.Invoke();
         }
     }

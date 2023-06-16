@@ -80,10 +80,10 @@ namespace Items.Factory
                 spawnerItems[totalWeight] = item;
             }
 
-            int[] _keys = spawnerItems.Keys.ToArray();
-            Array.Sort(_keys);
+            int[] keys = spawnerItems.Keys.ToArray();
+            Array.Sort(keys);
 
-            return spawnerItems[AlgorithmContainer.FindValueInRange(_keys, AlgorithmContainer.GetRandomWeight(totalWeight))];
+            return spawnerItems[AlgorithmContainer.FindValueInRange(keys, AlgorithmContainer.GetRandomWeight(totalWeight))];
         }
     }
 }

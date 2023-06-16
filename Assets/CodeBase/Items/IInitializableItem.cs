@@ -5,6 +5,6 @@ namespace Items
 {
     public interface IInitializableItem
     {
-        public void AddDefaultComponent(СompositeComponent baseComponents, ItemData itemData, int level);
+        public void AddDefaultComponent(CompositeComponent baseComponents, ItemData itemData, int level);
     }
 }

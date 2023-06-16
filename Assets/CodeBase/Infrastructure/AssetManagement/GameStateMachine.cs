@@ -23,10 +23,10 @@ namespace Infrastructure.AssetManagement
             state.Enter();
         }
 
-        public void Enter<TState, TPayLoad>(TPayLoad payLoad) where TState : class, IPayLoadState<TPayLoad>
+        public void Enter<TState, TPayLoad>(TPayLoad payload) where TState : class, IPayLoadState<TPayLoad>
         {
             TState state = ChangeState<TState>();
-            state.Enter(payLoad);
+            state.Enter(payload);
         }
 
         private TState ChangeState<TState>() where TState : class, IExitableState

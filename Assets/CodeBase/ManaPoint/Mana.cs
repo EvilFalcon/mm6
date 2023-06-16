@@ -1,34 +1,24 @@
-﻿using UnityEngine;
+﻿using AttackSystem;
+using ComponentVisitor;
+using Interface;
 
 namespace ManaPoint
 {
-    public class Mana
+    public class Mana<TParameter> : AbstractMana where TParameter : IParameterType
+
     {
-        public Mana(int value)
+        public Mana(IComponent component) : base(component)
         {
-            Max = value;
-            Value = Max;
         }
 
-        public int Max { get; private set; }
-        public int Value { get; private set; }
-        public int Min { get; private set; } = 0;
-
-        public void PointRegenereit(int value)
+        protected override int GetMaxManaPoint()
         {
-            if (Value < 0)
-                return;
+            ManaVisitor manaPointVisitor = new ManaVisitor();
+            ParameterVisitorType<TParameter> parameterVisitorType = new ParameterVisitorType<TParameter>();
+            Component.Accept(manaPointVisitor);
+            Component.Accept(parameterVisitorType);
 
-            Value = Mathf.Clamp(Value + value, Min, Max);
-        }
-
-        public bool TryUseMagicSpell(int cost)
-        {
-            if (cost > Value)
-                return false;
-
-            Value -= cost;
-            return true;
+            return manaPointVisitor.ManaPoint + Effect.Get(parameterVisitorType.Value);
         }
     }
 }

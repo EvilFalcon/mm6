@@ -4,8 +4,11 @@ namespace Items
 {
     public interface IUpgradeItem
     {
-        public void AddComponent(СompositeComponent component);
         public int Level { get; }
         public string EquipStat { get; }
+        public string TypeBonus { get; }
+        public int BonusId { get; }
+
+        public void AddComponent(CompositeComponent component, string typeBonus, int bonusId);
     }
 }

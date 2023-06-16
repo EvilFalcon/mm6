@@ -6,6 +6,9 @@ namespace Data.Utils
     {
         public static int GetRandomWeight(int value) =>
             Random.Range(1, value + 1);
+        
+        public static int GetRandomWeight(int min, int max) =>
+            Random.Range(min, max + 1);
 
         public static int FindValueInRange(int[] valueCollection, int value)
         {

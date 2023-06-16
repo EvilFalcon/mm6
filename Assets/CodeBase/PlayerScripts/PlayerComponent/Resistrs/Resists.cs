@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using ComponentVisitor;
 using Interface;
-using PlayerScripts.PlayerComponent.Resistrs.ResistsType;
+using Items.ItemComponent.WeaponComponent.DamageType;
 
 namespace PlayerScripts.PlayerComponent.Resistrs
 {

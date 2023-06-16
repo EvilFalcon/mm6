@@ -29,9 +29,9 @@ namespace Data.Utils
             return s_weapons.Contains(itemData.EquipStat);
         }
 
-        public static bool TryGetWeapon(IUpgradeItem itemData)
+        public static bool TryGetWeapon(string itemData)
         {
-            return s_weapons.Contains(itemData.EquipStat);
+            return s_weapons.Contains(itemData);
         }
 
         public static bool TryGetArmor(ItemData itemData)
@@ -39,9 +39,9 @@ namespace Data.Utils
             return s_armor.Contains(itemData.EquipStat);
         }
 
-        public static bool TryGetArmor(IUpgradeItem itemData)
+        public static bool TryGetArmor(string itemData)
         {
-            return s_armor.Contains(itemData.EquipStat);
+            return s_armor.Contains(itemData);
         }
 
         public static bool TryGetBijouterie(ItemData itemData)
@@ -49,9 +49,9 @@ namespace Data.Utils
             return s_bijouterie.Contains(itemData.EquipStat);
         }
 
-        public static bool TryGetBijouterie(IUpgradeItem itemData)
+        public static bool TryGetBijouterie(string itemData)
         {
-            return s_bijouterie.Contains(itemData.EquipStat);
+            return s_bijouterie.Contains(itemData);
         }
     }
 }

@@ -1,52 +1,64 @@
 ﻿using Data.ParcerJson;
 using Data.Utils;
 using Items.BonusParameterFactory;
-using Items.CombinedComponent;
 
 namespace Items.Factory
 {
     public class ItemBonusParamsBuilder
     {
         private string _levelItem;
-        private StandartParametrFactory _standardParamsFactory;
+        private StandardParamFactory _standardParamsFactory;
         private SpecialBonusStat _specialBonusStat;
+        private readonly int[] _chanceStandardParam;
+        private readonly int[] _chanceSpecialParam;
+        private readonly int[] _chanceWeaponSpecialParam;
         private bool _isWeapon;
 
         public ItemBonusParamsBuilder(ParserData parserData)
         {
-            SpecialBonusStat _specialBonusStat = new SpecialBonusStat(parserData);
-            _standardParamsFactory = new StandartParametrFactory(parserData);
+            _standardParamsFactory = new StandardParamFactory(parserData);
+
+            _chanceStandardParam = new[]
+            {
+                0, 40, 40, 40, 40, 75,
+            };
+            _chanceSpecialParam = new[]
+            {
+                0, 0, 10, 15, 20, 25,
+            };
+            _chanceWeaponSpecialParam = new[]
+            {
+                0, 0, 10, 20, 30, 50,
+            };
         }
 
-        public IUpgradeItem Build(IUpgradeItem item, ItemData itemData)
+        public IUpgradeItem Build(IUpgradeItem item)
         {
-            _specialBonusStat.Create(item.Level, item.EquipStat);
+            if (item.Level < 2 || ItemType.TryGetWeapon(item.EquipStat) && item.Level < 3)
+                return item;
 
-            //_isWeapon = ItemType.TryGetWeapon(item);
+            return GiveNewProperties(item);
+        }
 
-            // if (item.Level < 2 || _isWeapon && item.Level < 3)
-            //     return null;
-//
-            // СompositeComponent component = GiveNewProperties(item, itemData);
-//
-            // if (component == null)
-            //     return item;
-//
-            // item.AddComponent(component);
+        private IUpgradeItem GiveNewProperties(IUpgradeItem item)
+        {
+            if (ItemType.TryGetWeapon(item.EquipStat) && TryGetChance(_chanceWeaponSpecialParam[item.Level - 1]))
+                return _specialBonusStat.Create(item);
+
+            if (TryGetChance(_chanceSpecialParam[item.Level]))
+                return _specialBonusStat.Create(item);
+
+            if (TryGetChance(_chanceStandardParam[item.Level]))
+                return _standardParamsFactory.CreateRandomBonus(item);
+
             return item;
         }
 
-        private СompositeComponent GiveNewProperties(IUpgradeItem item, ItemData itemData)
+        private bool TryGetChance(int chance)
         {
-            if (item.Level == 2 && _isWeapon == false)
-                _standardParamsFactory.CreateRandomBonus(item.Level, item.EquipStat);
+            int percent = AlgorithmContainer.GetRandomWeight(0, 100);
 
-            return default;
-        }
-
-        public Item GetSpecialBonus(Item item, ItemData itemData)
-        {
-            return item;
+            return chance >= percent;
         }
     }
 }
