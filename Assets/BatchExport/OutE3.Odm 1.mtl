@@ -1,0 +1,761 @@
+# Model MTL from "oute3.odt" map from MM6.
+	
+newmtl wtrtyl:g
+	map_Ka OutE3.Odm.textures/ground/wtrtyl.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrtyl.bmp
+	
+newmtl wtrdrxse:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrXSE.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrXSE.bmp
+	
+newmtl wtrdrs:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrS.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrS.bmp
+	
+newmtl wtrdrxsw:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrXSW.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrXSW.bmp
+	
+newmtl wtrdre:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrE.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrE.bmp
+	
+newmtl voldrtnw:g
+	map_Ka OutE3.Odm.textures/ground/voldrtNW.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtNW.bmp
+	
+newmtl voldrtne:g
+	map_Ka OutE3.Odm.textures/ground/voldrtNE.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtNE.bmp
+	
+newmtl wtrdrw:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrW.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrW.bmp
+	
+newmtl wtrdrse:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrSE.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrSE.bmp
+	
+newmtl voldrtw:g
+	map_Ka OutE3.Odm.textures/ground/voldrtW.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtW.bmp
+	
+newmtl voldrte:g
+	map_Ka OutE3.Odm.textures/ground/voldrtE.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtE.bmp
+	
+newmtl wtrdrsw:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrSW.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrSW.bmp
+	
+newmtl voldrtxnw:g
+	map_Ka OutE3.Odm.textures/ground/voldrtXNW.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtXNW.bmp
+	
+newmtl voldrtxne:g
+	map_Ka OutE3.Odm.textures/ground/voldrtXNE.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtXNE.bmp
+	
+newmtl voltyl:g
+	map_Ka OutE3.Odm.textures/ground/voltyl.bmp
+	map_Kd OutE3.Odm.textures/ground/voltyl.bmp
+	
+newmtl voldrtn:g
+	map_Ka OutE3.Odm.textures/ground/voldrtN.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtN.bmp
+	
+newmtl dirttyl:g
+	map_Ka OutE3.Odm.textures/ground/dirttyl.bmp
+	map_Kd OutE3.Odm.textures/ground/dirttyl.bmp
+	
+newmtl voldrtsw:g
+	map_Ka OutE3.Odm.textures/ground/voldrtSW.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtSW.bmp
+	
+newmtl voldrtxsw:g
+	map_Ka OutE3.Odm.textures/ground/voldrtXSW.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtXSW.bmp
+	
+newmtl wtrdrxne:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrXNE.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrXNE.bmp
+	
+newmtl wtrdrne:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrNE.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrNE.bmp
+	
+newmtl voldrts:g
+	map_Ka OutE3.Odm.textures/ground/voldrtS.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtS.bmp
+	
+newmtl wtrdrn:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrN.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrN.bmp
+	
+newmtl voldrtxse:g
+	map_Ka OutE3.Odm.textures/ground/voldrtXSE.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtXSE.bmp
+	
+newmtl voldrtse:g
+	map_Ka OutE3.Odm.textures/ground/voldrtSE.bmp
+	map_Kd OutE3.Odm.textures/ground/voldrtSE.bmp
+	
+newmtl wtrdrnw:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrNW.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrNW.bmp
+	
+newmtl wtrdrxnw:g
+	map_Ka OutE3.Odm.textures/ground/wtrdrXNW.bmp
+	map_Kd OutE3.Odm.textures/ground/wtrdrXNW.bmp
+	
+newmtl grdrtnw:g
+	map_Ka OutE3.Odm.textures/ground/grdrtNW.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtNW.bmp
+	
+newmtl grdrtn:g
+	map_Ka OutE3.Odm.textures/ground/grdrtN.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtN.bmp
+	
+newmtl grdrtne:g
+	map_Ka OutE3.Odm.textures/ground/grdrtNE.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtNE.bmp
+	
+newmtl grdrtw:g
+	map_Ka OutE3.Odm.textures/ground/grdrtW.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtW.bmp
+	
+newmtl grdrtxse:g
+	map_Ka OutE3.Odm.textures/ground/grdrtXSE.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtXSE.bmp
+	
+newmtl grdrtse:g
+	map_Ka OutE3.Odm.textures/ground/grdrtSE.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtSE.bmp
+	
+newmtl grdrtxnw:g
+	map_Ka OutE3.Odm.textures/ground/grdrtXNW.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtXNW.bmp
+	
+newmtl grdrte:g
+	map_Ka OutE3.Odm.textures/ground/grdrtE.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtE.bmp
+	
+newmtl grdrtsw:g
+	map_Ka OutE3.Odm.textures/ground/grdrtSW.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtSW.bmp
+	
+newmtl grdrtxsw:g
+	map_Ka OutE3.Odm.textures/ground/grdrtXSW.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtXSW.bmp
+	
+newmtl grdrtxne:g
+	map_Ka OutE3.Odm.textures/ground/grdrtXNE.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtXNE.bmp
+	
+newmtl grastyl:g
+	map_Ka OutE3.Odm.textures/ground/grastyl.bmp
+	map_Kd OutE3.Odm.textures/ground/grastyl.bmp
+	
+newmtl grdrts:g
+	map_Ka OutE3.Odm.textures/ground/grdrtS.bmp
+	map_Kd OutE3.Odm.textures/ground/grdrtS.bmp
+	
+newmtl drsrs_e:g
+	map_Ka OutE3.Odm.textures/ground/drsrS_E.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrS_E.bmp
+	
+newmtl drsrew:g
+	map_Ka OutE3.Odm.textures/ground/drsrEW.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrEW.bmp
+	
+newmtl drsrecap:g
+	map_Ka OutE3.Odm.textures/ground/drsrECAP.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrECAP.bmp
+	
+newmtl drsrwcap:g
+	map_Ka OutE3.Odm.textures/ground/drsrWCAP.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrWCAP.bmp
+	
+newmtl drsrs_w:g
+	map_Ka OutE3.Odm.textures/ground/drsrS_W.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrS_W.bmp
+	
+newmtl drsrns:g
+	map_Ka OutE3.Odm.textures/ground/drsrNS.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrNS.bmp
+	
+newmtl drsrn_e:g
+	map_Ka OutE3.Odm.textures/ground/drsrN_E.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrN_E.bmp
+	
+newmtl drsrn_w:g
+	map_Ka OutE3.Odm.textures/ground/drsrN_W.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrN_W.bmp
+	
+newmtl drsrew_s:g
+	map_Ka OutE3.Odm.textures/ground/drsrEW_S.bmp
+	map_Kd OutE3.Odm.textures/ground/drsrEW_S.bmp
+	
+newmtl plstrdr
+	map_Ka OutE3.Odm.textures/Plstrdr.bmp
+	map_Kd OutE3.Odm.textures/Plstrdr.bmp
+	
+newmtl t3c2
+	map_Ka OutE3.Odm.textures/T3C2.bmp
+	map_Kd OutE3.Odm.textures/T3C2.bmp
+	
+newmtl t1wl4w
+	map_Ka OutE3.Odm.textures/T1wl4W.bmp
+	map_Kd OutE3.Odm.textures/T1wl4W.bmp
+	
+newmtl t1wl5rea
+	map_Ka OutE3.Odm.textures/T1wl5REa.bmp
+	map_Kd OutE3.Odm.textures/T1wl5REa.bmp
+	
+newmtl t1wl4ctr
+	map_Ka OutE3.Odm.textures/T1wl4ctr.bmp
+	map_Kd OutE3.Odm.textures/T1wl4ctr.bmp
+	
+newmtl pxshings
+	map_Ka OutE3.Odm.textures/Pxshings.bmp
+	map_Kd OutE3.Odm.textures/Pxshings.bmp
+	
+newmtl t1wl5lea
+	map_Ka OutE3.Odm.textures/T1wl5LEa.bmp
+	map_Kd OutE3.Odm.textures/T1wl5LEa.bmp
+	
+newmtl rblbw
+	map_Ka OutE3.Odm.textures/RblBW.bmp
+	map_Kd OutE3.Odm.textures/RblBW.bmp
+	
+newmtl tews
+	map_Ka OutE3.Odm.textures/TewS.bmp
+	map_Kd OutE3.Odm.textures/TewS.bmp
+	
+newmtl cedhwal1
+	map_Ka OutE3.Odm.textures/CedHWal1.bmp
+	map_Kd OutE3.Odm.textures/CedHWal1.bmp
+	
+newmtl cedvwal1
+	map_Ka OutE3.Odm.textures/CedVWal1.bmp
+	map_Kd OutE3.Odm.textures/CedVWal1.bmp
+	
+newmtl trim
+	map_Ka OutE3.Odm.textures/TRIM.bmp
+	map_Kd OutE3.Odm.textures/TRIM.bmp
+	
+newmtl plruf01
+	map_Ka OutE3.Odm.textures/plruf01.bmp
+	map_Kd OutE3.Odm.textures/plruf01.bmp
+	
+newmtl t1wl5ct
+	map_Ka OutE3.Odm.textures/T1wl5ct.bmp
+	map_Kd OutE3.Odm.textures/T1wl5ct.bmp
+	
+newmtl magicpor
+	map_Ka OutE3.Odm.textures/Magicpor.bmp
+	map_Kd OutE3.Odm.textures/Magicpor.bmp
+	
+newmtl solid10
+	map_Ka OutE3.Odm.textures/solid10.bmp
+	map_Kd OutE3.Odm.textures/solid10.bmp
+	
+newmtl cbmxbrck
+	map_Ka OutE3.Odm.textures/cbMxbrck.bmp
+	map_Kd OutE3.Odm.textures/cbMxbrck.bmp
+	
+newmtl t1d1
+	map_Ka OutE3.Odm.textures/t1d1.bmp
+	map_Kd OutE3.Odm.textures/t1d1.bmp
+	
+newmtl pbrwn
+	map_Ka OutE3.Odm.textures/PBRWN.bmp
+	map_Kd OutE3.Odm.textures/PBRWN.bmp
+	
+newmtl pbtrm
+	map_Ka OutE3.Odm.textures/PbTrM.bmp
+	map_Kd OutE3.Odm.textures/PbTrM.bmp
+	
+newmtl pbrre
+	map_Ka OutE3.Odm.textures/PBRRE.bmp
+	map_Kd OutE3.Odm.textures/PBRRE.bmp
+	
+newmtl pbrle
+	map_Ka OutE3.Odm.textures/PBRLE.bmp
+	map_Kd OutE3.Odm.textures/PBRLE.bmp
+	
+newmtl pbrst
+	map_Ka OutE3.Odm.textures/Pbrst.bmp
+	map_Kd OutE3.Odm.textures/Pbrst.bmp
+	
+newmtl pbrdr
+	map_Ka OutE3.Odm.textures/PBRDR.bmp
+	map_Kd OutE3.Odm.textures/PBRDR.bmp
+	
+newmtl tewsw
+	map_Ka OutE3.Odm.textures/TewSW.bmp
+	map_Kd OutE3.Odm.textures/TewSW.bmp
+	
+newmtl tewls
+	map_Ka OutE3.Odm.textures/TewlS.bmp
+	map_Kd OutE3.Odm.textures/TewlS.bmp
+	
+newmtl tewrs
+	map_Ka OutE3.Odm.textures/TewRS.bmp
+	map_Kd OutE3.Odm.textures/TewRS.bmp
+	
+newmtl tewd
+	map_Ka OutE3.Odm.textures/Tewd.bmp
+	map_Kd OutE3.Odm.textures/Tewd.bmp
+	
+newmtl tewm
+	map_Ka OutE3.Odm.textures/TewM.bmp
+	map_Kd OutE3.Odm.textures/TewM.bmp
+	
+newmtl mystrya
+	map_Ka OutE3.Odm.textures/mystryA.bmp
+	map_Kd OutE3.Odm.textures/mystryA.bmp
+	
+newmtl rblst
+	map_Ka OutE3.Odm.textures/Rblst.bmp
+	map_Kd OutE3.Odm.textures/Rblst.bmp
+	
+newmtl bemhwal1
+	map_Ka OutE3.Odm.textures/BemHwal1.bmp
+	map_Kd OutE3.Odm.textures/BemHwal1.bmp
+	
+newmtl rblle
+	map_Ka OutE3.Odm.textures/Rblle.bmp
+	map_Kd OutE3.Odm.textures/Rblle.bmp
+	
+newmtl tewld
+	map_Ka OutE3.Odm.textures/Tewld.bmp
+	map_Kd OutE3.Odm.textures/Tewld.bmp
+	
+newmtl rblre
+	map_Ka OutE3.Odm.textures/Rblre.bmp
+	map_Kd OutE3.Odm.textures/Rblre.bmp
+	
+newmtl bemstart
+	map_Ka OutE3.Odm.textures/BemStarT.bmp
+	map_Kd OutE3.Odm.textures/BemStarT.bmp
+	
+newmtl top32
+	map_Ka OutE3.Odm.textures/TOP32.bmp
+	map_Kd OutE3.Odm.textures/TOP32.bmp
+	
+newmtl sidert32
+	map_Ka OutE3.Odm.textures/SIDERT32.bmp
+	map_Kd OutE3.Odm.textures/SIDERT32.bmp
+	
+newmtl sign128
+	map_Ka OutE3.Odm.textures/Sign128.bmp
+	map_Kd OutE3.Odm.textures/Sign128.bmp
+	
+newmtl tav128wl
+	map_Ka OutE3.Odm.textures/TAV128WL.bmp
+	map_Kd OutE3.Odm.textures/TAV128WL.bmp
+	
+newmtl bemob2b
+	map_Ka OutE3.Odm.textures/BemOB2b.bmp
+	map_Kd OutE3.Odm.textures/BemOB2b.bmp
+	
+newmtl tavwctr
+	map_Ka OutE3.Odm.textures/TAVWCTR.bmp
+	map_Kd OutE3.Odm.textures/TAVWCTR.bmp
+	
+newmtl bemob1b
+	map_Ka OutE3.Odm.textures/BemOB1b.bmp
+	map_Kd OutE3.Odm.textures/BemOB1b.bmp
+	
+newmtl tavrf
+	map_Ka OutE3.Odm.textures/TAVRF.bmp
+	map_Kd OutE3.Odm.textures/TAVRF.bmp
+	
+newmtl t1swbd
+	map_Ka OutE3.Odm.textures/T1swBd.bmp
+	map_Kd OutE3.Odm.textures/T1swBd.bmp
+	
+newmtl tdortrim
+	map_Ka OutE3.Odm.textures/TDORTRIM.bmp
+	map_Kd OutE3.Odm.textures/TDORTRIM.bmp
+	
+newmtl tdoora
+	map_Ka OutE3.Odm.textures/TDoorA.bmp
+	map_Kd OutE3.Odm.textures/TDoorA.bmp
+	
+newmtl tdoorb
+	map_Ka OutE3.Odm.textures/TDOORB.bmp
+	map_Kd OutE3.Odm.textures/TDOORB.bmp
+	
+newmtl pxstrwb
+	map_Ka OutE3.Odm.textures/PxstrwB.bmp
+	map_Kd OutE3.Odm.textures/PxstrwB.bmp
+	
+newmtl pxstrre
+	map_Ka OutE3.Odm.textures/PXSTRRE.bmp
+	map_Kd OutE3.Odm.textures/PXSTRRE.bmp
+	
+newmtl pxstrle
+	map_Ka OutE3.Odm.textures/PXSTRLE.bmp
+	map_Kd OutE3.Odm.textures/PXSTRLE.bmp
+	
+newmtl pxstrst
+	map_Ka OutE3.Odm.textures/PXSTRST.bmp
+	map_Kd OutE3.Odm.textures/PXSTRST.bmp
+	
+newmtl pxstrdr
+	map_Ka OutE3.Odm.textures/PXSTRDR.bmp
+	map_Kd OutE3.Odm.textures/PXSTRDR.bmp
+	
+newmtl cbeam5
+	map_Ka OutE3.Odm.textures/Cbeam5.bmp
+	map_Kd OutE3.Odm.textures/Cbeam5.bmp
+	
+newmtl elem-all
+	map_Ka OutE3.Odm.textures/ELEM-ALL.bmp
+	map_Kd OutE3.Odm.textures/ELEM-ALL.bmp
+	
+newmtl bemtila
+	map_Ka OutE3.Odm.textures/BemTilA.bmp
+	map_Kd OutE3.Odm.textures/BemTilA.bmp
+	
+newmtl armorpor
+	map_Ka OutE3.Odm.textures/armorpor.bmp
+	map_Kd OutE3.Odm.textures/armorpor.bmp
+	
+newmtl pxstrlew
+	map_Ka OutE3.Odm.textures/PxstrleW.bmp
+	map_Kd OutE3.Odm.textures/PxstrleW.bmp
+	
+newmtl tavre
+	map_Ka OutE3.Odm.textures/TAVRE.bmp
+	map_Kd OutE3.Odm.textures/TAVRE.bmp
+	
+newmtl bemhwal
+	map_Ka OutE3.Odm.textures/BemHwal.bmp
+	map_Kd OutE3.Odm.textures/BemHwal.bmp
+	
+newmtl tavle
+	map_Ka OutE3.Odm.textures/TAVLE.bmp
+	map_Kd OutE3.Odm.textures/TAVLE.bmp
+	
+newmtl tavsmdr
+	map_Ka OutE3.Odm.textures/TAVSMDR.bmp
+	map_Kd OutE3.Odm.textures/TAVSMDR.bmp
+	
+newmtl cedvwal2
+	map_Ka OutE3.Odm.textures/CedVWal2.bmp
+	map_Kd OutE3.Odm.textures/CedVWal2.bmp
+	
+newmtl tavwle
+	map_Ka OutE3.Odm.textures/TAVWLE.bmp
+	map_Kd OutE3.Odm.textures/TAVWLE.bmp
+	
+newmtl tavwre
+	map_Ka OutE3.Odm.textures/TAVWRE.bmp
+	map_Kd OutE3.Odm.textures/TAVWRE.bmp
+	
+newmtl tavlgdr
+	map_Ka OutE3.Odm.textures/TAVLGDR.bmp
+	map_Kd OutE3.Odm.textures/TAVLGDR.bmp
+	
+newmtl cr64
+	map_Ka OutE3.Odm.textures/CR64.bmp
+	map_Kd OutE3.Odm.textures/CR64.bmp
+	
+newmtl stables
+	map_Ka OutE3.Odm.textures/STABLES.bmp
+	map_Kd OutE3.Odm.textures/STABLES.bmp
+	
+newmtl tavmid
+	map_Ka OutE3.Odm.textures/TAVMID.bmp
+	map_Kd OutE3.Odm.textures/TAVMID.bmp
+	
+newmtl bemstrt1
+	map_Ka OutE3.Odm.textures/BemStrT1.bmp
+	map_Kd OutE3.Odm.textures/BemStrT1.bmp
+	
+newmtl bemob1
+	map_Ka OutE3.Odm.textures/BemOb1.bmp
+	map_Kd OutE3.Odm.textures/BemOb1.bmp
+	
+newmtl bemsv16a
+	map_Ka OutE3.Odm.textures/BemSV16a.bmp
+	map_Kd OutE3.Odm.textures/BemSV16a.bmp
+	
+newmtl wtrtyl
+	map_Ka OutE3.Odm.textures/WtrTyl.bmp
+	map_Kd OutE3.Odm.textures/WtrTyl.bmp
+	
+newmtl bemv
+	map_Ka OutE3.Odm.textures/BemV.bmp
+	map_Kd OutE3.Odm.textures/BemV.bmp
+	
+newmtl bank
+	map_Ka OutE3.Odm.textures/BANK.bmp
+	map_Kd OutE3.Odm.textures/BANK.bmp
+	
+newmtl rhctr
+	map_Ka OutE3.Odm.textures/RHCTR.bmp
+	map_Kd OutE3.Odm.textures/RHCTR.bmp
+	
+newmtl cedsqrdk
+	map_Ka OutE3.Odm.textures/Cedsqrdk.bmp
+	map_Kd OutE3.Odm.textures/Cedsqrdk.bmp
+	
+newmtl rhle
+	map_Ka OutE3.Odm.textures/RHLE.bmp
+	map_Kd OutE3.Odm.textures/RHLE.bmp
+	
+newmtl rhctrw
+	map_Ka OutE3.Odm.textures/RHCTRW.bmp
+	map_Kd OutE3.Odm.textures/RHCTRW.bmp
+	
+newmtl rhctr:i
+	d 0.3
+	Tr 0.7
+	map_Ka OutE3.Odm.textures/RHCTR.bmp
+	map_Kd OutE3.Odm.textures/RHCTR.bmp
+	
+newmtl t1c2
+	map_Ka OutE3.Odm.textures/t1c2.bmp
+	map_Kd OutE3.Odm.textures/t1c2.bmp
+	
+newmtl rhdr1
+	map_Ka OutE3.Odm.textures/RHDR1.bmp
+	map_Kd OutE3.Odm.textures/RHDR1.bmp
+	
+newmtl rhdr2
+	map_Ka OutE3.Odm.textures/RHDR2.bmp
+	map_Kd OutE3.Odm.textures/RHDR2.bmp
+	
+newmtl t1swbu:i
+	d 0.3
+	Tr 0.7
+	map_Ka OutE3.Odm.textures/T1swBu.bmp
+	map_Kd OutE3.Odm.textures/T1swBu.bmp
+	
+newmtl rblmt
+	map_Ka OutE3.Odm.textures/RblMt.bmp
+	map_Kd OutE3.Odm.textures/RblMt.bmp
+	
+newmtl crdflr4
+	map_Ka OutE3.Odm.textures/CrDFlr4.bmp
+	map_Kd OutE3.Odm.textures/CrDFlr4.bmp
+	
+newmtl bemvwal1
+	map_Ka OutE3.Odm.textures/BemVwal1.bmp
+	map_Kd OutE3.Odm.textures/BemVwal1.bmp
+	
+newmtl tewrd
+	map_Ka OutE3.Odm.textures/TewRd.bmp
+	map_Kd OutE3.Odm.textures/TewRd.bmp
+	
+newmtl rblst1
+	map_Ka OutE3.Odm.textures/Rblst1.bmp
+	map_Kd OutE3.Odm.textures/Rblst1.bmp
+	
+newmtl d2lgdor
+	map_Ka OutE3.Odm.textures/D2LgDor.bmp
+	map_Kd OutE3.Odm.textures/D2LgDor.bmp
+	
+newmtl tewdw
+	map_Ka OutE3.Odm.textures/TewdW.bmp
+	map_Kd OutE3.Odm.textures/TewdW.bmp
+	
+newmtl crdflr3
+	map_Ka OutE3.Odm.textures/CrDFlr3.bmp
+	map_Kd OutE3.Odm.textures/CrDFlr3.bmp
+	
+newmtl thlgdr
+	map_Ka OutE3.Odm.textures/THLgDr.bmp
+	map_Kd OutE3.Odm.textures/THLgDr.bmp
+	
+newmtl thuniq2
+	map_Ka OutE3.Odm.textures/THUniq2.bmp
+	map_Kd OutE3.Odm.textures/THUniq2.bmp
+	
+newmtl thre
+	map_Ka OutE3.Odm.textures/Thre.bmp
+	map_Kd OutE3.Odm.textures/Thre.bmp
+	
+newmtl thctrw2
+	map_Ka OutE3.Odm.textures/THctrW2.bmp
+	map_Kd OutE3.Odm.textures/THctrW2.bmp
+	
+newmtl thle
+	map_Ka OutE3.Odm.textures/THle.bmp
+	map_Kd OutE3.Odm.textures/THle.bmp
+	
+newmtl thctr
+	map_Ka OutE3.Odm.textures/THctr.bmp
+	map_Kd OutE3.Odm.textures/THctr.bmp
+	
+newmtl bemv32a
+	map_Ka OutE3.Odm.textures/BemV32a.bmp
+	map_Kd OutE3.Odm.textures/BemV32a.bmp
+	
+newmtl bemv32b
+	map_Ka OutE3.Odm.textures/BemV32b.bmp
+	map_Kd OutE3.Odm.textures/BemV32b.bmp
+	
+newmtl pxstrwbx
+	map_Ka OutE3.Odm.textures/PxstrwBx.bmp
+	map_Kd OutE3.Odm.textures/PxstrwBx.bmp
+	
+newmtl bemh32a
+	map_Ka OutE3.Odm.textures/BemH32a.bmp
+	map_Kd OutE3.Odm.textures/BemH32a.bmp
+	
+newmtl bemvwal
+	map_Ka OutE3.Odm.textures/BemVwal.bmp
+	map_Kd OutE3.Odm.textures/BemVwal.bmp
+	
+newmtl granite
+	map_Ka OutE3.Odm.textures/Granite.bmp
+	map_Kd OutE3.Odm.textures/Granite.bmp
+	
+newmtl bemdorb
+	map_Ka OutE3.Odm.textures/BemDorB.bmp
+	map_Kd OutE3.Odm.textures/BemDorB.bmp
+	
+newmtl wood012
+	map_Ka OutE3.Odm.textures/WOOD012.bmp
+	map_Kd OutE3.Odm.textures/WOOD012.bmp
+	
+newmtl t1wl1rea
+	map_Ka OutE3.Odm.textures/T1wl1REa.bmp
+	map_Kd OutE3.Odm.textures/T1wl1REa.bmp
+	
+newmtl t1wl1lea1
+	map_Ka OutE3.Odm.textures/T1wl1LEa1.bmp
+	map_Kd OutE3.Odm.textures/T1wl1LEa1.bmp
+	
+newmtl t1w11a
+	map_Ka OutE3.Odm.textures/t1w11a.bmp
+	map_Kd OutE3.Odm.textures/t1w11a.bmp
+	
+newmtl t1wl1cts
+	map_Ka OutE3.Odm.textures/T1wl1ctS.bmp
+	map_Kd OutE3.Odm.textures/T1wl1ctS.bmp
+	
+newmtl t1wl1lea
+	map_Ka OutE3.Odm.textures/T1wl1LEa.bmp
+	map_Kd OutE3.Odm.textures/T1wl1LEa.bmp
+	
+newmtl bemstarb
+	map_Ka OutE3.Odm.textures/BemStarB.bmp
+	map_Kd OutE3.Odm.textures/BemStarB.bmp
+	
+newmtl bemob2
+	map_Ka OutE3.Odm.textures/BemOB2.bmp
+	map_Kd OutE3.Odm.textures/BemOB2.bmp
+	
+newmtl crside
+	map_Ka OutE3.Odm.textures/CRSIDE.bmp
+	map_Kd OutE3.Odm.textures/CRSIDE.bmp
+	
+newmtl bemsv32a
+	map_Ka OutE3.Odm.textures/BemSV32a.bmp
+	map_Kd OutE3.Odm.textures/BemSV32a.bmp
+	
+newmtl bemstara
+	map_Ka OutE3.Odm.textures/BemStarA.bmp
+	map_Kd OutE3.Odm.textures/BemStarA.bmp
+	
+newmtl bemdk3
+	map_Ka OutE3.Odm.textures/BEMDK3.bmp
+	map_Kd OutE3.Odm.textures/BEMDK3.bmp
+	
+newmtl cbrdbrck
+	map_Ka OutE3.Odm.textures/CbRdbrck.bmp
+	map_Kd OutE3.Odm.textures/CbRdbrck.bmp
+	
+newmtl thuniq1
+	map_Ka OutE3.Odm.textures/THUniq1.bmp
+	map_Kd OutE3.Odm.textures/THUniq1.bmp
+	
+newmtl training
+	map_Ka OutE3.Odm.textures/TRAINING.bmp
+	map_Kd OutE3.Odm.textures/TRAINING.bmp
+	
+newmtl thctrw1
+	map_Ka OutE3.Odm.textures/THctrW1.bmp
+	map_Kd OutE3.Odm.textures/THctrW1.bmp
+	
+newmtl self-all
+	map_Ka OutE3.Odm.textures/SELF-ALL.bmp
+	map_Kd OutE3.Odm.textures/SELF-ALL.bmp
+	
+newmtl storemid
+	map_Ka OutE3.Odm.textures/STOREMID.bmp
+	map_Kd OutE3.Odm.textures/STOREMID.bmp
+	
+newmtl t1wl5lec
+	map_Ka OutE3.Odm.textures/T1wl5LEc.bmp
+	map_Kd OutE3.Odm.textures/T1wl5LEc.bmp
+	
+newmtl t1f1
+	map_Ka OutE3.Odm.textures/t1f1.bmp
+	map_Kd OutE3.Odm.textures/t1f1.bmp
+	
+newmtl t1d3
+	map_Ka OutE3.Odm.textures/t1d3.bmp
+	map_Kd OutE3.Odm.textures/t1d3.bmp
+	
+newmtl t1wl4spb
+	map_Ka OutE3.Odm.textures/T1wl4SpB.bmp
+	map_Kd OutE3.Odm.textures/T1wl4SpB.bmp
+	
+newmtl t1c3
+	map_Ka OutE3.Odm.textures/t1c3.bmp
+	map_Kd OutE3.Odm.textures/t1c3.bmp
+	
+newmtl cbeam2
+	map_Ka OutE3.Odm.textures/Cbeam2.bmp
+	map_Kd OutE3.Odm.textures/Cbeam2.bmp
+	
+newmtl tav128wl:i
+	d 0.3
+	Tr 0.7
+	map_Ka OutE3.Odm.textures/TAV128WL.bmp
+	map_Kd OutE3.Odm.textures/TAV128WL.bmp
+	
+newmtl bemstra1
+	map_Ka OutE3.Odm.textures/BemStrA1.bmp
+	map_Kd OutE3.Odm.textures/BemStrA1.bmp
+	
+newmtl bemhwal1:i
+	d 0.3
+	Tr 0.7
+	map_Ka OutE3.Odm.textures/BemHwal1.bmp
+	map_Kd OutE3.Odm.textures/BemHwal1.bmp
+	
+newmtl oflr
+	map_Ka OutE3.Odm.textures/OFlr.bmp
+	map_Kd OutE3.Odm.textures/OFlr.bmp
+	
+newmtl tavldyre
+	map_Ka OutE3.Odm.textures/TAVLDYRE.bmp
+	map_Kd OutE3.Odm.textures/TAVLDYRE.bmp
+	
+newmtl tavldyle
+	map_Ka OutE3.Odm.textures/TAVLDYLE.bmp
+	map_Kd OutE3.Odm.textures/TAVLDYLE.bmp
+	
+newmtl tavctr
+	map_Ka OutE3.Odm.textures/TAVCTR.bmp
+	map_Kd OutE3.Odm.textures/TAVCTR.bmp
+	
+newmtl bdksv16a
+	map_Ka OutE3.Odm.textures/BdkSV16a.bmp
+	map_Kd OutE3.Odm.textures/BdkSV16a.bmp
+	
+newmtl blksmmid
+	map_Ka OutE3.Odm.textures/BLKSMMID.bmp
+	map_Kd OutE3.Odm.textures/BLKSMMID.bmp
+	
+newmtl thsmdr
+	map_Ka OutE3.Odm.textures/THSmDr.bmp
+	map_Kd OutE3.Odm.textures/THSmDr.bmp
