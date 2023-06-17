@@ -1,9 +1,8 @@
-﻿using UIView.Model;
-using UIView.Presenter;
-using UIView.View;
-using UnityEngine;
+﻿using UIView.InventoryUI.Presenter;
+using UIView.InventoryUI.View;
+using UIView.Model;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public class ItemPresenterFactory
     {

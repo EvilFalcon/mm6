@@ -1,7 +1,7 @@
-﻿using UIView.View;
+﻿using UIView.InventoryUI.View;
 using UnityEngine;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public class ItemViewFactory
     {

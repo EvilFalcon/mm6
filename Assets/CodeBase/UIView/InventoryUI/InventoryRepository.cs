@@ -1,9 +1,8 @@
 using System.Collections.Generic;
-using Items;
 using UIView.Model;
 using UnityEngine;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public class InventoryRepository
     {

@@ -1,11 +1,11 @@
 ﻿using Items;
+using UIView.InventoryUI.Presenter;
 using UIView.Model;
-using UIView.Presenter;
 using UnityEngine;
 
-namespace UIView.Service
+namespace UIView.InventoryUI.Service
 {
-    public class InventoryService
+    public class InventoryServiceItemAdditions
     {
         private readonly ItemFillPlacer _itemFillPlacer;
         private readonly SpriteFactory _spriteFactory;
@@ -13,7 +13,7 @@ namespace UIView.Service
         private readonly InventoryRepository _repository;
         private readonly InventoryPresenter _presenter;
 
-        public InventoryService(
+        public InventoryServiceItemAdditions(
             InventoryRepository repository,
             InventoryPresenter presenter,
             ItemFillPlacer itemFillPlacer,

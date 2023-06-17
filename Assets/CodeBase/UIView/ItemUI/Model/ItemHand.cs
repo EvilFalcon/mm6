@@ -6,9 +6,9 @@ namespace UIView.ItemUI.Model
     {
         public Item Item { get; }
 
-      //  public ItemHand(Item item,Ve)
-      //  {
-      //      Item = item;
-      //  }
+        public ItemHand(Item item,Ve)
+        {
+            Item = item;
+        }
     }
 }

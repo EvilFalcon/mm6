@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
-namespace UIView.View
+namespace UIView.InventoryUI.View
 {
     [RequireComponent(typeof(Image))]
     public class ItemView : MonoBehaviour
@@ -18,7 +18,7 @@ namespace UIView.View
         public void SetParent(RectTransform rectTransform)
         {
             _rectTransform.parent = rectTransform;
-        }
+        } 
         
         public void SetSprite(Sprite sprite)
         {
