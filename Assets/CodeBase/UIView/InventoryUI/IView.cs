@@ -1,6 +1,6 @@
 ﻿using UIView.Model;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public interface IView
     {

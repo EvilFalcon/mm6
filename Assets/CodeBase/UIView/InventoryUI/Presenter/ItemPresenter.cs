@@ -1,9 +1,9 @@
 ﻿using Data.Utils;
+using UIView.InventoryUI.View;
 using UIView.Model;
-using UIView.View;
 using UnityEngine;
 
-namespace UIView.Presenter
+namespace UIView.InventoryUI.Presenter
 {
     public class ItemPresenter : IPresenter
     {

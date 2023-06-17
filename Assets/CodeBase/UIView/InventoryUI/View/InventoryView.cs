@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace UIView.View
+namespace UIView.InventoryUI.View
 {
     public class InventoryView : MonoBehaviour, IView
     {

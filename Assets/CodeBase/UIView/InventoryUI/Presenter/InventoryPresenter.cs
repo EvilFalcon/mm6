@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using UIView.InventoryUI.View;
 using UIView.Model;
-using UIView.View;
 
-namespace UIView.Presenter
+namespace UIView.InventoryUI.Presenter
 {
     public class InventoryPresenter : IPresenter
     {

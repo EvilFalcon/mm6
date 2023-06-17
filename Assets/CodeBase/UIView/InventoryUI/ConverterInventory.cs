@@ -1,7 +1,7 @@
 ﻿using Data.Utils;
 using UnityEngine;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public class ConverterInventory
     {

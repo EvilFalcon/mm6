@@ -1,4 +1,4 @@
-﻿namespace UIView
+﻿namespace UIView.InventoryUI
 {
     public interface IPresenter
     {

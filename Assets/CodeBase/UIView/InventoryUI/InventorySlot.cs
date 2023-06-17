@@ -1,7 +1,7 @@
 ﻿using System;
 using Items;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public class InventorySlot
     {

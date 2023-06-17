@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UIView
+namespace UIView.InventoryUI
 {
     public class SpriteFactory
     {
