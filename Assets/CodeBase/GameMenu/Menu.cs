@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 namespace GameMenu
@@ -9,17 +8,17 @@ namespace GameMenu
 
         private void Awake()
         {
-           // throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         private void OnEnable()
         {
-           // throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         private void OnDisable()
         {
-           // throw new NotImplementedException();
+            // throw new NotImplementedException();
         }
 
         public void OloenStartMenuPanel()

@@ -27,7 +27,7 @@ namespace Infrastructure.AssetManagement
 
             while (!waitNextScene.isDone)
                 yield return null;
-
+            
             onLoaded?.Invoke();
         }
     }

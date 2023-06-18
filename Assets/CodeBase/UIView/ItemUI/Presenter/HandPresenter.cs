@@ -1,7 +1,5 @@
-﻿using UIView.ItemUI.View;
-using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.InputSystem.Controls;
+﻿using UIView.ItemUI.Model;
+using UIView.ItemUI.View;
 
 namespace UIView.ItemUI.Presenter
 {
@@ -9,15 +7,13 @@ namespace UIView.ItemUI.Presenter
     {
         private readonly HandView _view;
 
-        public HandPresenter(HandView view, Sprite sprite)
+        public HandPresenter(HandView view)
         {
             _view = view;
-            _view.SetSprite(sprite);
         }
 
         public void Enable()
         {
-            Update(Mouse.current.position);
             _view.Show();
         }
 
@@ -26,9 +22,9 @@ namespace UIView.ItemUI.Presenter
             _view.Hide();
         }
 
-        public void Update(Vector2Control position)
+        public void SetItem(ItemHand itemHand)
         {
-            _view.SetPosition(position.value);
+            _view.SetSprite(itemHand.Sprite);
         }
     }
 }

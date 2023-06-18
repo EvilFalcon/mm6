@@ -9,10 +9,7 @@ namespace ComponentVisitor
     {
         private List<ItemName> _components = new List<ItemName>();
         private ItemName[] _sortedNames;
-
-        public string Default => GetNameItem();
-        public string Postfix { get; private set; }
-
+        
         private ItemName[] SortedNames => _sortedNames
             ??= _components
                 .OrderBy(component => component.Order)

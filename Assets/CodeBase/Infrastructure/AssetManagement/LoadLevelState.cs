@@ -28,7 +28,7 @@ namespace Infrastructure.AssetManagement
 
         private void OnLoaded()
         {
-            var playerInitailPoint = GameObject.FindObjectOfType<PlayerInitailPoint>();
+            var playerInitailPoint = Object.FindObjectOfType<PlayerInitailPoint>();
             GameObject player = Instantiate(PlayerPathPrefab, playerInitailPoint.transform.position);
         }               
 

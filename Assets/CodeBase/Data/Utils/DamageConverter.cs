@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Utils
+namespace Data.Utils
 {
     public class DamageConverter
     {

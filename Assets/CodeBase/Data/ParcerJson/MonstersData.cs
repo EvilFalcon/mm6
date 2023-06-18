@@ -1,6 +1,5 @@
 ﻿using System;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace Data.ParcerJson
 {
@@ -48,7 +47,7 @@ namespace Data.ParcerJson
         public string Picture => _picture;
         public string Name => _name;
         public int Level => _level;
-        public int HP => _hP;
+        public int HealthPoint => _hP;
         public int ArmorClass => _armorClass;
         public int EXP => _eXp;
         public string Treasure => _treasure;

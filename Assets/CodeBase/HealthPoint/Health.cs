@@ -21,7 +21,7 @@ namespace HealthPoint
 
         public int Max => GetMaxHealth();
         public int Value { get; private set; }
-        private int _thresholdOfDeath = 0;
+        private int _thresholdOfDeath;
         private int _min;
 
         private int GetMaxHealth()
@@ -34,7 +34,7 @@ namespace HealthPoint
 
             if (_thresholdOfDeath > 0)
                 _thresholdOfDeath *= -1;
-            
+
             return healthVisitor.Health + Effect.Get(enduranceVisitor.Value);
         }
 

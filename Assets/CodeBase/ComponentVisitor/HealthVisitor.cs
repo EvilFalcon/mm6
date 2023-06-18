@@ -1,5 +1,4 @@
-﻿using AttackSystem;
-using Items.ItemComponent.ItemComponentInfo;
+﻿using Items.ItemComponent.ItemComponentInfo;
 
 namespace ComponentVisitor
 {

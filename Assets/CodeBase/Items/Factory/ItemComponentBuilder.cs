@@ -7,7 +7,6 @@ using Items.ItemComponent.ItemComponentInfo;
 using Items.ItemComponent.WeaponComponent;
 using Items.ItemComponent.WeaponComponent.DamageType;
 using PlayerScripts.PlayerComponent.Resistrs;
-using Utils;
 
 namespace Items.Factory
 {

@@ -48,7 +48,6 @@ namespace UIView.InventoryUI.Service
                 InventoryItem itemInventory = Create(item, newRect, sprite);
                 _repository.SetItem(itemInventory);
                 _presenter.Add(itemInventory);
-                _presenter.Update();
                 return true;
             }
 

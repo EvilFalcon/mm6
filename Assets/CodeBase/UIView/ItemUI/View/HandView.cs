@@ -1,11 +1,29 @@
 ﻿using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 namespace UIView.ItemUI.View
 {
+    [RequireComponent(
+        typeof(RectTransform),
+        typeof(Image))]
     public class HandView : MonoBehaviour
     {
         private Image _image;
+        private RectTransform _rectTransform;
+
+        private void Awake()
+        {
+            _image = GetComponent<Image>();
+            _rectTransform = GetComponent<RectTransform>();
+
+            Rigidbody2D rigidbody2D = GetComponent<Rigidbody2D>();
+        }
+
+        private void Update()
+        {
+            _rectTransform.anchoredPosition = Mouse.current.position.value;
+        }
 
         public void Show()
         {
@@ -20,11 +38,6 @@ namespace UIView.ItemUI.View
         public void SetSprite(Sprite sprite)
         {
             _image.sprite = sprite;
-        }
-
-        public void SetPosition(Vector2 position)
-        {
-            transform.position = new Vector3(position.x, position.y);
         }
     }
 }

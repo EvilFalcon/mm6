@@ -1,6 +1,5 @@
 ﻿using System;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 namespace Data.ParcerJson
 {
@@ -25,7 +24,7 @@ namespace Data.ParcerJson
         public string SkillGroup => _skillGroup;
         public string LevelItem => _levelItem;
 
-        public int[] Chance => new int[]
+        public int[] Chance => new[]
         {
             _chanceByLevel1,
             _chanceByLevel2,

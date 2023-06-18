@@ -25,10 +25,6 @@ namespace Items
         public string Description => GetDescription();
         public int Price => GetPrice();
 
-        private void Awake()
-        {
-        }
-
         public void AddComponent(CompositeComponent component, string typeBonus, int bonusId)
         {
             TypeBonus = typeBonus;
